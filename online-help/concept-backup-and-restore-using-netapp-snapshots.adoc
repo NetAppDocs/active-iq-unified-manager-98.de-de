@@ -1,0 +1,25 @@
+---
+permalink: online-help/concept-backup-and-restore-using-netapp-snapshots.html 
+sidebar: sidebar 
+keywords:  
+summary: Ein NetApp Snapshot Backup erstellt ein zeitpunktgenaues Image der Unified Manager Datenbank- und Konfigurationsdateien, mit denen eine Wiederherstellung im Falle eines Systemausfalls oder eines Datenverlusts möglich ist. Sie planen, ein Snapshot Backup regelmäßig auf ein Volume auf einem Ihrer ONTAP Cluster zu schreiben, sodass Sie immer eine aktuelle Kopie haben. 
+---
+= Backup und Restore mit NetApp Snapshots
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Ein NetApp Snapshot Backup erstellt ein zeitpunktgenaues Image der Unified Manager Datenbank- und Konfigurationsdateien, mit denen eine Wiederherstellung im Falle eines Systemausfalls oder eines Datenverlusts möglich ist. Sie planen, ein Snapshot Backup regelmäßig auf ein Volume auf einem Ihrer ONTAP Cluster zu schreiben, sodass Sie immer eine aktuelle Kopie haben.
+
+[NOTE]
+====
+Diese Funktion ist nur verfügbar, wenn Unified Manager auf einem Red hat Enterprise Linux- oder CentOS Linux-Server installiert ist.
+
+====
+Snapshot Backups dauern sehr wenig Zeit, in der Regel nur ein paar Minuten, und die Unified Manager Datenbank ist innerhalb eines sehr kurzen Zeitrahmens gesperrt, sodass Ihre Installation nur sehr wenig unterbrochen wird. Das Image verbraucht nur wenig Storage und der Performance-Overhead ist minimal, da seit der letzten Snapshot Kopie nur Änderungen an Dateien aufgezeichnet werden. Da der Snapshot auf einem ONTAP Cluster erstellt wird, können Sie bei Bedarf mithilfe anderer NetApp Funktionen wie SnapMirror sekundäre Sicherungsfunktionen erstellen.
+
+Vor Beginn eines Backup-Vorgangs führt Unified Manager eine Integritätsprüfung durch, um zu überprüfen, ob das Zielsystem verfügbar ist.
+
+Beachten Sie, dass Sie ein Snapshot Backup nur auf derselben Version von Unified Manager wiederherstellen können. Wenn Sie beispielsweise ein Backup auf Unified Manager 9.8 erstellt haben, kann das Backup nur auf Unified Manager 9.8 Systemen wiederhergestellt werden.

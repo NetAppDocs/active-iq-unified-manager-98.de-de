@@ -1,0 +1,30 @@
+---
+permalink: online-help/reference-relationship-last-1-month-transfer-rate-view.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Die Beziehung: Die Ansicht der letzten 1 Monate Transferrate ermöglicht Ihnen, die Menge des Datenvolumen, das täglich für Volumes in asynchronen Beziehungen übertragen wird, zu analysieren. Auf dieser Seite finden Sie auch Details zu den täglichen Volume-Transfers und die Zeit, die erforderlich ist, um den Transfervorgang abzuschließen.' 
+---
+= Beziehung: Letzte 1 Monat Transferrate Ansicht
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Die Beziehung: Die Ansicht der letzten 1 Monate Transferrate ermöglicht Ihnen, die Menge des Datenvolumen, das täglich für Volumes in asynchronen Beziehungen übertragen wird, zu analysieren. Auf dieser Seite finden Sie auch Details zu den täglichen Volume-Transfers und die Zeit, die erforderlich ist, um den Transfervorgang abzuschließen.
+
+Mit den Steuerelementen oben auf der Seite können Sie eine bestimmte Ansicht auswählen (für Zustand, Leistung, Kapazität usw.). Führen Sie Suchen durch, um bestimmte Objekte zu finden, erstellen und anwenden Sie Filter, um die Liste der angezeigten Daten einzugrenzen, Spalten auf der Seite hinzuzufügen/zu entfernen/neu zu ordnen, Und exportieren Sie die Daten auf der Seite in A `.csv`, `.pdf`, Oder `.xlsx` Datei: Nachdem Sie die Seite angepasst haben, können Sie die Ergebnisse als benutzerdefinierte Ansicht speichern und anschließend einen Bericht dieser Daten erstellen und regelmäßig per E-Mail senden.
+
+* *Gesamtübertragungsgröße*
++
+Zeigt die Gesamtgröße der Volume-Übertragung in Gigabyte an.
+
+* *Tag*
++
+Zeigt den Tag an, an dem die Volume-Übertragung initiiert wurde.
+
+* *Endzeit*
++
+Zeigt die Endzeit der Volume-Übertragung mit dem Datum an.
+
+

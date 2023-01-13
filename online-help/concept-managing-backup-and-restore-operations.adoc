@@ -1,0 +1,56 @@
+---
+permalink: online-help/concept-managing-backup-and-restore-operations.html 
+sidebar: sidebar 
+keywords: backup types 
+summary: 'Sie können Backups von Unified Manager erstellen und die Wiederherstellungsfunktion verwenden, um das Backup im Falle eines Systemausfalls oder Datenverlust auf demselben \(local\)-System oder einem neuen \(Remote\)-System wiederherzustellen.' 
+---
+= Managen von Backup- und Restore-Vorgängen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie können Backups von Unified Manager erstellen und die Wiederherstellungsfunktion verwenden, um das Backup im Falle eines Systemausfalls oder Datenverlust auf dasselbe (lokales) System oder ein neues (Remote-) System wiederherzustellen.
+
+Je nach Betriebssystem, auf dem Sie Unified Manager installiert haben, und basierend auf der Anzahl der zu verwaltenden Cluster und Nodes gibt es drei Backup- und Restore-Methoden:
+
+|===
+| Betriebssystem | Größe der Implementierung | Empfohlene Sicherungsmethode 
+
+
+ a| 
+VMware vSphere
+ a| 
+Alle
+ a| 
+VMware Snapshot der virtuellen Unified Manager Appliance
+
+
+
+ a| 
+Red hat Enterprise Linux oder CentOS Linux
+ a| 
+Klein
+ a| 
+Unified Manager MySQL Datenbank-Dump
+
+
+
+ a| 
+ a| 
+Groß
+ a| 
+NetApp Snapshot der Unified Manager Datenbank
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+Alle
+ a| 
+Unified Manager MySQL Datenbank-Dump
+
+|===
+Diese verschiedenen Methoden werden in den folgenden Abschnitten beschrieben.

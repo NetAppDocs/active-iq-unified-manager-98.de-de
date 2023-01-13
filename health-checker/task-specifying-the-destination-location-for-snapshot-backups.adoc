@@ -1,0 +1,51 @@
+---
+permalink: health-checker/task-specifying-the-destination-location-for-snapshot-backups.html 
+sidebar: sidebar 
+keywords:  
+summary: Sie konfigurieren den Zielspeicherort für Unified Manager Snapshot Backups auf einem Volume, das Sie bereits in einem der ONTAP Cluster konfiguriert haben. Sie definieren den Speicherort von der Unified Manager-Wartungskonsole aus. 
+---
+= Festlegen des Zielorts für Snapshot-Backups
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie konfigurieren den Zielspeicherort für Unified Manager Snapshot Backups auf einem Volume, das Sie bereits in einem der ONTAP Cluster konfiguriert haben. Sie definieren den Speicherort von der Unified Manager-Wartungskonsole aus.
+
+
+
+== Bevor Sie beginnen
+
+* Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host verfügen, auf dem Unified Manager installiert ist.
+* Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
+* Sie müssen über die IP-Adresse für das Cluster-Management, den Namen der Storage-VM, den Namen des Volume und den Benutzernamen und das Kennwort des Speichersystems verfügen.
+* Sie müssen das Volume auf den Unified Manager Host angehängt haben, und Sie müssen den Mount-Pfad aufweisen.
+
+
+
+
+== Schritte
+
+. Stellen Sie mithilfe von Secure Shell eine Verbindung mit der IP-Adresse oder dem vollständig qualifizierten Domänennamen des Unified Manager-Systems her.
+. Melden Sie sich beim System mit dem Wartungs-Benutzer (umadmin) und dem Passwort an.
+. Geben Sie den Befehl ein `maintenance_console` Und drücken Sie die Eingabetaste.
+. Geben Sie in der Wartungskonsole *Hauptmenü* die Nummer für die Option *Backup Restore* ein.
+. Geben Sie die Nummer für * NetApp Snapshot Backup konfigurieren* ein.
+. Geben Sie die Nummer für *Konfiguration für NFS* ein.
+. Überprüfen Sie die Informationen, die Sie angeben müssen, und geben Sie dann die Nummer für *Backup Configuration Details* ein.
+. Um das Volume zu identifizieren, auf dem der Snapshot geschrieben werden soll, geben Sie die IP-Adresse der Cluster Management-Schnittstelle, den Namen der Storage VM, den Namen des Volumes, Benutzernamen und Passwort des Storage-Systems und den Mount-Pfad ein.
+. Überprüfen Sie diese Informationen, und geben Sie ein `y`.
++
+Das System führt die folgenden Aufgaben aus:
+
++
+** Stellt die Verbindung zum Cluster her
+** Stoppt alle Dienste
+** Erstellt ein neues Verzeichnis im Volume und kopiert die Konfigurationsdateien der Unified Manager Datenbank
+** Löscht die Dateien aus Unified Manager und erstellt eine Symlink zum neuen Datenbankverzeichnis
+** Startet alle Dienste neu
+
+
+. Beenden Sie die Wartungskonsole und starten Sie die Benutzeroberfläche von Unified Manager, um den Snapshot Backup-Zeitplan zu erstellen, sofern Sie dies noch nicht getan haben.
+

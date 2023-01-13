@@ -1,0 +1,99 @@
+---
+permalink: online-help/reference-snapmirror-and-vault-relationship-events.html 
+sidebar: sidebar 
+keywords:  
+summary: Ereignisse der SnapMirror- und Vault-Beziehungen versorgen Sie mit Informationen zum Status Ihrer asynchronen SnapMirror und Vault-Beziehungen. So können Sie das System auf potenzielle Probleme überwachen. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad. 
+---
+= Ereignisse der SnapMirror und Vault Beziehungen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Ereignisse der SnapMirror- und Vault-Beziehungen versorgen Sie mit Informationen zum Status Ihrer asynchronen SnapMirror und Vault-Beziehungen. So können Sie das System auf potenzielle Probleme überwachen. Ereignisse sind nach Impact Area gruppiert und umfassen den Ereignis- und Trap-Namen, den Impact-Level, den Quelltyp und den Schweregrad.
+
+
+
+== Aufprallbereich: Schutz
+
+|===
+| Ereignisname (Trap-Name) | Auswirkungen | Typ der Quelle | Schweregrad 
+
+
+ a| 
+Asynchroner Spiegel und Vault ungesund (OktMirrorVaultRelationshipUngesund)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Warnung
+
+
+
+ a| 
+Asynchrones Spiegeln und Vault broken-off(ocumEvtMirrorVaultRelationshipSteateBrokenoff)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Fehler
+
+
+
+ a| 
+Asynchrone Spiegelung und Vault Initialisieren fehlgeschlagen (OktEvtMirrorVaultRelationshierInitialisierenFailed)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Fehler
+
+
+
+ a| 
+Asynchrones Spiegeln und Vault-Update fehlgeschlagen (ocumEvtMirrorVaultRelationshipUpdatefehlgeschlagen)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Fehler
+
+
+
+ a| 
+Asynchronous Mirror und Vault lag Fehler (ocumEvtMirrorVaultRelationshipLagerFehler)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Fehler
+
+
+
+ a| 
+Asynchronous Mirror und Vault lag Warnung(OccumEvtMirrorVaultRelationshipLagerWarnung)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Warnung
+
+
+
+ a| 
+Resync für asynchronen Spiegel und Vault fehlgeschlagen (OcumEvtMirrorVaultRelationshipResyncFailed)
+ a| 
+Dar
+ a| 
+SnapMirror Beziehung
+ a| 
+Fehler
+
+|===

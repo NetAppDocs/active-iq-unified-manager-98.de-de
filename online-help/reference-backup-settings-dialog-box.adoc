@@ -1,0 +1,66 @@
+---
+permalink: online-help/reference-backup-settings-dialog-box.html 
+sidebar: sidebar 
+keywords:  
+summary: Legen Sie den Backup-Zeitplan, die Aufbewahrungsanzahl und bei Verwendung der Backup-Methode für MySQL Database Dump den Backup-Pfad für eine ausgewählte Unified Manager Instanz fest. 
+---
+= Dialogfeld „Backup-Einstellungen“
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Legen Sie den Backup-Zeitplan, die Aufbewahrungsanzahl und bei Verwendung der Backup-Methode für MySQL Database Dump den Backup-Pfad für eine ausgewählte Unified Manager Instanz fest.
+
+Sie können die folgenden Datenbank-Backup-Einstellungen ändern:
+
+* *Pfad*
++
+Wenn Sie die Backup-Methode für die MySQL-Datenbank-Dump verwenden, gibt dieses Feld den Pfad an den Speicherort an, an dem Sie die Sicherungsdateien speichern. Bei Verwendung der Snapshot Backup-Methode zeigt dieser Speicherort das Cluster, die Storage VM und das Volume an, auf dem das Backup gespeichert wird.
+
++
+Die folgende Tabelle gibt das Format des Backup-Pfads und die Standardstandorte für verschiedene Betriebssysteme an:
+
++
+|===
+| Host-Betriebssystem | Format des Backup-Pfads 
+
+
+ a| 
+Virtuelle Appliance
+ a| 
+`/opt/netapp/data/ocum-backup`
+
+
+
+ a| 
+Red hat Enterprise Linux oder CentOS Linux
+ a| 
+`/data/ocum-backup`
+
+
+
+ a| 
+Microsoft Windows
+ a| 
+`C:\ProgramData\NetApp\OnCommandAppData\ocum\backup\`
+
+|===
+* *Anzahl Der Einbehalt*
++
+Gibt die maximale Anzahl von Backups an, die von Unified Manager beibehalten werden sollen. Der Standardwert ist 10.
+
+* *Tagesablauf*
++
+Gibt den täglichen Backup-Zeitplan mit der Zeit an.
+
+* *Geplante Woche*
++
+Gibt den wöchentlichen Backup-Zeitplan mit dem Tag und der Uhrzeit an.
+
+* *Keine*
++
+Gibt an, dass keine Backups erstellt werden.
+
+

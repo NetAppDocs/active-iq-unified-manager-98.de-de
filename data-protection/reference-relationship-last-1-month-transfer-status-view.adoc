@@ -1,0 +1,66 @@
+---
+permalink: data-protection/reference-relationship-last-1-month-transfer-status-view.html 
+sidebar: sidebar 
+keywords:  
+summary: 'Die Beziehung: Die Ansicht „Transferstatus der letzten 1 Monate“ ermöglicht Ihnen die Analyse der Trends der Volume-Übertragung über einen Zeitraum für Volumes in asynchronen Beziehungen. Auf dieser Seite wird außerdem angezeigt, ob die Volume-Übertragung erfolgreich war oder nicht.' 
+---
+= Beziehung: Letzte 1 Monat Transfer Status Ansicht
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Die Beziehung: Die Ansicht „Transferstatus der letzten 1 Monate“ ermöglicht Ihnen die Analyse der Trends der Volume-Übertragung über einen Zeitraum für Volumes in asynchronen Beziehungen. Auf dieser Seite wird außerdem angezeigt, ob die Volume-Übertragung erfolgreich war oder nicht.
+
+Mit den Steuerelementen oben auf der Seite können Sie eine bestimmte Ansicht auswählen (für Zustand, Leistung, Kapazität usw.). Führen Sie Suchen durch, um bestimmte Objekte zu finden, erstellen und anwenden Sie Filter, um die Liste der angezeigten Daten einzugrenzen, Spalten auf der Seite hinzuzufügen/zu entfernen/neu zu ordnen, Und exportieren Sie die Daten auf der Seite in A `.csv`, `.pdf`, Oder `.xlsx` Datei: Nachdem Sie die Seite angepasst haben, können Sie die Ergebnisse als benutzerdefinierte Ansicht speichern und anschließend einen Bericht dieser Daten erstellen und regelmäßig per E-Mail senden.
+
+* *Quellvolumen*
++
+Zeigt den Namen des Quell-Volumes an.
+
+* *Zielvolumen*
++
+Zeigt den Namen des Zieldatenträgers an.
+
+* *Operationstyp*
++
+Zeigt den Typ der Volume-Übertragung an.
+
+* *Operationsergebnis*
++
+Zeigt an, ob die Volume-Übertragung erfolgreich war.
+
+* *Startzeit Der Übertragung*
++
+Zeigt die Startzeit der Volume-Übertragung an.
+
+* *Endzeit Übertragen*
++
+Zeigt die Endzeit der Volume-Übertragung an.
+
+* *Transferdauer*
++
+Zeigt die Zeit an, die für die Durchführung der Volume-Übertragung benötigt wurde (in Stunden).
+
+* *Transfergröße*
++
+Zeigt die Größe (in MB) des übertragenen Volumes an.
+
+* *Quell-SVM*
++
+Zeigt den Namen der Storage Virtual Machine (SVM) an.
+
+* * Quellcluster*
++
+Zeigt den Quellcluster-Namen an.
+
+* *Ziel-SVM*
++
+Zeigt den Namen der Ziel-SVM an.
+
+* *Zielcluster*
++
+Zeigt den Ziel-Cluster-Namen an.
+
+

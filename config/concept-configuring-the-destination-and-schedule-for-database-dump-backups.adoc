@@ -1,0 +1,62 @@
+---
+permalink: config/concept-configuring-the-destination-and-schedule-for-database-dump-backups.html 
+sidebar: sidebar 
+keywords:  
+summary: Sie können die Backup-Einstellungen für die Backup-Dump-Datenbank von Unified Manager konfigurieren, um den Datenbank-Backup-Pfad, die Aufbewahrungsanzahl und den Backup-Zeitplan festzulegen. Sie können tägliche oder wöchentliche geplante Backups aktivieren. Standardmäßig werden geplante Backups deaktiviert, Sie sollten jedoch einen Backup-Zeitplan festlegen. 
+---
+= Konfigurieren des Ziels und Planen für Datenbank-Dump-Backups
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Sie können die Backup-Einstellungen für die Backup-Dump-Datenbank von Unified Manager konfigurieren, um den Datenbank-Backup-Pfad, die Aufbewahrungsanzahl und den Backup-Zeitplan festzulegen. Sie können tägliche oder wöchentliche geplante Backups aktivieren. Standardmäßig werden geplante Backups deaktiviert, Sie sollten jedoch einen Backup-Zeitplan festlegen.
+
+
+
+== Bevor Sie beginnen
+
+* Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
+* Sie müssen mindestens 150 GB Speicherplatz an dem Speicherort haben, den Sie als Backup-Pfad definieren.
++
+Es wird empfohlen, einen externen Standort zu verwenden, der sich außerhalb des Unified Manager-Hostsystems befindet.
+
+* Wenn Unified Manager auf einem Linux-System installiert ist, stellen Sie sicher, dass der Benutzer „`jboss`“ über Schreibberechtigungen in das Backup-Verzeichnis verfügt.
+* Sie sollten Backup-Vorgänge nicht so planen, dass sie unmittelbar nach dem Hinzufügen eines neuen Clusters ausgeführt werden, während Unified Manager historische Performance-Daten von 15 Tagen erfasst.
+
+
+
+
+== Über diese Aufgabe
+
+Mehr Zeit wird bei der ersten Durchführung eines Backups als bei nachfolgenden Backups benötigt, da es sich bei dem ersten Backup um ein Vollbackup handelt. Ein vollständiges Backup kann über 1 GB dauern und kann drei bis vier Stunden dauern. Nachfolgende Backups sind inkrementell und erfordern weniger Zeit.
+
+[NOTE]
+====
+Wenn Sie feststellen, dass die Anzahl der inkrementellen Backup-Dateien für den von Ihnen für Backups zugewiesenen Platz zu groß wird, können Sie regelmäßig ein neues vollständiges Backup erstellen, um das alte vollständige Backup und alle untergeordneten inkrementellen Dateien zu ersetzen. Als weitere Option möchten Sie die NetApp Snapshot Backup-Methode nutzen, wenn Unified Manager auf einem Linux-System installiert ist.
+
+====
+
+
+== Schritte
+
+. Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Datenbank-Backup*.
+. Klicken Sie auf der Seite *Datenbank-Backup* auf *Backup-Einstellungen*.
+. Konfigurieren Sie die entsprechenden Werte für einen Backup-Pfad, eine Aufbewahrungsanzahl und einen Zeitplan.
++
+Der Standardwert für die Aufbewahrungsanzahl ist 10; Sie können 0 verwenden, um unbegrenzte Backups zu erstellen.
+
+. Wählen Sie die Schaltfläche *geplante tägliche* oder *geplante Woche* und geben Sie die Terminplandetails an.
+. Klicken Sie Auf *Anwenden*.
+
+
+
+
+== Ergebnisse
+
+Backup-Dateien mit einem Datenbankdump werden auf Grundlage des Zeitplans erstellt. Die verfügbaren Sicherungsdateien finden Sie auf der Seite Datenbank-Backup.
+
+*Verwandte Informationen*
+
+https://kb.netapp.com/Advice_and_Troubleshooting/Data_Infrastructure_Management/OnCommand_Suite/How_to_start_a_new_Incremental_Backup_chain_within_ActiveIQ_Unified_Manager_versions_7.2_through_9.6["Wie man eine neue inkrementelle Backup-Kette innerhalb von Active IQ Unified Manager startet"^]

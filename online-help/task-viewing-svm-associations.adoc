@@ -1,0 +1,30 @@
+---
+permalink: online-help/task-viewing-svm-associations.html 
+sidebar: sidebar 
+keywords:  
+summary: Über die Seite Storage VM Associations können Sie vorhandene SVM-Verknüpfungen und ihre Eigenschaften anzeigen und feststellen, ob zusätzliche SVM-Zuordnungen erforderlich sind. 
+---
+= Anzeigen von SVM-Zuordnungen
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Über die Seite Storage VM Associations können Sie vorhandene SVM-Verknüpfungen und ihre Eigenschaften anzeigen und feststellen, ob zusätzliche SVM-Zuordnungen erforderlich sind.
+
+
+
+== Bevor Sie beginnen
+
+Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
+
+
+
+== Schritte
+
+. Klicken Sie im linken Navigationsbereich auf *Schutz* > *SVM-Zuordnungen*.
++
+Die Liste der SVM-Zuordnungen und ihrer Eigenschaften wird angezeigt.
+
+
