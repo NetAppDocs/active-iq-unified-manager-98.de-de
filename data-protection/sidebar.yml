@@ -1,6 +1,6 @@
 ---
 section: data-protection
-title: Sichern und Wiederherstellen von Daten
+title: d549fcac9e4340e7fb3d154a339f9c13
 entries:
 - title: Erstellen, Überwachen und Beheben von Sicherungsbeziehungen
   url: "/data-protection/concept-creating-and-monitoring-protection-relationships.html"
@@ -32,7 +32,7 @@ entries:
     - title: Sicherungsbeziehungen von der Seite Volume / Health Details neu synchronisieren
       url: "/data-protection/task-resynchronizing-protection-relationships-from-the-health-volume-details-page.html"
   - title: Behebung eines Schutzauftrags
-    pdf-filename: Behebung eines Sicherungsauftrags-Ausfalls (Datenschutz)
+    pdf-filename: daf5556e2cd44d363ebb94f982b54758
     url: "/data-protection/task-resolving-a-protection-job-failure.html"
     entries:
     - title: Identifizieren des Problems und Durchführen von Korrekturmaßnahmen für
@@ -41,7 +41,7 @@ entries:
   - title: Behebung von lag-Problemen
     url: "/data-protection/task-resolving-lag-issues.html"
 - title: Managen und Überwachen von Sicherungsbeziehungen
-  pdf-filename: Managen und Überwachen von Sicherungsbeziehungen (Datensicherung)
+  pdf-filename: 63c702324d7a2f1acfb2291776c09e62
   url: "/data-protection/concept-managing-and-monitoring-protection-relationships.html"
   entries:
   - title: Anzeigen von Volume-Sicherungsbeziehungen
@@ -145,8 +145,7 @@ entries:
   - title: Erneutes Versuch eines fehlgeschlagenen Schutzjobs
     url: "/data-protection/task-retrying-a-failed-protection-job.html"
   - title: Beschreibung der Fenster und Dialogfelder zu Sicherungsbeziehungen
-    pdf-filename: Beschreibung von Sicherungsbeziehungen Fenster und Dialogfeldern
-      (Datensicherung)
+    pdf-filename: 721e2c530014fb77b39a26e93e0ef94b
     url: "/data-protection/reference-description-of-protection-relationships-window-and-dialog-boxes.html"
     entries:
     - title: Seite „Ressourcen-Pools“
