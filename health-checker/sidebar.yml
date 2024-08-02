@@ -1,6 +1,6 @@
 ---
 section: health-checker
-title: 32d8b1bb1bdc5067bfbde495253b3469
+title: Überwachen und managen Sie den Cluster-Zustand
 entries:
 - title: Einführung in das Active IQ Unified Manager Monitoring des Systemzustands
   url: "/health-checker/concept-introduction-to-unified-manager-health-monitoring.html"
@@ -43,13 +43,13 @@ entries:
         Volumen
       url: "/health-checker/task-performing-suggested-remedial-actions-for-a-full-volume.html"
   - title: Verwalten von Systemzustandsschwellenwerten
-    pdf-filename: 0cdc2e43fd617d44b61e3c28d05ef9e7
+    pdf-filename: Verwalten von Systemzustandsschwellenwerten (Cluster-Zustand)
     url: "/health-checker/concept-managing-health-thresholds.html"
     entries:
     - title: Welche Schwellenwerte für den Zustand von Storage-Kapazität sind
       url: "/health-checker/concept-what-storage-capacity-health-thresholds-are.html"
     - title: Konfigurieren von globalen Schwellenwerteinstellungen für den Systemzustand
-      pdf-filename: a4d86585f88de3caa783eefc33f81448
+      pdf-filename: Konfigurieren der globalen Systemzustandsschwellenwerte (Cluster-Zustand)
       url: "/health-checker/task-configuring-global-health-threshold-settings.html"
       entries:
       - title: Konfigurieren von globalen Integritätsschwellenwerten für das Aggregat
@@ -68,11 +68,11 @@ entries:
     - title: Bearbeiten einzelner qtree-Statusschwellenwerte
       url: "/health-checker/task-editing-individual-qtree-health-threshold-settings.html"
   - title: Verwalten von Zielen für die Cluster-Sicherheit
-    pdf-filename: d399cb65a45975e7bdfbe00c026f9e54
+    pdf-filename: Management von Cluster-Sicherheitszielen (Cluster-Zustand)
     url: "/health-checker/concept-managing-cluster-security-objectives.html"
     entries:
     - title: Welche Sicherheitskriterien werden bewertet
-      pdf-filename: 595ab232cf3a33e7d9061971978c8478
+      pdf-filename: Welche Sicherheitskriterien werden bewertet (Cluster-Zustand)
       url: "/health-checker/concept-what-security-criteria-is-being-evaluated.html"
       entries:
       - title: Cluster-Compliance-Kategorien
@@ -103,13 +103,13 @@ entries:
     - title: Sicherheitsereignisse
       url: "/health-checker/reference-security-events.html"
   - title: Managen von Backup- und Restore-Vorgängen
-    pdf-filename: 99f7fc554597facf78ccd7bebb349a82
+    pdf-filename: Verwalten von Backup- und Restore-Vorgängen (Cluster-Zustand)
     url: "/health-checker/concept-managing-backup-and-restore-operations.html"
     entries:
     - title: Backup- und Wiederherstellungsprozess für die virtuelle Appliance
       url: "/health-checker/concept-backup-and-restore-on-virtual-appliance.html"
     - title: Sichern und Wiederherstellen mithilfe eines MySQL Datenbank-Dump
-      pdf-filename: 3b1058ff08792a3433d6a10b9fb8b6fe
+      pdf-filename: Backup und Wiederherstellung mit einem MySQL Datenbank Dump (Cluster-Zustand)
       url: "/health-checker/concept-backup-and-restore-using-a-mysql-database-dump.html"
       entries:
       - title: Konfigurieren des Ziels und Planen für Datenbank-Dump-Backups
@@ -121,7 +121,7 @@ entries:
       - title: Wiederherstellen einer MySQL-Datenbank-Sicherung unter Windows
         url: "/health-checker/task-restoring-a-mysql-database-backup-on-windows.html"
     - title: Backup und Restore mit NetApp Snapshots
-      pdf-filename: 534c8d4c808923383712e17e50530568
+      pdf-filename: Backup und Restore mithilfe von NetApp Snapshots (Cluster-Zustand)
       url: "/health-checker/concept-backup-and-restore-using-netapp-snapshots.html"
       entries:
       - title: Erstellung des Volumes, auf dem Backups gespeichert werden
@@ -135,7 +135,7 @@ entries:
     - title: Migration einer virtuellen Unified Manager Appliance zu einem Linux System
       url: "/health-checker/task-migrating-a-unified-manager-virtual-appliance-to-a-rhel-or-centos-system.html"
   - title: Verwalten von Skripten
-    pdf-filename: 41373b97896fa2cbe5f9c98d158879dc
+    pdf-filename: Verwalten von Skripten (Cluster-Zustand)
     url: "/health-checker/concept-managing-scripts.html"
     entries:
     - title: Funktionsweise von Skripten mit Warnmeldungen
@@ -147,11 +147,11 @@ entries:
     - title: Skriptausführung wird getestet
       url: "/health-checker/task-testing-script-execution.html"
   - title: Verwalten und Überwachen von Gruppen
-    pdf-filename: 8cb3de1dd32fe03b6b18b81a93da83e8
+    pdf-filename: Verwalten und Überwachen von Gruppen (Cluster-Zustand)
     url: "/health-checker/concept-managing-and-monitoring-groups.html"
     entries:
     - title: Allgemeines zu Gruppen
-      pdf-filename: ed4a47a0df5e1dccb40840219fa50571
+      pdf-filename: Allgemeines zu Gruppen (Cluster-Zustand)
       url: "/health-checker/concept-understanding-groups.html"
       entries:
       - title: Was eine Gruppe ist
@@ -217,7 +217,8 @@ entries:
     - title: Anmerkungsregeln neu anordnen
       url: "/health-checker/task-reordering-annotation-rules.html"
   - title: Was für ein Unified Manager-Wartungsfenster ist
-    pdf-filename: 458c6c03d066ca184930dd208d270f0f
+    pdf-filename: Ein Unified Manager-Wartungsfenster (Cluster-Systemzustand) wird
+      angezeigt.
     url: "/health-checker/concept-what-a-um-maintenance-window-is.html"
     entries:
     - title: Planen eines Wartungsfensters zum Deaktivieren der Cluster-Ereignisbenachrichtigungen
@@ -228,7 +229,7 @@ entries:
         sind
       url: "/health-checker/task-viewing-events-that-occurred-during-a-maintenance-window.html"
   - title: Verwalten von SAML-Authentifizierungseinstellungen
-    pdf-filename: b6a37febbfcd299253addfaef17d14d2
+    pdf-filename: Verwalten von SAML-Authentifizierungseinstellungen (Cluster-Zustand)
     url: "/health-checker/concept-managing-saml-authentication-settings-um.html"
     entries:
     - title: Anforderungen an Identitätsanbieter
@@ -268,7 +269,7 @@ entries:
     - title: Bestätigen und Beheben von Ereignissen
       url: "/health-checker/task-acknowledging-and-resolving-events.html"
     - title: Seite mit den Veranstaltungsdetails
-      pdf-filename: b18762187a76685e14050770c534b8bf
+      pdf-filename: Seite mit Event-Details (Cluster-Zustand)
       url: "/health-checker/reference-event-details-page.html"
       entries:
       - title: Das wird im Abschnitt „Ereignisinformationen“ angezeigt
