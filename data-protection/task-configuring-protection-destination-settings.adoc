@@ -15,18 +15,21 @@ Mithilfe des Dialogfelds „Advanced Destination Settings“ können Sie die Eff
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Standardmäßig stimmen die Effizienzeinstellungen mit denen des Quell-Volume überein. Ausgenommen sind Komprimierungseinstellungen in einer SnapVault-Beziehung, die standardmäßig deaktiviert sind.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie je nach Art der zu konfigurierende Beziehung entweder auf die Registerkarte *SnapMirror* oder auf die Registerkarte *SnapVault* im Dialogfeld *Schutz konfigurieren*.

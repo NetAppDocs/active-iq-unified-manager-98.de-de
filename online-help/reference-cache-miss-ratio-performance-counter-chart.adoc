@@ -19,6 +19,7 @@ Auf der unteren Seite der Kartenseite werden Informationen zum Mindest-, maximal
 
 
 
+[[cache-miss-ratio-total-counter-chart]]
 == Cache-Miss-Verhältnis - Zählerdiagramm insgesamt
 
 Zeigt den Prozentsatz der Leseanforderungen von Client-Anwendungen an, die von der Festplatte zurückgegeben werden, anstatt vom Cache zurückgegeben zu werden.
@@ -27,6 +28,7 @@ Diese Diagrammoption gilt nur, wenn das ausgewählte Objekt ein Volume ist.
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

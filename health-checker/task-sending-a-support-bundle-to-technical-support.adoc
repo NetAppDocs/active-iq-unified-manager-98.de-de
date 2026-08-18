@@ -15,6 +15,7 @@ Wenn ein Problem detailliertere Diagnose- und Fehlerbehebungsinformationen erfor
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen Zugriff auf das Support-Bundle haben, um es an den technischen Support zu senden.
@@ -23,6 +24,7 @@ Sie müssen über die technische Support-Website eine Case-Nummer generiert habe
 
 
 
+[[steps]]
 == Schritte
 
 . Loggen Sie sich auf der NetApp Support Site ein.

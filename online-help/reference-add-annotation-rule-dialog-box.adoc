@@ -35,6 +35,7 @@ Gibt Bedingungen an, die bestimmen, welche Speicherobjekte Sie kommentieren kön
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern und Hinzufügen*

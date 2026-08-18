@@ -15,12 +15,14 @@ Sie können Storage-Daten in verschiedenen Ausgabeformaten exportieren und dann 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können Daten in ein exportieren `.csv` Datei, `.xlsx` Datei, oder `.pdf` Dokumentieren Sie das Dokument aus den Inventarseiten von *Storage* und *Network* und erstellen Sie Berichte mit den exportierten Daten. Es gibt andere Standorte im Produkt, wo nur `.csv` Oder `.pdf` Dateien können erzeugt werden.
 
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie eine der folgenden Aktionen aus:

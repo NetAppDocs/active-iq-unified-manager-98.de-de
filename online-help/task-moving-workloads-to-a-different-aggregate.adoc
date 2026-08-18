@@ -15,6 +15,7 @@ Mithilfe von Unified Manager können Sie ein Aggregat identifizieren, das wenige
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -25,6 +26,7 @@ Mithilfe von Unified Manager können Sie ein Aggregat identifizieren, das wenige
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Anhand dieser Schritte werden die folgenden Ressourcen ermittelt, damit Sie hochperformante Workloads in ein weniger ausgelasttes Aggregat verschieben können:
@@ -35,6 +37,7 @@ Anhand dieser Schritte werden die folgenden Ressourcen ermittelt, damit Sie hoch
 
 
 
+[[steps]]
 == Schritte
 
 . Identifizieren Sie das Aggregat im Cluster, das am wenigsten genutzt wird:
@@ -80,6 +83,7 @@ Sie können den Vorgang der Verschiebung mit ONTAP System Manager, OnCommand Wor
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Prüfen Sie nach einigen Tagen, ob Sie dieselbe Art von Ereignissen von diesem Node oder Aggregat erhalten.

@@ -15,12 +15,14 @@ Die Zoom-Ansicht der Zählerdiagramme bietet eine feinere Detailebene für das a
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die Zoom-Ansicht der Zählerdiagramme für jedes Zählerdiagramm anzeigen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf *Zoom View*, um das ausgewählte Diagramm zu öffnen ein neues Browser-Fenster.

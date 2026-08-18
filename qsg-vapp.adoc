@@ -10,6 +10,7 @@ summary: Kurzanleitung für Unified Manager auf VMware vSphere Plattform.
 
 
 
+[[system-requirements]]
 == Systemanforderungen
 
 * Betriebssystem VMware ESXi 6.5, 6.7 und 7.0
@@ -22,10 +23,12 @@ Detaillierte Systemanforderungen finden Sie im link:./install-vapp/concept-requi
 
 
 
+[[installing-active-iq-unified-manager]]
 == Active IQ Unified Manager wird installiert
 
 
 
+[[download-the-installer]]
 === Laden Sie das Installationsprogramm herunter
 
 . Laden Sie die herunter `ActiveIQUnifiedManager-<version>.ova` Installationspaket.
@@ -34,6 +37,7 @@ Detaillierte Systemanforderungen finden Sie im link:./install-vapp/concept-requi
 
 
 
+[[install-unified-manager]]
 === Installation Von Unified Manager
 
 . Klicken Sie im vSphere-Client auf *Datei > OVF-Vorlage bereitstellen*.

@@ -15,6 +15,7 @@ Um die Ergebnisse zu sortieren, klicken Sie auf eine Spalte und zeigen eine aufs
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie oben in einer Spalte, um die Ergebnisse so zu sortieren, dass oben in der Ansicht die wichtigsten Informationen angezeigt werden.

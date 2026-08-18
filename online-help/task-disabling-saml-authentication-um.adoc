@@ -15,6 +15,7 @@ Sie können die SAML-Authentifizierung deaktivieren, wenn Sie die Authentifizier
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nachdem Sie die SAML-Authentifizierung deaktiviert haben, können lokale Benutzer und Wartungbenutzer zusätzlich zu konfigurierten Remote-Benutzern auf die grafische Benutzeroberfläche zugreifen.
@@ -28,6 +29,7 @@ Unified Manager wird automatisch neu gestartet, nachdem die SAML-Authentifizieru
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *SAML Authentifizierung*.
@@ -41,12 +43,14 @@ Es wird ein Meldungsfeld angezeigt, um zu bestätigen, dass Sie die Konfiguratio
 
 
 
+[[results]]
 == Ergebnisse
 
 Wenn Remote-Benutzer das nächste Mal versuchen, auf die grafische Benutzeroberfläche von Unified Manager zuzugreifen, geben sie ihre Anmeldedaten auf der Anmeldeseite von Unified Manager anstelle der IdP-Anmeldeseite ein.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Greifen Sie auf Ihren IdP zu und löschen Sie die URI und die Metadaten des Unified Manager-Servers.

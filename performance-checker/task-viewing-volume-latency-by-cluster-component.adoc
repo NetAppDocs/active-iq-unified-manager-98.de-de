@@ -15,6 +15,7 @@ Sie können detaillierte Latenzinformationen zu einem Volume mithilfe der Seite 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Außerdem zeigt das Diagramm Latenz – Cluster-Komponenten einen detaillierten Vergleich der Latenz der einzelnen Cluster-Komponenten an, um zu ermitteln, wie jede Komponente zu der gesamten Latenz auf dem Volume beiträgt. Die folgenden Cluster-Komponenten werden angezeigt:
@@ -34,6 +35,7 @@ Außerdem zeigt das Diagramm Latenz – Cluster-Komponenten einen detaillierten 
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Volume Performance Explorer* für Ihr ausgewähltes Volume im Latenzdiagramm im Dropdown-Menü die Option *Cluster Components* aus.

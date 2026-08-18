@@ -15,6 +15,7 @@ Im Dialogfeld Benutzer bearbeiten können Sie je nach ausgewähltem Benutzer nur
 
 
 
+[[details]]
 == Details
 
 Im Bereich Details können Sie die folgenden Informationen über einen ausgewählten Benutzer bearbeiten:
@@ -47,6 +48,7 @@ Ermöglicht Ihnen die Bearbeitung der Rolle, die dem Benutzer zugewiesen ist. Di
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

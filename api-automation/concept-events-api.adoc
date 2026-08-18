@@ -15,6 +15,7 @@ Der `events` Und `system` APIs unter `management-server` Mithilfe der Kategorie 
 
 
 
+[[viewing-events]]
 == Anzeigen von Ereignissen
 
 Durch Verwendung des `/management-server/events` API, Sie können die Ereignisse in Ihrem Rechenzentrum, einschließlich historischen Daten abfragen. Verwenden Sie die eingebauten Filter, z. B. Name, Aufprallgrad, Aufprallbereich, Schweregrad, Status, Ressourcenname und Ressourcentyp, um bestimmte Ereignisse anzuzeigen. Die Ressourcentyp- und Flächenparameter geben Informationen über das Speicherobjekt zurück, auf dem das Ereignis aufgetreten ist, und der Einwirkungsbereich gibt die Informationen über das Problem zurück, für das das Ereignis erhöht wird, wie z. B. Verfügbarkeit, Kapazität, Konfiguration, Sicherheit, Sicherung und Performance.
@@ -48,6 +49,7 @@ Führen Sie diese API aus, wenn Sie ein bestimmtes Ereignis abfragen möchten. G
 |===
 
 
+[[viewing-system-details]]
 == Anzeigen von Systemdetails
 
 Durch Verwendung des `/management-server/system` API, Sie können die Instanzspezifischen Details der Unified Manager-Umgebung abfragen. Die API liefert Informationen zum Produkt und zu Services, z. B. zur Version von Unified Manager, die auf Ihrem System installiert ist, UUID, Anbietername, Host OS und Name, beschreibung und Status der auf der Unified Manager-Instanz ausgeführten Services.

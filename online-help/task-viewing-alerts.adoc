@@ -15,12 +15,14 @@ Sie können die Liste der Warnungen, die für verschiedene Ereignisse erstellt w
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

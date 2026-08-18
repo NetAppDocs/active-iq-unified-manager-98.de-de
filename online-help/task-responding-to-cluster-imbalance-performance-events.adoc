@@ -15,12 +15,14 @@ Unified Manager generiert Warnereignisse bei einem Cluster-Ungleichgewicht, wenn
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Unified Manager generiert Warnereignisse für Richtlinienverstöße im Cluster-Ungleichgewicht, indem der für alle Nodes im Cluster verwendete Performance-Wert verglichen wird, um zu sehen, ob zwischen allen Nodes ein Lastunterschied von 30 % erzielt wird.
@@ -34,6 +36,7 @@ Anhand dieser Schritte werden die folgenden Ressourcen ermittelt, damit Sie hoch
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Event* Details auf, um Informationen zum Event anzuzeigen.
@@ -75,6 +78,7 @@ Sie können den Vorgang der Verschiebung mit ONTAP System Manager, OnCommand Wor
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Prüfen Sie nach einigen Tagen, ob im Cluster dasselbe Ungleichgewicht auftritt.

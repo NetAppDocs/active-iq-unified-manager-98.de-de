@@ -15,18 +15,21 @@ Sie können einen Authentifizierungsserver löschen, wenn Sie verhindern möchte
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie einen Authentifizierungsserver löschen, können Remote-Benutzer oder -Gruppen des Authentifizierungsservers nicht mehr auf Unified Manager zugreifen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Remote Authentication*.

@@ -15,18 +15,21 @@ Sie können vorhandene Schutzbeziehungen bearbeiten, um die maximale Übertragun
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die ausgewählten Volumes müssen Schutzbeziehungsziele sein. Sie können Beziehungen nicht bearbeiten, wenn Quell-Volumes, Volumes für die Lastverteilung oder Volumes ausgewählt werden, die nicht Ziel einer SnapMirror oder SnapVault Beziehung sind.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Volume Relationships* in den Volumes eine oder mehrere Volumes in derselben SVM aus, für die Sie die Beziehungseinstellungen bearbeiten möchten, und wählen Sie dann in der Symbolleiste *Bearbeiten* aus.

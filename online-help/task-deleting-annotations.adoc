@@ -15,6 +15,7 @@ Sie können benutzerdefinierte Anmerkungen und ihre Werte löschen, wenn sie nic
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können benutzerdefinierte Anmerkungen und ihre Werte löschen, wenn sie nic
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Anmerkungen*.

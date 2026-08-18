@@ -15,6 +15,7 @@ Sie können die Backup-Einstellungen für die Backup-Dump-Datenbank von Unified 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -28,6 +29,7 @@ Es wird empfohlen, einen externen Standort zu verwenden, der sich außerhalb des
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Mehr Zeit wird bei der ersten Durchführung eines Backups als bei nachfolgenden Backups benötigt, da es sich bei dem ersten Backup um ein Vollbackup handelt. Ein vollständiges Backup kann über 1 GB dauern und kann drei bis vier Stunden dauern. Nachfolgende Backups sind inkrementell und erfordern weniger Zeit.
@@ -39,6 +41,7 @@ Wenn Sie feststellen, dass die Anzahl der inkrementellen Backup-Dateien für den
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Datenbank-Backup*.
@@ -53,6 +56,7 @@ Der Standardwert für die Aufbewahrungsanzahl ist 10; Sie können 0 verwenden, u
 
 
 
+[[results]]
 == Ergebnisse
 
 Backup-Dateien mit einem Datenbankdump werden auf Grundlage des Zeitplans erstellt. Die verfügbaren Sicherungsdateien finden Sie auf der Seite Datenbank-Backup.

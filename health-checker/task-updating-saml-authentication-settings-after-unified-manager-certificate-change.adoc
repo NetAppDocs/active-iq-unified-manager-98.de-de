@@ -15,12 +15,14 @@ Jede Änderung am HTTPS-Sicherheitszertifikat, das auf dem Unified Manager-Serve
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nach der Änderung des Sicherheitszertifikats und dem Neustart des Unified Manager-Servers funktioniert die SAML-Authentifizierung nicht, und Benutzer können nicht auf die grafische Benutzeroberfläche von Unified Manager zugreifen. Sie müssen die SAML-Authentifizierungseinstellungen sowohl auf dem IdP-Server als auch auf dem Unified Manager-Server aktualisieren, um den Zugriff auf die Benutzeroberfläche wieder zu aktivieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich bei der Wartungskonsole an.

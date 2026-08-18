@@ -15,6 +15,7 @@ Sie können die virtuelle Maschine (VM) von Unified Manager von der Wartungskons
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das virtuelle Gerät sollte eingeschaltet sein.
@@ -23,12 +24,14 @@ Sie können die virtuelle Maschine (VM) von Unified Manager von der Wartungskons
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die virtuelle Maschine auch von vSphere mit der Option VMware *Neustart Gast* neu starten.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der Wartungskonsole *Systemkonfiguration* > *virtuelle Maschine neu starten* aus.
@@ -37,4 +40,4 @@ Sie können die virtuelle Maschine auch von vSphere mit der Option VMware *Neust
 
 *Verwandte Informationen*
 
-https://www.vmware.com/support/developer/PowerCLI/PowerCLI41/html/Restart-VMGuest.html["VMware vSphere PowerCLI cmdlets Referenz: Neustart-VMGuest"^]
+https://developer.broadcom.com/powercli/latest/vmware.vimautomation.core/commands/restart-vmguest["VMware vSphere PowerCLI cmdlets Referenz: Neustart-VMGuest"^]

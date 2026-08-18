@@ -15,6 +15,7 @@ Sie können eine Schutzbeziehung entfernen, um eine vorhandene Beziehung zwische
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können eine Schutzbeziehung entfernen, um eine vorhandene Beziehung zwische
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Registerkarte *Protection* der Seite *Volume / Health* Details aus der Topologie die SnapMirror Beziehung aus, die Sie entfernen möchten.

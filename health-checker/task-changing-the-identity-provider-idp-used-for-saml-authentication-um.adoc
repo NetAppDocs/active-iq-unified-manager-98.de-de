@@ -15,6 +15,7 @@ Sie können den Identitäts-Provider (IdP), den Unified Manager zur Authentifizi
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die IdP-URL und die Metadaten verfügen.
@@ -23,12 +24,14 @@ Sie können den Identitäts-Provider (IdP), den Unified Manager zur Authentifizi
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Der neue IdP kann vor oder nach der Konfiguration von Unified Manager konfiguriert werden.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *SAML Authentifizierung*.
@@ -46,6 +49,7 @@ Es wird ein Meldungsfeld angezeigt, um zu bestätigen, dass Sie die Konfiguratio
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Greifen Sie auf den neuen IdP zu, und geben Sie die URI und die Metadaten des Unified Manager-Servers ein, um die Konfiguration abzuschließen.

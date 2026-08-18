@@ -15,6 +15,7 @@ Im Bereich Zählerdiagramm können Sie eine Liste der korrelierten Objekte für 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können ein beliebiges Objekt aus dem Raster der korrelierten Objekte den Fenstern „Vergleichen“ und „Zählerdiagramm“ hinzufügen. So können Sie Daten mehrerer Objekte und das Root-Objekt anzeigen und vergleichen. Sie können Objekte in das Raster der korrelierten Objekte hinzufügen und aus diesem entfernen. Das Root-Objekt im Vergleichsfenster kann jedoch nicht entfernt werden.
@@ -26,6 +27,7 @@ Das Hinzufügen vieler Objekte zum Vergleichspfenster kann sich negativ auf die 
 ====
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie im Objektraster das Objekt, das Sie hinzufügen möchten, und klicken Sie auf die Schaltfläche *Hinzufügen*.

@@ -15,6 +15,7 @@ Sie können eine Sicherungsbeziehung unterbrechen, um die Datenübertragung zwis
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können eine Sicherungsbeziehung unterbrechen, um die Datenübertragung zwis
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Volume Relationships* ein oder mehrere Volumes mit Schutzbeziehungen aus, für die Sie die Datenübertragung beenden möchten, und klicken Sie in der Symbolleiste auf *break*.

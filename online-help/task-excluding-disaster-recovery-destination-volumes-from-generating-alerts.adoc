@@ -15,12 +15,14 @@ Bei der Konfiguration von Volume-Warnmeldungen können Sie im Dialogfeld Warnung
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Alarme für Disaster-Recovery-Ziel-Volumes lassen sich deaktivieren, indem Volumes mit dem Namen der Ziel-SVM ausgeschlossen werden. Das ist möglich, da die Kennung für Volume-Ereignisse sowohl den SVM-Namen als auch den Volume-Namen im Format „`<svm_name>:/<volume_name>`“ enthält.
@@ -31,6 +33,7 @@ Führen Sie im Dialogfeld Alarm hinzufügen die folgenden Schritte aus:
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf *Name* und geben Sie einen Namen und eine Beschreibung für den Alarm ein.

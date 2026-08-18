@@ -15,12 +15,14 @@ Sie können die Einstellungen für die globale Standard-Verzögerungswarnung und
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Verzögerungszeit darf nicht länger als das festgelegte Transferzeitintervall sein. Wenn der Transfer-Zeitplan beispielsweise stündlich ist, darf die Verzögerungszeit nicht mehr als eine Stunde sein. Der lag-Schwellenwert gibt einen Prozentsatz an, der die Verzögerungszeit nicht überschreiten darf. Mit dem Beispiel einer Stunde, wenn der lag-Schwellenwert als 150 % definiert ist, erhalten Sie ein Ereignis, wenn die Verzögerungszeit mehr als 1.5 Stunden beträgt.
@@ -29,6 +31,7 @@ Die in dieser Aufgabe beschriebenen Einstellungen werden global auf alle nicht v
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisschwellenwerte* > *Beziehung*.

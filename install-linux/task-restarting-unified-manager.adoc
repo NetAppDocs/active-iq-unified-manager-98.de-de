@@ -15,12 +15,14 @@ Möglicherweise müssen Sie Unified Manager neu starten, nachdem Sie die Konfigu
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen Root-Benutzerzugriff auf Red hat Enterprise Linux oder CentOS Server haben, auf dem Unified Manager installiert ist.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer an dem Server an, auf dem Sie den Unified Manager-Service neu starten möchten.

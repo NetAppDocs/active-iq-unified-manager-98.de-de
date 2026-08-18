@@ -15,6 +15,7 @@ Das Node-IOPS-Zählerdiagramm kann hervorheben, wo die Vorgänge nur den lokalen
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Versionen der „`Local`“ dieser Zählerdiagramme sind denen der Node-Diagramme für die Performance-Kapazität und -Auslastung ähnlich, da sie außerdem nur die Statistiken für Daten anzeigen, die sich auf lokalen Volumes befinden.
@@ -23,6 +24,7 @@ Durch den Vergleich der Versionen „`Local`“ dieser Zählerdiagramme mit den 
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Performance/Node Explorer* für den ausgewählten Knoten im IOPS-Diagramm im Dropdown-Menü die Option *Gesamt* aus.

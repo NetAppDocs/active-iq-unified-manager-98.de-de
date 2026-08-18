@@ -15,12 +15,14 @@ Sie können das Fenster Zählerdiagramme so erweitern, dass die Diagramme größ
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nachdem Sie die Vergleichsobjekte und den Zeitbereich für Zähler definiert haben, können Sie einen größeren Counter Charts-Bereich anzeigen. Sie verwenden die *<*-Schaltfläche in der Mitte des Performance Explorer-Fensters, um das Fenster zu erweitern.
 
 
 
+[[steps]]
 == Schritte
 
 . Erweitern oder verkleinern Sie das Fenster *Counter Charts*.

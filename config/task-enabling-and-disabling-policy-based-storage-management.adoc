@@ -15,12 +15,14 @@ Ab Unified Manager 9.7 können Sie Storage-Workloads (Volumes und LUNs) auf Ihre
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Diese Option ist standardmäßig aktiviert, Sie können sie jedoch deaktivieren, wenn Sie Workloads nicht über Unified Manager bereitstellen und managen möchten.
@@ -62,6 +64,7 @@ Weitere Informationen zu diesen Seiten und zu dieser Funktion finden Sie in der 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Funktionseinstellungen*.

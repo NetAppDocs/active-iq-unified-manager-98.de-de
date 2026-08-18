@@ -15,6 +15,7 @@ Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance in ein Red
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Auf der virtuellen Appliance:
@@ -35,12 +36,14 @@ Sie können eine Backup-Dump-Datenbank von einer virtuellen Appliance in ein Red
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 In diesen Schritten wird beschrieben, wie eine Sicherungsdatei auf der virtuellen Appliance erstellt, die Sicherungsdateien auf das Red hat Enterprise Linux oder CentOS System kopiert und dann die Datenbanksicherung auf das neue System wiederhergestellt wird.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf der virtuellen Appliance auf *Verwaltung* > *Datenbank-Backup*.
@@ -68,6 +71,7 @@ Stellen Sie sicher, dass Sie den kopiert haben `.7z` Backup-Datei und alle `.7z`
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie sollten die folgenden Aufgaben durchführen:

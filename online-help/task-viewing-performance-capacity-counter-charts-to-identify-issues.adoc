@@ -15,6 +15,7 @@ Auf der Seite „Performance Explorer“ können Sie die verwendeten Performance
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das Standard-Zählerdiagramm zeigt die Werte der verwendeten Performance-Kapazität für die ausgewählten Nodes oder Aggregate an. Das Counter Chart Breakdown zeigt die Werte für die Gesamtkapazität des Root-Objekts an, das basierend auf Benutzerprotokollen und Hintergrundsystemprozessen in die Nutzung unterteilt ist. Darüber hinaus wird die Menge der freien Performance-Kapazität dargestellt.
@@ -26,6 +27,7 @@ Da einige Hintergrundaktivitäten zu System- und Datenmanagement als Benutzer-Wo
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie die *Explorer* Registerkarte von einem Knoten oder Aggregat * Landing* Seite.

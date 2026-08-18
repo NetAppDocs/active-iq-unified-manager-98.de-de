@@ -21,12 +21,14 @@ Auf der unteren Seite des Diagramms werden Informationen zur minimalen, maximale
 
 
 
+[[available-iops-total-counter-chart]]
 == Verfügbare IOPS: Zählerdiagramm insgesamt
 
 Zeigt die Anzahl der ein-/Ausgabevorgänge pro Sekunde an, die derzeit auf dem ausgewählten Speicherobjekt verfügbar (frei) sind. Diese Zahl ergibt sich aus der Subtraktion der derzeit verwendeten IOPS von den IOPS-Gesamtwerten, die Unified Manager berechnet, die das Objekt ausführen kann.
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

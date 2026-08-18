@@ -15,12 +15,14 @@ Sie können den Port ändern, den der Unified Manager-Server für die Kommunikat
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Remote Authentication*.

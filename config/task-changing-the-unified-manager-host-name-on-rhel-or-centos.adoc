@@ -15,12 +15,14 @@ Irgendwann möchten Sie den Host-Namen von Red hat Enterprise Linux oder CentOS 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über Root-Benutzerzugriff auf das Linux-System verfügen, auf dem Unified Manager installiert ist.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können den Host-Namen (oder die Host-IP-Adresse) verwenden, um auf die Unified Manager Web-UI zuzugreifen. Wenn Sie während der Bereitstellung eine statische IP-Adresse für Ihr Netzwerk konfiguriert haben, hätten Sie einen Namen für den Netzwerk-Host zugewiesen. Wenn Sie das Netzwerk mit DHCP konfiguriert haben, sollte der Hostname vom DNS-Server übernommen werden.
@@ -33,6 +35,7 @@ Wenn Sie den Host-Namen in Unified Manager ändern, müssen Sie den Hostnamen in
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer beim Unified Manager-System an, das Sie ändern möchten.

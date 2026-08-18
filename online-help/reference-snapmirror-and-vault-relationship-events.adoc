@@ -15,6 +15,7 @@ Ereignisse der SnapMirror- und Vault-Beziehungen versorgen Sie mit Informationen
 
 
 
+[[impact-area-protection]]
 == Aufprallbereich: Schutz
 
 |===

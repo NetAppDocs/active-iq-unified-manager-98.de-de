@@ -17,6 +17,7 @@ Der Status neben dem Cluster-Namen, z. B. (gut), stellt den Kommunikationsstatus
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen des Befehls können Sie die folgenden Aufgaben für das ausgewählte Cluster ausführen:
@@ -46,6 +47,7 @@ Ermöglicht die Navigation in der Ansicht „Health: All Clusters“.
 
 
 
+[[health-tab]]
 == Registerkarte Systemzustand
 
 Zeigt detaillierte Informationen zur Datenverfügbarkeit und zu Kapazitätsproblemen der verschiedenen Cluster-Objekte wie Nodes, SVMs und Aggregate an. Verfügbarkeitsprobleme hängen von der Datenserverfunktion der Cluster-Objekte ab. Kapazitätsprobleme stehen im Zusammenhang mit der Datenspeicherfunktion der Cluster-Objekte.
@@ -70,6 +72,7 @@ Grafische Darstellung der Gesamtzahl an Objekten, einschließlich Objekten mit K
 
 
 
+[[capacity-tab]]
 == Registerkarte „Kapazität“
 
 Zeigt detaillierte Informationen zur Kapazität des ausgewählten Clusters an.
@@ -209,6 +212,7 @@ Zeigt die geschätzte Anzahl der verbleibenden Tage an, bevor die volle Kapazit�
 
 
 
+[[configuration-tab]]
 == Registerkarte Konfiguration
 
 Zeigt Details zum ausgewählten Cluster an, z. B. IP-Adresse, Seriennummer, Kontakt und Standort:
@@ -366,6 +370,7 @@ In sind die Namen der Cloud-Tiers aufgeführt, mit denen dieses Cluster verbunde
 
 
 
+[[metrocluster-connectivity-tab]]
 == Registerkarte MetroCluster-Konnektivität
 
 Zeigt die Probleme und den Konnektivitätsstatus der Clusterkomponenten der MetroCluster Konfiguration an. Ein Cluster wird in einem roten Feld angezeigt, wenn der Disaster-Recovery-Partner des Clusters Probleme hat.
@@ -390,6 +395,7 @@ Wenn der Status des Verbindungsproblem zwischen den Komponenten durch mehrere Er
 
 
 
+[[metrocluster-replication-tab]]
 == Registerkarte „MetroCluster-Replikation“
 
 Zeigt den Status der Daten an, die repliziert werden. Sie können die Registerkarte MetroCluster-Replikation verwenden, um die Datensicherung durch synchrones Spiegeln der Daten mit den bereits Peering-Clustern zu gewährleisten. Ein Cluster wird in einem roten Feld angezeigt, wenn der Disaster-Recovery-Partner des Clusters Probleme hat.
@@ -405,6 +411,7 @@ Auf der Registerkarte MetroCluster-Replikation bietet das lokale Cluster eine de
 
 
 
+[[network-interfaces-tab]]
 == Registerkarte Netzwerkschnittstellen
 
 Zeigt Details zu allen nicht-Daten-LIFs an, die auf dem ausgewählten Cluster erstellt wurden.
@@ -456,6 +463,7 @@ Zeigt den Namen der Failover-Gruppe an.
 
 
 
+[[nodes-tab]]
 == Registerkarte Knoten
 
 Zeigt Informationen zu Nodes im ausgewählten Cluster an. Sie können ausführliche Informationen zu HA-Paaren, Festplatten-Shelfs und Ports anzeigen:
@@ -586,6 +594,7 @@ Sie können die portbezogenen Ereignisse in der Ereignisliste anzeigen. Sie kön
 
 
 
+[[disks-tab]]
 == Registerkarte „Festplatten“
 
 Zeigt Details zu den Festplatten im ausgewählten Cluster an. Sie können Festplatten-bezogene Informationen wie die Anzahl der verwendeten Festplatten, Ersatzfestplatten, fehlerhafte Festplatten und nicht zugewiesene Laufwerke anzeigen. Sie können auch weitere Details anzeigen, z. B. den Festplattennamen, den Festplattentyp und den Besitzer-Node der Festplatte.
@@ -689,12 +698,14 @@ Zeigt die ID des Einschubschachts an, in dem sich die Festplatte befindet.
 
 
 
+[[related-annotations-pane]]
 == Bereich „Verwandte Anmerkungen“
 
 Hiermit können Sie die mit dem ausgewählten Cluster verknüpften Anmerkungsdetails anzeigen. Die Details umfassen den Anmerkungsnamen und die auf das Cluster angewandten Anmerkungswerte. Sie können auch manuelle Anmerkungen aus dem Bereich Verwandte Anmerkungen entfernen.
 
 
 
+[[related-devices-pane]]
 == Bereich „Verwandte Geräte“
 
 Mit dieser Option können Sie Gerätedetails anzeigen, die mit dem ausgewählten Cluster verknüpft sind.
@@ -725,12 +736,14 @@ Zeigt die Anzahl, Kapazität und den Systemzustand der Aggregate an, die zum aus
 
 
 
+[[related-groups-pane]]
 == Bereich „Verwandte Gruppen“
 
 Mit können Sie die Liste der Gruppen anzeigen, die den ausgewählten Cluster enthalten.
 
 
 
+[[related-alerts-pane]]
 == Bereich „Verwandte Warnungen“
 
 Im Teilfenster „Related Alerts“ können Sie die Liste der Meldungen für das ausgewählte Cluster anzeigen. Sie können auch eine Warnung hinzufügen, indem Sie auf den Link Warnung hinzufügen klicken oder eine vorhandene Warnung bearbeiten, indem Sie auf den Alarmnamen klicken.

@@ -15,6 +15,7 @@ Auf der Seite „Aggregate/Performance Information“ können Sie eine Liste der
 
 
 
+[[aggregate-attributes]]
 == Aggregatattribute
 
 * *Typ*

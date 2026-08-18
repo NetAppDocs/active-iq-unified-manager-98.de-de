@@ -15,6 +15,7 @@ Unified Manager generiert Warnereignisse für die QoS-Richtlinie, wenn der Workl
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,6 +24,7 @@ Unified Manager generiert Warnereignisse für die QoS-Richtlinie, wenn der Workl
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Unified Manager generiert Warnereignisse bei Verstößen gegen QoS-Richtlinien, wenn der Workload-Durchsatz die festgelegte QoS-Richtlinieneinstellung während jeder Performance-Erfassungsfrist für die vorherige Stunde überschritten hat. Der Workload-Durchsatz kann den QoS-Schwellenwert für nur einen kurzen Zeitraum während des jeweiligen Erfassungszeitraums überschreiten. Unified Manager zeigt jedoch während des Erfassungszeitraums auf dem Diagramm nur den „`durchschnittlichen`“-Durchsatz an. Aus diesem Grund erhalten Sie unter Umständen QoS-Ereignisse, während der Durchsatz für einen Workload den im Diagramm angegebenen Richtlinienschwellenwert nicht überschritten hat.
@@ -38,6 +40,7 @@ Sie können System Manager oder die Befehle ONTAP zum Verwalten von Richtlinieng
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Event* Details auf, um Informationen zum Event anzuzeigen.

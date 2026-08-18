@@ -15,12 +15,14 @@ Mit der Wiederherstellungsfunktion auf der Seite „Volume/Health Details“ kö
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 NTFS-Dateiströme können nicht wiederhergestellt werden.
@@ -33,6 +35,7 @@ Die Wiederherstellungsoption ist nicht verfügbar, wenn:
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf der Registerkarte *Schutz* der Detailseite *Volume / Health* mit der rechten Maustaste in die Topologieansicht auf den Namen des Volumes, das wiederhergestellt werden soll.

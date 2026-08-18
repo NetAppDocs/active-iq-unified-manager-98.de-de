@@ -27,6 +27,7 @@ Gibt eine aussagekräftige Beschreibung der Gruppe an.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die Erstellung einer neuen Gruppe hinzufügen oder abbrechen.

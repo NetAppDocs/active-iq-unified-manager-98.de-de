@@ -15,18 +15,21 @@ Zudem können Anmerkungsregeln erstellt werden, die in Unified Manager verwendet
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Aktuell überwachte Storage-Objekte werden kommentiert, sobald die Anmerkungsregel erstellt wurde. Neue Objekte werden erst nach Abschluss des Überwachungszyklus mit Anmerkungen versehen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Anmerkungen*.
@@ -66,6 +69,7 @@ Eine Bedingungsgruppe
 
 
 
+[[example-of-creating-an-annotation-rule]]
 == Beispiel für das Erstellen einer Anmerkungsregel
 
 Führen Sie im Dialogfeld Anmerkungsregel hinzufügen die folgenden Schritte aus, um eine Anmerkungsregel zu erstellen, einschließlich der Konfiguration einer Bedingung und des Hinzufügens einer Bedingungsgruppe:

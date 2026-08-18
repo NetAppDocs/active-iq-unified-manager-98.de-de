@@ -43,6 +43,7 @@ Ermöglicht es Ihnen, dem Benutzer eine Rolle zuzuweisen und den Umfang der Akti
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

@@ -15,12 +15,14 @@ Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen Unified Manager installiert und konfiguriert haben.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nach 15 Minuten Inaktivität meldet die Wartungskonsole sie aus.
@@ -32,6 +34,7 @@ Wenn Sie auf VMware installiert sind und sich bereits über die VMware-Konsole a
 ====
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie die folgenden Schritte aus, um auf die Wartungskonsole zuzugreifen:

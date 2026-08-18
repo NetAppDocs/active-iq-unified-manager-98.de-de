@@ -15,12 +15,14 @@ Wenn Sie die Seite Ereignisdetails eines Storage Failover-bezogenen Ereignisses 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 In diesem Beispielszenario enthält die Ereignisübersicht auf der Seite Ereignisdetails die folgenden Informationen über den Zustand der Verbindung zum Storage Failover Interconnect:
@@ -50,6 +52,7 @@ Um jedoch sicherzustellen, dass beide Links ausfallen und der Storage-Failover-S
 
 
 
+[[steps]]
 == Schritte
 
 . Auf der Seite *Event* Details können Sie auf den Link zu dem Ereignis klicken, das im Feld Quelle angegeben ist, um weitere Details zu anderen Ereignissen zu erhalten, die sich auf den Zustand der Verbindung zum Storage Failover Verbindungsabschaltung beziehen könnten.
@@ -64,6 +67,7 @@ In diesem Beispiel werden die relevanten Informationen in der Ereignistabelle an
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Bitten Sie anhand der Standortinformationen des Node in den HA-Details eine physische Überprüfung und Reparatur des Storage Failover-Problems auf den betroffenen HA-Paar-Nodes oder führen Sie diese persönlich durch.

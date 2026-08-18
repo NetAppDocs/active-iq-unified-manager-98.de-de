@@ -15,18 +15,21 @@ Dieser Workflow bietet ein Beispiel dafür, wie Sie Fehler im Schutz über das U
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Da für einige Aufgaben in diesem Workflow eine Anmeldung über die Administratorrolle erforderlich ist, müssen Sie mit den Rollen vertraut sein, die für die Verwendung verschiedener Funktionen erforderlich sind.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 In diesem Szenario greifen Sie auf die Dashboard-Seite zu, um festzustellen, ob es Probleme mit Ihren Schutzaufgaben gibt. Im Bereich Schutzvorfall stellen Sie fest, dass ein Vorfall mit dem Jobabbruch vorliegt und ein Fehler beim Schutz eines Volumes angezeigt wird. Sie untersuchen diesen Fehler, um die mögliche Ursache und mögliche Lösung zu ermitteln.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im Bereich *Schutz-Vorfälle* des Dashboards *ungelöste Vorfälle und Risiken* auf das Ereignis *Schutzauftrag fehlgeschlagen*.

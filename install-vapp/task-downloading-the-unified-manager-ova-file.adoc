@@ -15,18 +15,21 @@ Laden Sie die Installationsdatei für Unified Manager von der NetApp Support Sit
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie sollten die Anmeldedaten für die NetApp Support-Website besitzen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Installationsdatei ist ein `OVA` Datei, die die in einer virtuellen Appliance konfigurierte Unified Manager Software enthält.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich auf der NetApp Support Site an und navigieren Sie zur Seite *Download* für Unified Manager: https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"^]

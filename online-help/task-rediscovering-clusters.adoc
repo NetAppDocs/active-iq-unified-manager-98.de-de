@@ -15,6 +15,7 @@ Sie können ein Cluster manuell auf der Seite Cluster Setup neu finden, um die n
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können ein Cluster manuell wiederentdecken, wenn Sie den Cluster aktualisieren möchten - z. B. indem Sie die Größe eines Aggregats erhöhen, wenn der Speicherplatz nicht ausreicht - und Sie möchten, dass Unified Manager die Änderungen entdeckt, die Sie vornehmen.
@@ -23,6 +24,7 @@ Wenn Unified Manager mit OnCommand Workflow Automation (WFA) kombiniert wird, l�
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.

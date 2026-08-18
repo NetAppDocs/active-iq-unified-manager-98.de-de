@@ -15,12 +15,14 @@ Sie können die Aktionsparameter der Gruppe bearbeiten, die Sie in Unified Manag
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Gruppen*.

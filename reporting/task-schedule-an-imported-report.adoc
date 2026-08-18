@@ -15,6 +15,7 @@ Sie können vorhandene Berichte planen, die in einer früheren Version von Unifi
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Planung importierter Berichte erfordert Folgendes:
@@ -27,6 +28,7 @@ Nach dem Upgrade auf Unified Manager 9.6 GA oder höher werden auf der Seite „
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie die Seite *Berichtszeitpläne*. Wenn Sie Berichte importiert haben, wird eine Meldung angezeigt.

@@ -15,6 +15,7 @@ Sie können globale Statusschwellenwerte für Kapazität, Wachstum, Snapshot-Res
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Globale Statusschwellenwerte gelten für alle Objekte, denen sie zugeordnet sind, z. B. Aggregate, Volumes usw. Wenn die Schwellenwerte überschritten werden, wird ein Ereignis generiert und im Fall der Konfiguration von Meldungen eine Warnmeldung gesendet. Schwellenwertvorgaben sind auf empfohlene Werte festgelegt. Sie können sie aber ändern, um Ereignisse in Abständen zu generieren, um Ihre spezifischen Anforderungen zu erfüllen. Wenn Schwellenwerte geändert werden, werden Ereignisse im nächsten Überwachungszyklus generiert oder veraltet.
@@ -23,6 +24,7 @@ Auf globale Statusschwellenwerte kann im linken Navigationsmenü über den Absch
 
 
 
+[[choices]]
 == Wahlmöglichkeiten
 
 * xref:task-configuring-global-aggregate-health-threshold-values.adoc[Konfigurieren von globalen Integritätsschwellenwerten für das Aggregat]

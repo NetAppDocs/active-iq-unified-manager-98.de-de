@@ -15,12 +15,14 @@ Dieser Workflow bietet ein Beispiel dafür, wie Sie ein Offline-Ereignis eines V
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Volumes können aus verschiedenen Gründen offline gemeldet werden:
@@ -35,6 +37,7 @@ Mithilfe der Inventarseite für das Ereignismanagement und der Seiten „Cluster
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisverwaltung*.

@@ -15,6 +15,7 @@ Das VMware vSphere System, auf dem Unified Manager installiert wird, erfordert b
 
 
 
+[[operating-system-software]]
 == Betriebssystem-Software
 
 Die folgenden Versionen von VMware ESXi werden unterstützt:
@@ -40,6 +41,7 @@ Die Zeit des VMware ESXi-Servers sollte die gleiche sein wie die NTP-Serverzeit,
 
 
 
+[[installation-requirements]]
 == Installationsvoraussetzungen
 
 VMware Hochverfügbarkeit für die virtuelle Unified Manager Appliance wird unterstützt.

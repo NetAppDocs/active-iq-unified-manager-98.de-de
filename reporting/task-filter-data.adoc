@@ -15,6 +15,7 @@ Filtern Sie die Daten, um sicherzustellen, dass die Ergebnisse Ihren Berichtsanf
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf das Filtersymbol, um Filter hinzuzufügen, um die gewünschten Ergebnisse zu fokussieren, und klicken Sie dann auf *Filter anwenden*.

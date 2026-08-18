@@ -15,6 +15,7 @@ Unified Manager generiert zu stark ausgelastete Warnmeldungen bei Node-Ressource
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,6 +24,7 @@ Unified Manager generiert zu stark ausgelastete Warnmeldungen bei Node-Ressource
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Unified Manager generiert Warnereignisse für überlastete Node-Ressourcen bei Richtlinienverstößen, indem Nodes gesucht werden, die mehr als 30 Minuten lang mehr als 100 % der Performance-Kapazität nutzen.
@@ -37,6 +39,7 @@ Sie können diesen Typ eines Performance-Problems mit System Manager oder den Be
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Event* Details auf, um Informationen zum Event anzuzeigen.

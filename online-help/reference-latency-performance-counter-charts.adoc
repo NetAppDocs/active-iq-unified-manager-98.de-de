@@ -21,12 +21,14 @@ Es stehen drei Arten von Latenzdiagrammen zur Verfügung:
 
 
 
+[[latency-total-counter-chart]]
 == Latenz: Zählerdiagramm insgesamt
 
 Zeigt die Anzahl der Millisekunden an, die erforderlich ist, um auf Anwendungsanforderungen zu reagieren. Die durchschnittlichen Latenzwerte werden durch die I/O-Gewichtung bestimmt.
 
 
 
+[[latency-breakdown-counter-chart]]
 == Latenz - Aufschlüsselung der Zähler
 
 Zeigt die gleichen Latenzdaten, die in Lese-, Schreib- und sonstige Latenz getrennt sind, an.
@@ -35,6 +37,7 @@ Diese Diagrammoption wird angewendet, wenn das ausgewählte Objekt eine SVM, ein
 
 
 
+[[latency-cluster-components-counter-chart]]
 == Latenz: Zählerdiagramm der Cluster-Komponenten
 
 Zeigt die Latenzdaten nach Clusterkomponente an. Damit können Sie die Cluster-Komponente identifizieren, die für die Latenz verantwortlich ist. Wenn Sie den Mauszeiger über das Diagramm halten, wird der genaue Latenzbeitrag für jede Komponente angezeigt.
@@ -43,6 +46,7 @@ Diese Diagrammoption wird angewendet, wenn das ausgewählte Objekt eine SVM, ein
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

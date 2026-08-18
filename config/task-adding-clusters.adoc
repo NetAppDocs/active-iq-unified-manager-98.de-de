@@ -15,6 +15,7 @@ Sie können Active IQ Unified Manager ein Cluster hinzufügen, sodass Sie das Cl
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -46,6 +47,7 @@ Sie können Cluster hinzufügen, die sich hinter einer NAT/Firewall befinden, in
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Für eine MetroCluster Konfiguration müssen Sie sowohl die lokalen als auch die Remote-Cluster hinzufügen, und die Cluster müssen korrekt konfiguriert sein.
@@ -54,6 +56,7 @@ Sie können ein einzelnes Cluster durch zwei Instanzen von Unified Manager über
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.
@@ -75,6 +78,7 @@ Wenn das Zertifikat abgelaufen ist, können Sie kein neues Cluster hinzufügen. 
 
 
 
+[[results]]
 == Ergebnisse
 
 Nachdem alle Objekte für ein neues Cluster erkannt wurden (ca. 15 Minuten), erfasst Unified Manager die historischen Performance-Daten der letzten 15 Tage. Diese Statistiken werden mithilfe der Funktionalität zur Datenerfassung erfasst. Diese Funktion bietet Ihnen sofort nach dem Hinzufügen mehr als zwei Wochen Performance-Informationen für einen Cluster. Nach Abschluss des Datenerfassungszyklus werden Cluster-Performance-Daten in Echtzeit standardmäßig alle fünf Minuten erfasst.

@@ -15,6 +15,7 @@ Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen der Wartungbenutzer sein.
@@ -23,6 +24,7 @@ Wenn die Benutzeroberfläche von Unified Manager nicht ausgeführt wird oder Sie
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie in vSphere Client die virtuelle Unified Manager Appliance.

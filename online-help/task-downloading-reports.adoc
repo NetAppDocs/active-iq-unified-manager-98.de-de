@@ -15,6 +15,7 @@ Sie können Berichte herunterladen und die Daten als CSV-Datei (Comma Separated 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf die Schaltfläche *Berichte*, um den Bericht wie folgt herunterzuladen:

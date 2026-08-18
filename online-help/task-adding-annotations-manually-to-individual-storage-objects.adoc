@@ -15,12 +15,14 @@ Ausgewählte Volumes, Cluster und SVMs lassen sich manuell und ohne Verwendung v
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Navigieren Sie zu den Storage-Objekten, die Anmerkungen machen sollen:

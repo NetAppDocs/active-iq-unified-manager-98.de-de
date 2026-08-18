@@ -15,12 +15,14 @@ Wenn kein Zugriff auf die Unified Manager GUI besteht, müssen Sie möglicherwei
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen als Wartungbenutzer Zugriff auf die Wartungskonsole haben.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn die SAML-Authentifizierung deaktiviert ist, führen die konfigurierten Verzeichnisdienstanbieter wie Active Directory oder LDAP eine Anmeldeauthentifizierung durch. Lokale Benutzer und Wartungbenutzer können zusätzlich zu konfigurierten Remote-Benutzern auf die grafische Benutzeroberfläche zugreifen.
@@ -34,6 +36,7 @@ Unified Manager wird automatisch neu gestartet, nachdem die SAML-Authentifizieru
 ====
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich bei der Wartungskonsole an.
@@ -46,12 +49,14 @@ Es wird eine Meldung angezeigt, die bestätigt, dass die SAML-Authentifizierung 
 
 
 
+[[results]]
 == Ergebnisse
 
 Wenn Remote-Benutzer das nächste Mal versuchen, auf die grafische Benutzeroberfläche von Unified Manager zuzugreifen, geben sie ihre Anmeldedaten auf der Anmeldeseite von Unified Manager anstelle der IdP-Anmeldeseite ein.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Greifen Sie bei Bedarf auf Ihr IdP zu, und löschen Sie die URL und Metadaten des Unified Manager-Servers.

@@ -15,6 +15,7 @@ Sie können die SAML-Authentifizierung (Security Assertion Markup Language) akti
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen die Remote-Authentifizierung konfiguriert und bestätigt haben, dass sie erfolgreich ist.
@@ -26,6 +27,7 @@ Sie können die SAML-Authentifizierung (Security Assertion Markup Language) akti
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nachdem Sie die SAML-Authentifizierung von Unified Manager aktiviert haben, können Benutzer erst dann auf die grafische Benutzeroberfläche zugreifen, wenn das IdP mit den Hostinformationen des Unified Manager-Servers konfiguriert wurde. Daher müssen Sie darauf vorbereitet sein, beide Teile der Verbindung abzuschließen, bevor Sie mit dem Konfigurationsprozess beginnen. Das IdP kann vor oder nach der Konfiguration von Unified Manager konfiguriert werden.
@@ -39,6 +41,7 @@ Unified Manager wird automatisch neu gestartet, nachdem Sie die SAML-Konfigurati
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *SAML Authentifizierung*.
@@ -63,12 +66,14 @@ Es wird ein Meldungsfeld angezeigt, um zu bestätigen, dass Sie die Konfiguratio
 
 
 
+[[results]]
 == Ergebnisse
 
 Wenn autorisierte Remote-Benutzer das nächste Mal versuchen, auf die grafische Benutzeroberfläche von Unified Manager zuzugreifen, geben sie ihre Anmeldedaten auf der Anmeldeseite IdP statt auf der Anmeldeseite von Unified Manager ein.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn noch nicht abgeschlossen ist, greifen Sie auf Ihr IdP zu, und geben Sie den URI und die Metadaten des Unified Manager-Servers ein, um die Konfiguration abzuschließen.

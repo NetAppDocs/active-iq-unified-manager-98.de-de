@@ -15,6 +15,7 @@ Sie weisen einem Storage-Objekt eine benutzerdefinierte Performance-Schwellenwer
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -23,6 +24,7 @@ Die Richtlinie für Performance-Schwellenwerte oder -Richtlinien, die Sie auf da
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können nur eine Performance-Richtlinie gleichzeitig auf ein Objekt oder eine Gruppe von Objekten anwenden.
@@ -36,6 +38,7 @@ Sie können jedem Storage-Objekt maximal drei Schwellenwertrichtlinien zuweisen.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite „Performance Inventory“ eines beliebigen Storage-Objekts das Objekt oder die Objekte aus, denen Sie eine Schwellenwertrichtlinie zuweisen möchten:
@@ -87,6 +90,7 @@ Eine Erfolgsmeldung oben auf der Seite bestätigt, dass die Schwellenwertrichtli
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Benachrichtigungen über E-Mail oder als SNMP-Trap gesendet werden sollen, um Sie darüber zu informieren, dass ein bestimmtes Leistungsereignis generiert wurde, müssen Sie die Einstellungen für die Warnmeldung auf der Seite „Alarmkonfiguration“ konfigurieren.

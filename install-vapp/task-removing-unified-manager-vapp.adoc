@@ -15,6 +15,7 @@ Sie können Unified Manager deinstallieren, indem Sie die virtuelle Maschine (VM
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie sollten Zugangsdaten für den Zugriff auf VMware vCenter Server und vSphere Web Client besitzen.
@@ -24,6 +25,7 @@ Sie können Unified Manager deinstallieren, indem Sie die virtuelle Maschine (VM
 
 
 
+[[steps]]
 == Schritte
 
 . Überprüfen Sie mithilfe der Unified ManagerMaintenance-Konsole, ob der Unified Manager-Server keine aktive Verbindung zu einem externen Datenanbieter hat.

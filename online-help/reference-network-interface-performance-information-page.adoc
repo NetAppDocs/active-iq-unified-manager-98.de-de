@@ -15,6 +15,7 @@ Auf der Seite Netzwerkschnittstelle/Leistungsinformationen können Sie eine List
 
 
 
+[[network-interface-attributes]]
 == Attribute der Netzwerkschnittstelle
 
 * *IP-Adresse*

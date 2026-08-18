@@ -15,12 +15,14 @@ Laden Sie vor dem Upgrade von Unified Manager die Upgrade-Datei von der NetApp S
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie sollten die Anmeldedaten für die NetApp Support-Website besitzen.
 
 
 
+[[steps]]
 == Schritte
 
 . Loggen Sie sich auf der NetApp Support Site ein: https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"^]

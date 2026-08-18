@@ -15,6 +15,7 @@ Sie können die Liste der Snapshot Kopien für ein ausgewähltes Volume anzeigen
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können die Liste der Snapshot Kopien für ein ausgewähltes Volume anzeigen
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

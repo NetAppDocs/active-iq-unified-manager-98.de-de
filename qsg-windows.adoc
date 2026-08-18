@@ -10,6 +10,7 @@ summary: Kurzanleitung für Unified Manager auf der Linux-Plattform.
 
 
 
+[[system-requirements]]
 == Systemanforderungen
 
 * Betriebssysteme: Microsoft Windows Server 2016 und 2019 64-Bit Standard und Datacenter Edition. Die folgenden Sprachen werden unterstützt:
@@ -28,10 +29,12 @@ Detaillierte Systemanforderungen finden Sie im link:./install-windows/concept-re
 
 
 
+[[installing-active-iq-unified-manager]]
 == Active IQ Unified Manager wird installiert
 
 
 
+[[download-the-installer]]
 === Laden Sie das Installationsprogramm herunter
 
 . Laden Sie die herunter `ActiveIQUnifiedManager-<version>.exe` Installationspaket.
@@ -40,6 +43,7 @@ Detaillierte Systemanforderungen finden Sie im link:./install-windows/concept-re
 
 
 
+[[install-unified-manager]]
 === Installation Von Unified Manager
 
 Stellen Sie für die Installation von Unified Manager sicher, dass Microsoft .NET 4.5 oder eine neuere Version installiert ist. Im Rahmen des Installationsprozesses installiert Unified Manager je nach Bedarf andere Pakete von Drittanbietern. Weitere Informationen zu den abhängigen Softwarepaketen finden Sie im link:./install-windows/reference-windows-software-and-installation-requirements.html["Windows Software- und Installationsanforderungen"].

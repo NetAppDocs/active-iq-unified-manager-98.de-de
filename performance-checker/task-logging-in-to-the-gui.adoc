@@ -15,6 +15,7 @@ Sie können sich über einen unterstützten Webbrowser bei der Benutzeroberfläc
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Der Webbrowser muss die Mindestanforderungen erfüllen.
@@ -26,12 +27,14 @@ Weitere Informationen finden Sie in der Interoperabilitäts-Matrix unter http://
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie werden automatisch nach 1 Stunde Inaktivität von der Sitzung abgemeldet. Dieser Zeitrahmen kann unter *Allgemein* > *Funktionseinstellungen* konfiguriert werden.
 
 
 
+[[steps]]
 == Schritte
 
 . Geben Sie die URL in Ihren Webbrowser ein `URL` Ist die IP-Adresse oder der vollqualifizierte Domänenname (FQDN) des Unified Manager-Servers:

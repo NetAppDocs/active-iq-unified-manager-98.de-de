@@ -15,6 +15,7 @@ Sie können einen oder mehrere Benutzer aus der Management-Server-Datenbank lös
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Wenn Sie Remote-Gruppen löschen, müssen Sie die Ereignisse neu zugewiesen haben, die den Benutzern der Remote-Gruppen zugewiesen sind.
@@ -26,6 +27,7 @@ Wenn Sie lokale Benutzer oder Remote-Benutzer löschen, werden die diesen Benutz
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Benutzer*.

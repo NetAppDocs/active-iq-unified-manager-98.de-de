@@ -15,6 +15,7 @@ Nach dem Herunterladen der Installationsdatei stellen Sie Unified Manager als vi
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie sollten die Systemanforderungen überprüfen. Nehmen Sie die erforderlichen Änderungen vor der Bereitstellung der virtuellen Unified Manager Appliance vor.
@@ -46,6 +47,7 @@ Informieren Sie sich vor der Bereitstellung der virtuellen Appliance über die f
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Ab Unified Manager 9.8 wurden VMware Tools durch Open VM Tools ersetzt  `open-vm-tools`). Sie müssen VMware Tools nicht im Rahmen der Installation installieren, denn `open-vm-tools` Ist im Unified Manager-Installationspaket enthalten.
@@ -56,6 +58,7 @@ VMware Hochverfügbarkeit für die virtuelle Unified Manager Appliance wird unte
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im vSphere-Client auf *Datei* > *OVF-Vorlage bereitstellen*.
@@ -122,6 +125,7 @@ Die VM-Konsole zeigt die URL der Web-UI von Unified Manager an.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können auf die Web-Benutzeroberfläche zugreifen, um die Ersteinrichtung von Unified Manager durchzuführen, wie unter „_Configuring Active IQ Unified Manager_“ beschrieben.

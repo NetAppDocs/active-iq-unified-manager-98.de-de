@@ -15,12 +15,14 @@ Mit der Wiederherstellungsfunktion in der Ansicht Systemzustand: Alle Volumes k�
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 NTFS-Dateiströme können nicht wiederhergestellt werden.
@@ -33,6 +35,7 @@ Die Wiederherstellungsoption ist nicht verfügbar, wenn:
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der Ansicht *Health: Alle Volumes* ein Volume aus, aus dem Sie Daten wiederherstellen möchten.

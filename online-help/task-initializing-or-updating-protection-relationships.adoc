@@ -15,6 +15,7 @@ Auf der Seite Volume Relationships können Sie eine erste Baseline-Übertragung 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Auf der Seite Volume Relationships können Sie eine erste Baseline-Übertragung 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf der Seite *Volume Relationships* mit der rechten Maustaste auf ein Volume und wählen Sie ein oder mehrere Volumes mit Beziehungen aus, die Sie aktualisieren oder initialisieren möchten, und klicken Sie dann in der Symbolleiste auf *Initialisieren/Aktualisieren*.

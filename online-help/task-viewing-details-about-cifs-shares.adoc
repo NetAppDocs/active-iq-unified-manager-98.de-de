@@ -15,6 +15,7 @@ Sie können Details zu allen SMB-/CIFS-Freigaben anzeigen, z. B. Freigabename, V
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die CIFS-Lizenz muss auf dem Cluster aktiviert sein.
@@ -24,6 +25,7 @@ Sie können Details zu allen SMB-/CIFS-Freigaben anzeigen, z. B. Freigabename, V
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 [NOTE]
@@ -33,6 +35,7 @@ Freigaben in Ordnern werden nicht angezeigt.
 ====
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie im linken Navigationsbereich die folgenden Schritte aus, je nachdem, ob Sie alle SMB/CIFS-Freigaben oder nur die Freigaben für eine bestimmte SVM anzeigen möchten.

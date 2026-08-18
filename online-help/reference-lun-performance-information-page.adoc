@@ -15,6 +15,7 @@ Auf der Seite LUN/Performance Information können Sie eine Liste der physischen 
 
 
 
+[[lun-attributes]]
 == LUN-Attribute
 
 * * WWN*

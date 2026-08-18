@@ -15,6 +15,7 @@ Sie können FabricPool Kapazitätsinformationen für Cluster, Aggregate und Volu
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf diesen Seiten werden Informationen angezeigt, beispielsweise die verfügbare Kapazität auf der lokalen Performance-Tier und auf der Cloud-Tier. Sie erfahren, wie viel Kapazität in beiden Tiers verwendet wird, welche Aggregate an ein Cloud-Tier angebunden sind. Welche Volumes die Funktionen von FabricPool implementieren, indem bestimmte Informationen in das Cloud-Tier verschoben werden
@@ -23,6 +24,7 @@ Wenn ein Cloud-Tier zu einem anderen Cloud-Provider (die "`mMirror Tier`") gespi
 
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie einen der folgenden Schritte aus:
@@ -79,6 +81,7 @@ Auf der Anzeige wird der Name der FabricPool-Tiering-Richtlinie angezeigt, die d
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Weitere Informationen zu FabricPool-Aggregaten finden Sie im Power Guide_ „ _ONTAP 9 Festplatten und Aggregate“.

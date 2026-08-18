@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die Kapazität in einer Excel-Datei zu a
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die Kapazität in einer Excel-Datei zu a
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Gehen Sie wie folgt vor, um eine Integritätsansicht zu öffnen: Alle Aggregate, laden Sie die Ansicht in Excel herunter, erstellen Sie ein verfügbares Kapazitätdiagramm, laden Sie die angepasste Excel-Datei hoch und planen Sie den Abschlussbericht.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Aggregate*.
@@ -104,6 +107,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf der Grundlage der im Bericht gezeigten Ergebnisse sollten Sie möglicherweise untersuchen, wie Sie die verfügbare Kapazität in Ihrem Netzwerk am besten nutzen können.

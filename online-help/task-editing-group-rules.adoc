@@ -15,12 +15,14 @@ Sie können Gruppenregeln bearbeiten, um die Bedingungsgruppen und die Bedingung
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Gruppen*.

@@ -15,6 +15,7 @@ Sie können auf der Seite Volume-/Integritätsdetails eine SnapMirror Beziehung 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können auf der Seite Volume-/Integritätsdetails eine SnapMirror Beziehung 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das Menü * Protect* wird in den folgenden Fällen nicht angezeigt:
@@ -35,6 +37,7 @@ Sie können bis zu 10 Sicherungsjobs gleichzeitig ausführen, ohne die Leistung 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf der Registerkarte *Schutz* der Detailseite *Volumen / Gesundheit* mit der rechten Maustaste in die Topologieansicht auf den Namen eines Volumes, das Sie schützen möchten.
@@ -62,6 +65,7 @@ Die neue Beziehung wird auf der Topologieansicht Volume / Health Details angezei
 
 
 
+[[results]]
 == Ergebnisse
 
 Je nachdem, welche Ziel-SVM Sie während der Konfiguration oder in den Optionen angegeben haben, die Sie in den erweiterten Einstellungen aktiviert haben, kann die SnapMirror Beziehung eine oder mehrere mögliche Varianten sein:

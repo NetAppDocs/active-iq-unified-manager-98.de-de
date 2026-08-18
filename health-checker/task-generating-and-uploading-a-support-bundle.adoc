@@ -15,12 +15,14 @@ Sie können ein Support-Paket mit Diagnoseinformationen erstellen, damit Sie es 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen als Wartungbenutzer Zugriff auf die Wartungskonsole haben.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Da einige Arten von Support-Daten große Mengen von Cluster-Ressourcen verwenden oder sehr viel Zeit in Anspruch nehmen können, können Sie bei Auswahl des vollständigen Support-Pakets Datentypen angeben, die ein- oder ausschließen sollen, um die Größe des Support-Pakets zu verringern. Sie haben auch die Möglichkeit, ein einfaches Support-Bundle zu erstellen, das nur 30 Tage Protokolle und Konfigurationsdatenbanken enthält - es schließt Performancedaten, Erfassungsdateien und Server Heap Dump aus.
@@ -29,6 +31,7 @@ Unified Manager speichert nur die zwei zuletzt erstellten Support Bundles. Älte
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der Wartungskonsole *Hauptmenü* die Option *Support/Diagnose*.
@@ -90,6 +93,7 @@ Das Support Bundle wird auf NetApp hochgeladen.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Ihr Unified Manager-Server nicht mit dem Internet verbunden ist oder Sie das Support-Paket aus einem anderen Grund nicht hochladen können, können Sie es abrufen und manuell senden. Sie können den Client mit einem SFTP-Client oder unter Verwendung von UNIX- oder Linux-CLI-Befehlen abrufen. Unter Windows-Installationen können Sie Remote Desktop (RDP) verwenden, um das Supportpaket abzurufen.

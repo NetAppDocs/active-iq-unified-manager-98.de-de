@@ -15,12 +15,14 @@ Nachdem Sie zur Seite Volume / Health Details eines gemeldeten Volumes navigiere
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn das offline gemeldete Volume nicht absichtlich offline geschaltet wurde, ist das Volume aus verschiedenen Gründen offline.
@@ -29,6 +31,7 @@ Beginnend mit der Seite Volume / Health Details des Offline-Volumes können Sie 
 
 
 
+[[choices]]
 == Wahlmöglichkeiten
 
 * Klicken Sie auf *Volume / Health* Details Seite Links, um festzustellen, ob das Volume offline ist, weil sein Host-Knoten ausgefallen ist und Storage Failover zu seinem HA-Paar-Partner hat auch fehlgeschlagen.

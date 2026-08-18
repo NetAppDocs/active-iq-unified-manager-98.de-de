@@ -15,12 +15,14 @@ Sie können die QoS-Richtliniengruppen anzeigen, die auf Ihre Volumes und LUNs a
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nachfolgend sind die Schritte zur Anzeige der QoS-Richtlinie, die auf ein Volume angewendet wird, aufgeführt. Die Schritte zum Anzeigen dieser Informationen für eine LUN sind ähnlich.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

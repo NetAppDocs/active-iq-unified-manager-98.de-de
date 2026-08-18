@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die Version der ONTAP Software anzuzeige
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die Version der ONTAP Software anzuzeige
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Führen Sie die folgenden Schritte aus, um eine benutzerdefinierte Ansicht zu erstellen, in der Nodes mit älteren ONTAP-Versionen angezeigt werden, und planen Sie anschließend einen Bericht für diese Ansicht zu erstellen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherung* > *Knoten*.
@@ -45,6 +48,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf der Grundlage der im Bericht gezeigten Ergebnisse sollten Sie möglicherweise ein Upgrade auf Nodes durchführen, auf denen ältere Versionen von ONTAP laufen.

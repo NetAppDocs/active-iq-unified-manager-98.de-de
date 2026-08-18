@@ -15,6 +15,7 @@ Im Unified Manager können Skripts hinzugefügt und die Skripte mit Warnmeldunge
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen die Skripte erstellt und gespeichert haben, die Sie dem Unified Manager-Server hinzufügen möchten.
@@ -60,6 +61,7 @@ Wenn Ihr Skript Protokolldateien erstellt, um den Fortschritt des Warnungsskript
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können benutzerdefinierte Skripts hochladen und Ereignisdetails zu der Meldung erfassen.
@@ -71,6 +73,7 @@ Wenn diese Funktion in der Benutzeroberfläche nicht angezeigt wird, liegt sie d
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Scripts*.

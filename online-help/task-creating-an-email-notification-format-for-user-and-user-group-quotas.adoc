@@ -15,12 +15,14 @@ Sie können ein Benachrichtigungsformat für E-Mails erstellen, die an einen Ben
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Quota E-Mail Format*.

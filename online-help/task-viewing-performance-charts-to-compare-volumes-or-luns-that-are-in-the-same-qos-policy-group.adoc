@@ -15,12 +15,14 @@ Sie können die Volumes und LUNs in denselben QoS-Richtliniengruppen anzeigen un
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Schritte zum Vergleich der Performance von Volumes in derselben QoS-Richtliniengruppe sind unten dargestellt. Die Schritte zum Anzeigen dieser Informationen für eine LUN sind ähnlich.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

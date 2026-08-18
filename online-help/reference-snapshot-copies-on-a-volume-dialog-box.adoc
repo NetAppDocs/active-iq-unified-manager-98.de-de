@@ -15,6 +15,7 @@ Mit den Snapshot Kopien im Dialogfeld Volume können Sie die Liste der Snapshot 
 
 
 
+[[list-view]]
 == Listenansicht
 
 Die Listenansicht zeigt Informationen über die Snapshot Kopien auf dem Volume in Tabellenformat an. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen.
@@ -43,6 +44,7 @@ Zeigt die Applikationen an, die von der Snapshot Kopie abhängig sind. Mögliche
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

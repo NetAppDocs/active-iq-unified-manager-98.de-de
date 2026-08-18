@@ -15,6 +15,7 @@ Mit der Maus können Sie den Zeitbereich reduzieren, um sich auf einen bestimmte
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Der Cursor muss in eine Lupe geändert werden, um anzuzeigen, dass diese Funktion aktiv ist.
@@ -26,6 +27,7 @@ Bei Verwendung dieser Funktion, die die Zeitleiste so ändert, dass Werte angeze
 ====
 
 
+[[steps]]
 == Schritte
 
 . Um einen bestimmten Zeitraum anzuzeigen, klicken Sie auf die Lupe und ziehen Sie die Maus, um den Bereich hervorzuheben, den Sie im Detail sehen möchten.

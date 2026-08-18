@@ -15,12 +15,14 @@ Sie können die Volumes und LUNs, die Sie für das Programm „`Performance Guar
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Garantie für Latenz-Performance beträgt eine Millisekunde pro Operation, der nicht überschritten werden sollte. Er basiert auf einem stündlichen Durchschnitt und nicht auf dem Standardzeitraum der Performance-Erfassung in fünf Minuten.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der *Performance: Alle Volumes* Ansicht oder *Performance: Alle LUNs* Ansicht den gewünschten Volume oder LUN aus.

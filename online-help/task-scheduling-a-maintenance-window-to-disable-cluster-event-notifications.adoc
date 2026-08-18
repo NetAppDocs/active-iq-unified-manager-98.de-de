@@ -15,12 +15,14 @@ Wenn Sie z. B. vor einer geplanten Ausfallzeit für ein Cluster stehen, um ein C
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Während eines Wartungsfensters werden die Ereignisse, die mit allen Objekten auf dem Cluster zusammenhängen, weiterhin generiert, jedoch nicht auf der Ereignisseite angezeigt und für diese Ereignisse werden keine Meldungen oder andere Arten von Benachrichtigungen gesendet.
@@ -29,6 +31,7 @@ Die Zeit, die Sie für das Wartungsfenster eingeben, basiert auf der Zeit im Uni
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.
@@ -44,6 +47,7 @@ Neben dem Schieberegler wird die Meldung „`Scheduled`“ angezeigt.
 
 
 
+[[results]]
 == Ergebnisse
 
 Wenn die Startzeit erreicht ist, wechselt das Cluster in den Wartungsmodus und ein Ereignis „`Object Maintenance Window gestartet`“ wird generiert.

@@ -21,6 +21,7 @@ Folgende Schwellenwerte können Sie festlegen: Kapazität, Volume Snapshot-Kopie
 
 
 
+[[capacity-area]]
 == Kapazität
 
 Im Kapazitätsbereich können Sie die folgenden Schwellwerte für die Volume-Kapazität einstellen. Beachten Sie, dass bei Aktivierung von Autogrow auf einem Volume die Kapazitätsschwellenwerte basierend auf der durch Autogrow festgelegten maximalen Volume-Größe gelten und nicht auf der ursprünglichen Volume-Größe basieren.
@@ -62,6 +63,7 @@ Gibt die Anzahl der verbleibenden Tage an, bevor die volle Kapazität des Volume
 
 
 
+[[snapshot-copies-area]]
 == Bereich der Snapshot-Kopien
 
 Im Bereich Snapshot Kopien können Sie die folgenden Schwellwerte für die Snapshot Kopien im Volume festlegen:
@@ -122,6 +124,7 @@ FlexVol Volumes mit ONTAP 9.4 oder höher und FlexGroup Volumes mit ONTAP 9.8 od
 
 
 
+[[qtree-quota-area]]
 == Qtree-Kontingentbereich
 
 Der Qtree Quota Bereich ermöglicht es Ihnen, die folgenden Volumen Quota Schwellenwerte einzustellen:
@@ -150,6 +153,7 @@ Gibt den Prozentsatz an, mit dem ein Volume als durch qtree Kontingente übereng
 
 
 
+[[growth-area]]
 == Wachstumsbereich
 
 Im Wachstumsbereich können Sie die folgenden Schwellwerte für das Volumenwachstum festlegen:
@@ -185,6 +189,7 @@ Wenn Sie die Wachstumssensitivität für Volumes auf der globalen Schwellenebene
 
 
 
+[[inodes-area]]
 == Inodes-Bereich
 
 Im Inodes-Bereich können Sie die folgenden Schwellwerte für Inodes festlegen:

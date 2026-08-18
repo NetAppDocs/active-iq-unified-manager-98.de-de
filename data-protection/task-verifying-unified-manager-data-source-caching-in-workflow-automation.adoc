@@ -15,12 +15,14 @@ Sie können feststellen, ob das Caching der Datenquelle von Unified Manager ordn
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Um diese Aufgabe ausführen zu können, müssen Sie in Workflow Automation entweder die Administratorrolle oder die Rolle „Architekt“ zuweisen.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der Workflow Automation UI *Ausführung* > *Datenquellen* aus.

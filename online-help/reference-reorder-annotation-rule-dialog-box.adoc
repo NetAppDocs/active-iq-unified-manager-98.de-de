@@ -15,6 +15,7 @@ summary: Über das Dialogfeld Anmerkungsregel neu anordnen können Sie die Reihe
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -31,6 +32,7 @@ Schließt das Dialogfeld Anmerkungsregel neu anordnen, ohne die vorgenommenen Ä
 
 
 
+[[list-view]]
 == Listenansicht
 
 * * Rang*

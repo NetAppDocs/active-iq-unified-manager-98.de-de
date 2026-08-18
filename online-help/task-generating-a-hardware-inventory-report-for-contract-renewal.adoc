@@ -15,12 +15,14 @@ Sie können einen Bericht generieren, der eine vollständige Liste von Cluster- 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherung* > *Knoten*.

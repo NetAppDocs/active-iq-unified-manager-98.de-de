@@ -15,6 +15,7 @@ Sie können auf der Seite „Inventar des Event Managements“ eine Liste aller 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -22,6 +23,7 @@ Sie können auf der Seite „Inventar des Event Managements“ eine Liste aller 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Liste der Ereignisse wird nach festgestellter Zeit sortiert, wobei die letzten Ereignisse zuerst aufgeführt werden. Sie können auf eine Spaltenüberschrift klicken, um die Ereignisse basierend auf dieser Spalte zu sortieren. Beispielsweise können Sie nach der Spalte Status sortieren, um Ereignisse nach dem Schweregrad anzuzeigen. Wenn Sie nach einem bestimmten Ereignis oder nach einem bestimmten Ereignis suchen, können Sie mit den Filter- und Suchmechanismen die Liste der Ereignisse, die in der Liste angezeigt werden, verfeinern.
@@ -37,6 +39,7 @@ Die Spalte Ereignistyp enthält die Quelle des Ereignisses. Sie können ein Erei
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisverwaltung*.

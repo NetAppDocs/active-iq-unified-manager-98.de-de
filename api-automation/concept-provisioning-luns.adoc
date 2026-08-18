@@ -261,6 +261,7 @@ Sie sehen, dass die POST-Methode von `/storage-provider/luns` Intern ruft alle f
 
 
 
+[[troubleshooting-steps-for-failure-in-lun-creation-or-mapping]]
 == Fehlerbehebungsschritte für Fehler bei der LUN-Erstellung oder -Zuordnung
 
 Beim Abschließen dieses Workflows wird möglicherweise immer noch ein Fehler bei der LUN-Erstellung angezeigt. Selbst wenn die LUN erfolgreich erstellt wird, schlägt die LUN-Zuordnung mit der Initiatorgruppe möglicherweise fehl, da eine SAN-LIF nicht verfügbar ist oder der Zugriffskpunkt auf dem Node, auf dem Sie die LUN erstellen, nicht verfügbar ist. Bei einem Ausfall wird die folgende Meldung angezeigt:

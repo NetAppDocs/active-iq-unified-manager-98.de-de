@@ -27,6 +27,7 @@ Enthält eine aussagekräftige Beschreibung der Anmerkung. Sie können dieses Fe
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern und Schließen*

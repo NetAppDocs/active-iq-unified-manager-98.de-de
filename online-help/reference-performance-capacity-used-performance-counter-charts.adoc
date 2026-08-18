@@ -23,6 +23,7 @@ Es stehen zwei Arten von Diagrammen zur Nutzung der Performance-Kapazität zur V
 
 
 
+[[performance-capacity-used-total-counter-chart]]
 == Genutzte Performance-Kapazität – Zählerdiagramm insgesamt
 
 Zeigt den Prozentsatz der Performance-Kapazität an, die vom Node oder Aggregat verbraucht wird.
@@ -43,12 +44,14 @@ Der Kapazitätswert liegt über dem Warnschwellenwert und nähert sich dem in Un
 
 
 
+[[performance-capacity-used-breakdown-counter-chart]]
 == Genutzte Performance-Kapazität – Aufschlüsselung der Zähler
 
 Zeigt denselben Prozentsatz der Performance-Kapazität an, die in Benutzerprotokolle, System-Hintergrundprozesse und die Menge an freier Performance-Kapazität unterteilt ist.
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

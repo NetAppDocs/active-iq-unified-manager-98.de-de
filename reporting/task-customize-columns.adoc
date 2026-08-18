@@ -15,6 +15,7 @@ Wählen Sie mit *ein-/Ausblenden* die Spalten aus, die Sie in Ihrem Bericht verw
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf *ein-/Ausblenden*, um Spalten hinzuzufügen oder zu entfernen.

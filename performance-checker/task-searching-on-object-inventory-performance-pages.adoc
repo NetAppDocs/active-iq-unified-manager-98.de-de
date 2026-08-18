@@ -15,6 +15,7 @@ Sie können Zeichenfolgen auf den Seiten „Objektbestandsleistung“ suchen. Ve
 
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie je nach Ihren Suchanforderungen eine der folgenden Optionen durch:

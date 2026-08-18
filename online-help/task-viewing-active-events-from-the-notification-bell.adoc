@@ -15,6 +15,7 @@ Die Benachrichtigungsklingel (image:../media/notification-bell.png[""]) In der M
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Liste der aktiven Ereignisse bietet eine Möglichkeit, die Gesamtzahl der kritischen, Fehler-, Warn- und Upgrade-Ereignisse auf allen Clustern anzuzeigen. Diese Liste enthält Ereignisse der letzten 7 Tage und enthält keine Informationsereignisse. Sie können auf einen Link klicken, um die Liste der Veranstaltungen anzuzeigen, für die Sie sich am meisten interessieren.
@@ -23,6 +24,7 @@ Hinweis: Wenn ein Cluster nicht erreichbar ist, zeigt Unified Manager diese Info
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie in der Menüleiste auf image:../media/notification-bell.png[""].

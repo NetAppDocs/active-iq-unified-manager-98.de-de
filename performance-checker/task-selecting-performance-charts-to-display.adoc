@@ -15,6 +15,7 @@ In der Dropdown-Liste Diagramme auswählen können Sie die Arten von Performance
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im Fensterbereich *Counter Charts* auf die Dropdown-Liste *Diagramme auswählen*.

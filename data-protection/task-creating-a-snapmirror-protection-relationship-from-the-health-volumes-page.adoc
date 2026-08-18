@@ -15,6 +15,7 @@ Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das Erstellen
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Nutzung der Ansicht „Systemzustand“: Alle Volumes ermöglichen das Erstellen
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das Menü * Protect* wird in den folgenden Fällen nicht angezeigt:
@@ -33,6 +35,7 @@ Das Menü * Protect* wird in den folgenden Fällen nicht angezeigt:
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie in der Ansicht *Gesundheit: Alle Volumes* ein Volume aus, das Sie schützen möchten.
@@ -69,6 +72,7 @@ Wenn Sie nur eine Schutzbeziehung erstellen, wird die Seite Jobdetails angezeigt
 
 
 
+[[results]]
 == Ergebnisse
 
 Je nachdem, welche Ziel-SVM Sie während der Konfiguration oder in den Optionen angegeben haben, die Sie in den erweiterten Einstellungen aktiviert haben, kann die SnapMirror Beziehung eine oder mehrere mögliche Varianten sein:

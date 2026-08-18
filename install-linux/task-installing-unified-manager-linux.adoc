@@ -15,6 +15,7 @@ Sie können Unified Manager auf einer physischen oder virtuellen Red hat Enterpr
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das System, auf dem Unified Manager installiert werden soll, muss die System- und Softwareanforderungen erfüllen.
@@ -31,12 +32,14 @@ xref:reference-red-hat-and-centos-software-and-installation-requirements.adoc[An
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf dem Red hat Enterprise Linux oder CentOS System sind möglicherweise alle erforderlichen Versionen der erforderlichen Hilfssoftware (Java, MySQL, zusätzliche Dienstprogramme) installiert, nur einige der erforderlichen Software installiert oder es kann sich um ein neu installiertes System mit keiner der erforderlichen Software handelt.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich beim Server an, auf dem Sie Unified Manager installieren.
@@ -144,6 +147,7 @@ Log in to Unified Manager in a web browser by using following details:
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Greifen Sie auf die Web-Benutzeroberfläche zu, um das Standardpasswort des umadmin-Benutzers zu ändern, und führen Sie die Ersteinrichtung von Unified Manager durch, wie in beschrieben link:../config/concept-configuring-unified-manager.html["Active IQ Unified Manager wird konfiguriert"].

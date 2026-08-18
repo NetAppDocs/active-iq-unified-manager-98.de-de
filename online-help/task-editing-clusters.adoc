@@ -15,12 +15,14 @@ Sie können die Einstellungen eines vorhandenen Clusters, z. B. Host-Name oder I
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 [NOTE]
@@ -30,6 +32,7 @@ Ab Unified Manager 9.7 können Cluster nur mit HTTPS hinzugefügt werden.
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.

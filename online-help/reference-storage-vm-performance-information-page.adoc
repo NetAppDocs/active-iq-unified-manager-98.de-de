@@ -15,6 +15,7 @@ Auf der Seite Storage VM/Performance Information können Sie eine Liste der konf
 
 
 
+[[storage-vm-attributes]]
 == Attribute für Storage-VMs
 
 * *IP-Adresse*

@@ -15,6 +15,7 @@ Wenn ein Quell-Volume in Ihrer Sicherungsbeziehung aufgrund eines Hardware-Ausfa
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Wenn ein Quell-Volume in Ihrer Sicherungsbeziehung aufgrund eines Hardware-Ausfa
 
 
 
+[[steps]]
 == Schritte
 
 . xref:task-breaking-a-snapmirror-relationship-from-the-health-volume-details-page.adoc[SnapMirror Beziehung unterbrechen].

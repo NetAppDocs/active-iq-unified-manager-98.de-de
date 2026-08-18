@@ -72,6 +72,7 @@ Die Speicherplatzzusage ist standardmäßig auf das Volume festgelegt.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:
@@ -85,7 +86,3 @@ Speichert die ausgewählten Effizienzeinstellungen und wendet diese an, wenn Sie
 Legt die Auswahl auf und schließt das Dialogfeld Erweiterte Zieleinstellungen.
 
 
-
-*Verwandte Informationen*
-
-https://www.netapp.com/pdf.html?item=/media/19753-tr-3966.pdf["Technischer Bericht 3966 von NetApp: Leitfaden zur NetApp Datenkomprimierung und Deduplizierung sowie Implementierungsleitfaden (Clustered Data ONTAP)"^]

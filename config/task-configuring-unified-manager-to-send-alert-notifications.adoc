@@ -15,18 +15,21 @@ Sie können Unified Manager so konfigurieren, dass Sie Benachrichtigungen über 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Nach der Bereitstellung von Unified Manager und dem Abschluss der Erstkonfiguration sollten Sie Ihre Umgebung in Betracht ziehen, um Warnmeldungen auszulösen und auf der Grundlage des Eingangs von Ereignissen Benachrichtigungs-E-Mails oder SNMP-Traps zu generieren.
 
 
 
+[[steps]]
 == Schritte
 
 . link:task-configuring-event-notification-settings.html["Konfigurieren Sie die Einstellungen für Ereignisbenachrichtigungen"]

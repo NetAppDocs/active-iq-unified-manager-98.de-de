@@ -15,18 +15,21 @@ Sie können Ressourcenpools löschen, wenn sie nicht mehr benötigt werden. Beis
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Schaltfläche *Löschen* ist nur aktiviert, wenn mindestens ein Ressourcen-Pool ausgewählt ist.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *Ressourcen-Pools*.

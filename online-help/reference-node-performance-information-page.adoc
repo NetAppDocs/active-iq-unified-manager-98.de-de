@@ -15,6 +15,7 @@ Auf der Seite Node/Performance Information können Sie eine Liste der physischen
 
 
 
+[[node-attributes]]
 == Knotenattribute
 
 * *IP-Adresse*
@@ -81,6 +82,7 @@ Falls verfügbar, ist der gesamte verfügbare Speicher des Controllers.
 
 
 
+[[flash-devices]]
 == Flash-Geräte
 
 [NOTE]

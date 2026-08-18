@@ -15,6 +15,7 @@ Sie können eine erste Basistransfer für eine neue Schutzbeziehung durchführen
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können eine erste Basistransfer für eine neue Schutzbeziehung durchführen
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie auf der Registerkarte *Schutz* der Seite *Volume / Health* Details in der Topologie die Schutzbeziehung, die Sie initialisieren oder aktualisieren möchten, und klicken Sie dann mit der rechten Maustaste darauf.

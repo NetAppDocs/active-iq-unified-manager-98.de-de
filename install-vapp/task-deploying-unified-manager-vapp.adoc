@@ -15,6 +15,7 @@ Die Bereitstellung von Unified Manager umfasst das Herunterladen von Software, d
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie sollten die Systemanforderungen für die Implementierung überprüfen und vervollständigen.
@@ -34,6 +35,7 @@ xref:concept-requirements-for-installing-unified-manager.adoc[Systemanforderunge
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können Unified Manager als virtuelle Appliance auf einem VMware ESXi Server bereitstellen.
@@ -47,6 +49,7 @@ Ab Unified Manager 9.8 wurden VMware Tools durch Open VM Tools ersetzt  `open-vm
 ====
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nachdem Sie die Implementierung und das Setup abgeschlossen haben, können Sie entweder Cluster hinzufügen oder zusätzliche Netzwerkeinstellungen in der Wartungskonsole konfigurieren und anschließend auf die Web-Benutzeroberfläche zugreifen.

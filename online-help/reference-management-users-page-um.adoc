@@ -15,6 +15,7 @@ Auf der Seite Benutzer wird eine Liste Ihrer Benutzer und Gruppen angezeigt. Sie
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie für ausgewählte Benutzer die folgenden Aufgaben ausführen:
@@ -45,6 +46,7 @@ Sie können diese Aufgabe nur ausführen, wenn Ihr Authentifizierungsserver akti
 
 
 
+[[list-view]]
 == Listenansicht
 
 Die Listenansicht zeigt in tabellarischer Form Informationen zu den erstellten Benutzern an. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen.

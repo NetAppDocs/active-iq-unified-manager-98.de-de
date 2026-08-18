@@ -15,6 +15,7 @@ Mithilfe von Unified Manager können Sie ein Aggregat auf einem Node in einem an
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -26,6 +27,7 @@ Mithilfe von Unified Manager können Sie ein Aggregat auf einem Node in einem an
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Anhand dieser Schritte werden die folgenden Ressourcen ermittelt, damit Sie hochperformante Workloads auf einen weniger ausgelasteten Node in einem anderen HA-Paar verschieben können:
@@ -37,6 +39,7 @@ Anhand dieser Schritte werden die folgenden Ressourcen ermittelt, damit Sie hoch
 
 
 
+[[steps]]
 == Schritte
 
 . Identifizieren Sie die Nodes, die zu einem anderen HA-Paar auf demselben Cluster gehören:
@@ -101,6 +104,7 @@ Sie können den Vorgang der Verschiebung mit ONTAP System Manager, OnCommand Wor
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Prüfen Sie nach einigen Tagen, ob Sie dieselbe Art von Ereignissen von diesem Node oder Aggregat erhalten.

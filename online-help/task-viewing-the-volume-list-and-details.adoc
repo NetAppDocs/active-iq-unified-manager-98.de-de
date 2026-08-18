@@ -15,18 +15,21 @@ In der Ansicht „Systemzustand: Alle Volumes“ können Sie Ihr Inventar von Vo
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf der Seite Volume/Health Details können Sie auch detaillierte Informationen zu überwachten Volumes anzeigen, einschließlich Kapazität, Effizienz, Konfiguration und Sicherung der Volumes. Sie können auch Informationen zu den zugehörigen Geräten und zugehörigen Warnmeldungen für ein bestimmtes Volume anzeigen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

@@ -15,18 +15,21 @@ Wenn Sie mehr Festplattenspeicher für die Unified Manager-Datenbank benötigen,
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über Administratorrechte für Windows verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wir empfehlen, dass Sie die Unified Manager-Datenbank sichern, bevor Sie Speicherplatz hinzufügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Administrator beim Windows-Server an, auf dem Sie Speicherplatz hinzufügen möchten.
@@ -59,7 +62,7 @@ Erhöhen Sie auf einer virtuellen Maschine die Größe einer Laufwerkspartition.
  a| 
 Folgen Sie den Schritten im VMware Thema:
 
-https://kb.vmware.com/selfservice/microsites/search.do?language=en_US&cmd=displayKC&externalId=1004071["Vergrößern einer Laufwerkspartition"^]
+https://knowledge.broadcom.com/external/article/323136/increasing-the-size-of-a-virtual-disk-pa.html["Vergrößern einer Laufwerkspartition"^]
 
 |===
 

@@ -15,6 +15,7 @@ Sie können Konnektivitätsprobleme in Ihrer MetroCluster-Konfiguration überwac
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die lokalen und die Remote-Cluster in der MetroCluster Konfiguration müssen dem Active IQ Unified Manager hinzugefügt werden.
@@ -23,6 +24,7 @@ Sie können Konnektivitätsprobleme in Ihrer MetroCluster-Konfiguration überwac
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die auf der Seite Cluster/Health Details angezeigten Informationen verwenden, um Verbindungsprobleme zu beheben. Wenn z. B. die Verbindung zwischen dem Node und dem Switch in einem Cluster ausgefallen ist, wird das folgende Symbol angezeigt:
@@ -37,6 +39,7 @@ Die Registerkarte MetroCluster-Konnektivität wird nur für Cluster in einer Met
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.
@@ -52,6 +55,7 @@ Die Topologie der MetroCluster-Konfiguration wird im entsprechenden Cluster-Obje
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Sie Konnektivitätsprobleme in Ihrer MetroCluster-Konfiguration feststellen, müssen Sie sich bei System Manager einloggen oder auf die ONTAP-CLI zugreifen, um die Probleme zu beheben.

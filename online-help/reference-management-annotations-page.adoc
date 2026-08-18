@@ -17,6 +17,7 @@ Wenn Sie sich als Operator anmelden, haben Sie nur Lesezugriff auf die Seite. Si
 
 
 
+[[annotations-tab]]
 == Registerkarte „Anmerkungen“
 
 Auf der Registerkarte Anmerkungen können Sie Anmerkungen in Unified Manager anzeigen, erstellen, bearbeiten oder löschen.
@@ -29,6 +30,7 @@ Zeigt die Namen der vordefinierten und benutzerdefinierten Anmerkungen an. Die A
 
 
 
+[[summary-area]]
 == Zusammenfassungsbereich
 
 Sie können die folgenden Details der ausgewählten Anmerkung anzeigen:
@@ -49,6 +51,7 @@ Zeigt das Datum an, an dem die Anmerkung erstellt wurde.
 
 
 
+[[annotationvalues-pairs]]
 == Anmerkung=Werte Paare
 
 Zeigt die Liste der Anmerkungswertpaare und der zugehörigen Speicherobjekte an, die für die ausgewählte Anmerkung verfügbar sind.
@@ -73,6 +76,7 @@ Zeigt die Anzahl der Volumes an, die mit einem bestimmten Anmerkungspaar=Wert ve
 
 
 
+[[object-associations-via-rules]]
 == Objektzuweisungen über Regeln
 
 Zeigt die Liste der Anmerkungsregeln und die zugehörigen Speicherobjekte für die ausgewählte Anmerkung an.
@@ -101,6 +105,7 @@ Zeigt die Anzahl der Storage-Objekte an, die basierend auf der Anmerkungsregel m
 
 
 
+[[manual-object-associations]]
 == Manuelle Objektzuordnungen
 
 Zeigt die Liste der Anmerkungen an, die Sie manuell konfiguriert und mit Speicherobjekten verknüpft haben.
@@ -125,6 +130,7 @@ Zeigt die Anzahl der Volumes an, die mit einem bestimmten manuellen Anmerkungswe
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen. Für vordefinierte Anmerkungen können Sie keine Werte hinzufügen oder löschen.
@@ -149,12 +155,14 @@ Ermöglicht das Löschen des Anmerkungswerts. Sie können den Wert nur löschen,
 
 
 
+[[annotation-rules-tab]]
 == Registerkarte „Anmerkungsregeln“
 
 Auf der Registerkarte Annotationsregeln werden die Anmerkungsregeln angezeigt, die Sie zum Kommentieren von Speicherobjekten erstellt haben. Sie können Aufgaben wie Hinzufügen, Bearbeiten, Löschen oder Neuanordnen einer Anmerkungsregel durchführen. Sie können auch die Anzahl der Speicherobjekte anzeigen, die der Anmerkungsregel entsprechen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -179,6 +187,7 @@ Zeigt das Dialogfeld Anmerkungsregel neu anordnen an, mit dem Sie die Reihenfolg
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden die Anmerkungsregeln angezeigt, die Sie auf dem Unified Manager-Server erstellt haben. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen. Die Listenansicht der Registerkarte Anmerkungsregeln und die Listenansicht des Abschnitts zugewiesene Regeln auf der Registerkarte Anmerkung enthält die folgenden Spalten:

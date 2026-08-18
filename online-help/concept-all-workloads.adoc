@@ -30,12 +30,14 @@ Mit der Option *Workloads* > *Alle Workloads* können Sie mehrere Aufgaben ausf�
 
 
 
+[[adding-or-provisioning-storage-workloads]]
 == Hinzufügen oder Bereitstellen von Storage Workloads
 
 Sie können die Storage-Workloads zu unterstützten LUNs (unterstützt sowohl iSCSI- als auch FCP-Protokolle), NFS-Dateifreigaben und SMB-Freigaben hinzufügen oder bereitstellen.
 
 
 
+[[viewing-and-filtering-workloads]]
 == Anzeigen und Filtern von Workloads
 
 Im Bildschirm Alle Workloads können Sie alle Workloads in Ihrem Datacenter anzeigen oder anhand der zugehörigen PSLs oder Namen nach bestimmten Storage Workloads suchen. Über das Filtersymbol können Sie spezifische Bedingungen für Ihre Suche eingeben. Sie können unterschiedliche Filterbedingungen suchen, z. B. nach dem Host-Cluster oder der Storage-VM. Die Option *Capacity Total* ermöglicht das Filtern nach der Gesamtkapazität der Workloads (nach MB). In diesem Fall kann jedoch die Anzahl der zurückgegebenen Workloads variieren, da die Gesamtkapazität auf Byte-Ebene verglichen wird.
@@ -48,6 +50,7 @@ xref:concept-troubleshooting-workloads-using-the-workload-analyzer.adoc[Fehlersu
 
 
 
+[[analyzing-performance-and-capacity-criteria-for-a-workload]]
 == Analyse der Performance- und Kapazitätskriterien für einen Workload
 
 Sie können Leistungsinformationen über einen Workload anzeigen, um bei der Fehlerbehebung zu helfen, indem Sie auf das Balkendiagramm-Symbol in der Spalte *Performance View* klicken. Um Performance- und Kapazitätsdiagramme auf der Seite Workload Analysis anzuzeigen, um das Objekt zu analysieren, klicken Sie auf die Schaltfläche *Workload analysieren*.

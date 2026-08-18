@@ -17,12 +17,14 @@ Die Seite Gruppen enthält Registerkarten, auf denen Sie Gruppen-, Gruppenregeln
 
 
 
+[[groups-tab]]
 == Registerkarte „Gruppen“
 
 Auf der Registerkarte Gruppen werden der Name und die Beschreibung der von Ihnen erstellten Gruppen angezeigt. Sie können Aufgaben wie das Hinzufügen, Bearbeiten oder Löschen einer Gruppe ausführen. Auf der Registerkarte wird außerdem die Anzahl der Gruppenregeln und Gruppenaktionen angezeigt, die einer Gruppe, der Anzahl der Cluster, SVMs und Volumes in der Gruppe zugeordnet sind.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -44,6 +46,7 @@ Löscht die ausgewählte Gruppe.
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden die Gruppen angezeigt, die Sie in Unified Manager erstellt haben. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen. Standardmäßig ist die Liste nach Gruppennamen sortiert.
@@ -80,12 +83,14 @@ Zeigt die Anzahl der Volumes an, die in der Gruppe enthalten sind.
 
 
 
+[[group-rules-tab]]
 == Registerkarte Gruppenregeln
 
 Auf der Registerkarte Gruppenregeln werden die Gruppenregeln angezeigt, die Sie für Gruppen erstellt haben, um Speicherobjekte zu enthalten. Sie können Aufgaben wie das Hinzufügen, Bearbeiten oder Löschen einer Gruppenregel ausführen. Auf der Registerkarte wird auch der Gruppenname angezeigt, für den die Gruppenregel erstellt wurde, und das Speicherobjekt, für das die Regel angewendet wird. Sie können auch die Anzahl der Speicherobjekte anzeigen, die die Gruppenregel erfüllen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -104,6 +109,7 @@ Löscht die ausgewählte Gruppenregel.
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden die Gruppenregeln angezeigt, die Sie für ein bestimmtes Speicherobjekt (Cluster, Volumes oder SVMs) erstellt haben, und die Anzahl der Speicherobjekte, die der definierten Gruppenregel entsprechen.
@@ -128,12 +134,14 @@ Zeigt die Anzahl der in der Gruppe enthaltenen Speicherobjekte basierend auf der
 
 
 
+[[group-actions-tab]]
 == Registerkarte Gruppenaktionen
 
 Auf der Registerkarte Gruppenaktionen werden Name und Typ der Gruppenaktionen angezeigt, die Sie für Gruppen definieren. Sie können Aufgaben wie das Hinzufügen, Bearbeiten, Löschen oder Neuanordnen der Gruppenaktionen ausführen. Auf der Registerkarte wird auch der Name der Gruppe angezeigt, auf die die Gruppenaktion angewendet wird.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -156,6 +164,7 @@ Zeigt das Dialogfeld Gruppenaktionen neu anordnen an, um die Reihenfolge der Gru
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden die Gruppenaktionen angezeigt, die Sie für die Gruppen im Unified Manager-Server erstellt haben. Mit den Spaltenfiltern können Sie die angezeigten Daten anpassen.

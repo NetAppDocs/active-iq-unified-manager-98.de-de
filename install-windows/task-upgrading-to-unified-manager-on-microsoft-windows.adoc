@@ -15,6 +15,7 @@ Sie können ein Upgrade von Unified Manager 9.6 oder 9.7 auf 9.8 durchführen, i
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das System, auf dem Unified Manager aktualisiert wird, sollte die System- und Software-Anforderungen erfüllen.
@@ -56,6 +57,7 @@ Der verfügbare Speicherplatz auf dem Installationslaufwerk sollte 2.5 GB größ
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Während des Upgrades ist Unified Manager nicht verfügbar. Vor dem Upgrade von Unified Manager sollten alle laufenden Vorgänge abgeschlossen werden.
@@ -64,6 +66,7 @@ Wenn Unified Manager mit einer Instanz von OnCommand Workflow Automation gekoppe
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich auf der NetApp Support Site an und navigieren Sie zur Seite *Download* für Unified Manager: https://mysupport.netapp.com/site/products/all/details/activeiq-unified-manager/downloads-tab["NetApp Support Website"^]
@@ -85,6 +88,7 @@ This setup will perform an upgrade of Unified Manager. Do you want to continue?
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 [NOTE]

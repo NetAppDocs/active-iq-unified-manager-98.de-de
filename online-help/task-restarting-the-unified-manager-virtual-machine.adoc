@@ -15,6 +15,7 @@ Sie können die virtuelle Maschine von der Wartungskonsole von Unified Manager a
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Die virtuelle Appliance wird eingeschaltet.
@@ -23,12 +24,14 @@ Sie sind als Maintenance-Benutzer bei der Wartungskonsole angemeldet.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die virtuelle Maschine von vSphere auch mit der Option **Neustart Gast**neu starten. Weitere Informationen finden Sie in der VMware Dokumentation.
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie die Wartungskonsole.

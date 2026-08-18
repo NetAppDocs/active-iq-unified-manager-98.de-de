@@ -15,6 +15,7 @@ Sie können eine SnapMirror Beziehung mit versionsflexiblen Replizierungs- und B
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -26,12 +27,14 @@ Sie können eine SnapMirror Beziehung mit versionsflexiblen Replizierungs- und B
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie SnapMirror mit Backup-Optionsfunktion konfigurieren, können Sie Ihre Daten mit SnapMirror Disaster Recovery-Funktionen schützen, beispielsweise mit Volume Failover-Fähigkeit und gleichzeitig SnapVault Funktionen bereitstellen, beispielsweise die Sicherung mehrerer Backup-Kopien.
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie das Dialogfeld *Schutz konfigurieren* für das zu schützenden Volume.

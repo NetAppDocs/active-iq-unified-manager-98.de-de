@@ -15,6 +15,7 @@ Nachdem Sie über eine Ansicht oder eine Excel-Datei verfügen, die Sie für die
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -24,12 +25,14 @@ Nachdem Sie über eine Ansicht oder eine Excel-Datei verfügen, die Sie für die
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Führen Sie die folgenden Schritte aus, um einen Bericht für eine Ansicht zu testen und zu planen. Wählen Sie die gewünschte Ansicht aus oder passen Sie sie an. Im folgenden Verfahren wird eine Netzwerkansicht verwendet, die die Leistung Ihrer Netzwerkschnittstellen zeigt, aber Sie können jede beliebige Ansicht verwenden.
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie Ihre Ansicht. Dieses Beispiel verwendet die Standardansicht, die die LIF-Performance zeigt. Klicken Sie im linken Navigationsbereich auf**Netzwerk** > *Netzwerkschnittstellen*.

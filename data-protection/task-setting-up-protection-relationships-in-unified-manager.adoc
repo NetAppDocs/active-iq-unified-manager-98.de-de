@@ -15,6 +15,7 @@ Sie müssen verschiedene Schritte durchführen, um Unified Manager und OnCommand
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -29,6 +30,7 @@ Sie müssen verschiedene Schritte durchführen, um Unified Manager und OnCommand
 
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie je nach Art der Schutzbeziehung einen der folgenden Schritte aus:

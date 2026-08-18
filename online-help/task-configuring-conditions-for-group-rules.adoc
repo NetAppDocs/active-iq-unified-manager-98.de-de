@@ -15,12 +15,14 @@ Sie können eine oder mehrere Bedingungen zum Erstellen von Gruppenregeln in Uni
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Gruppen*.
@@ -33,6 +35,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[example-of-configuring-a-condition-for-a-group-rule]]
 == Beispiel für das Konfigurieren einer Bedingung für eine Gruppenregel
 
 Es empfiehlt sich eine Bedingung für den Objekttyp „SVM“, bei der der Objektname „`svm_Data`“ enthält.

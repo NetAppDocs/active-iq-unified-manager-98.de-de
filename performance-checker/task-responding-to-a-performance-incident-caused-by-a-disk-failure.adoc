@@ -15,6 +15,7 @@ Mit Unified Manager können Sie ein Performance-Ereignis untersuchen, das durch 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,6 +24,7 @@ Mit Unified Manager können Sie ein Performance-Ereignis untersuchen, das durch 
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Ereignisdetails* auf, um Informationen über das Ereignis anzuzeigen.

@@ -15,18 +15,21 @@ Mit der Unified Manager Web-UI lässt sich die Möglichkeit bestätigen oder gan
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Um zu ermitteln, ob der Offlinezustand des Volumes durch einen Ausfall des Hosting-Node und eines nachfolgenden nicht erfolgreichen Storage-Failovers verursacht wird, führen Sie folgende Aktionen durch:
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen und klicken Sie auf den Hypertext-Link, der unter SVM im Bereich *Related Devices* des Offline-Volume der Seite *Volume / Health* Details angezeigt wird.
@@ -56,6 +59,7 @@ Auf der Registerkarte Nodes auf der Seite Cluster / Health Details wird der Stat
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nachdem Sie bestätigt haben, dass der Offline-Zustand des Volume vorliegt, weil sein Host-Node ausgefallen ist und das Storage Failover zum HA-Paar-Partner fehlgeschlagen ist, wenden Sie sich an den entsprechenden Administrator oder Operator, um den heruntergeschilterten Node manuell neu zu starten und das Storage-Failover-Problem zu beheben.

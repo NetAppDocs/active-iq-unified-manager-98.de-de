@@ -15,6 +15,7 @@ Sie können vorhandene Schutzbeziehungen bearbeiten, um die aktuelle maximale Ü
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,12 +24,14 @@ Sie können vorhandene Schutzbeziehungen bearbeiten, um die aktuelle maximale Ü
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die ausgewählten Volumes müssen Schutzbeziehungsziele sein. Sie können Beziehungen nicht bearbeiten, wenn Quell-Volumes, Volumes für die Lastverteilung oder Volumes ausgewählt werden, die nicht Ziel einer SnapMirror oder SnapVault Beziehung sind.
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie auf der *Schutz*-Registerkarte der Seite *Volumen / Gesundheit* Details in der Topologie die Schutzbeziehung, die Sie bearbeiten möchten, und klicken Sie mit der rechten Maustaste darauf.

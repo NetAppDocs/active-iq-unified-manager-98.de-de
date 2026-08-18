@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die Cluster mit der am meisten nicht zug
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die Cluster mit der am meisten nicht zug
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Führen Sie die folgenden Schritte aus, um eine benutzerdefinierte Ansicht zu erstellen, in der Cluster mit der am meisten nicht zugewiesenen LUN-Kapazität angezeigt werden. Anschließend können Sie einen Bericht so planen, dass er für diese Ansicht erstellt wird.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.
@@ -51,6 +54,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf Grundlage der im Bericht gezeigten Ergebnisse möchten Sie möglicherweise die nicht zugewiesene LUN-Kapazität des Clusters verwenden.

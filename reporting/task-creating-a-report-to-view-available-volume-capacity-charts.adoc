@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazität in ein
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die verfügbare Volume-Kapazität in ein
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Gehen Sie wie folgt vor, um eine Health-Ansicht zu öffnen: Alle Volumes, laden Sie die Ansicht in Excel herunter, erstellen Sie ein verfügbares Kapazitätdiagramm, laden Sie die benutzerdefinierte Excel-Datei hoch und planen Sie den Abschlussbericht.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.
@@ -97,6 +100,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf Grundlage der im Bericht gezeigten Ergebnisse sollten Sie die Last auf den Volumes ausgleichen.

@@ -15,6 +15,7 @@ Die Standard-Ports, die Unified Manager für HTTP- und HTTPS-Protokolle verwende
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
@@ -26,12 +27,14 @@ Es gibt einige Ports, die als unsicher, wenn Sie die Mozilla Firefox oder Google
 ====
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Instanz von Unified Manager wird automatisch neu gestartet, nachdem Sie den Port geändert haben. Stellen Sie also sicher, dass dies ein guter Zeitpunkt ist, um das System für kurze Zeit herunterzufahren.
 
 
 
+[[steps]]
 == Schritte
 
 . Loggen Sie sich mit SSH als Wartungsbenutzer beim Unified Manager Host ein.
@@ -53,6 +56,7 @@ Sie werden gefragt, ob Sie die Ports ändern und Unified Manager jetzt neu start
 
 
 
+[[results]]
 == Ergebnisse
 
 Nach dieser Änderung müssen Benutzer die neue Portnummer in der URL angeben, um auf die Web-UI von Unified Manager zuzugreifen, z. B. +https://host.company.com:1234+, +https://12.13.14.15:1122+ oder +https://[2001:db8:0:1]:2123+.

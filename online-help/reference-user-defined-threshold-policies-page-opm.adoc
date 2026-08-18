@@ -17,6 +17,7 @@ Die Liste der Performance-Schwellenwertrichtlinien wird alphabetisch nach Richtl
 
 
 
+[[filter-and-search-bar]]
 == Filter- und Suchleiste
 
 Mit der Schaltfläche *Filtern* können Sie die Liste der Schwellenwertrichtlinien verfeinern, indem Sie nur die Richtlinien anzeigen, die bestimmten Kriterien entsprechen.
@@ -25,6 +26,7 @@ Mit der Schaltfläche *Suchen* können Sie nach bestimmten Richtlinien suchen, i
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Erstellen*
@@ -47,6 +49,7 @@ Löscht die Richtlinie für Leistungsschwellenwerte, die Sie ausgewählt haben. 
 
 
 
+[[threshold-policies-list]]
 == Liste der Schwellenwertrichtlinien
 
 * *Policy Name*

@@ -15,18 +15,21 @@ Sie können die HTTPS-Zertifikatsdetails mit dem abgerufenen Zertifikat in Ihrem
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Durch das Anzeigen des Zertifikats können Sie den Inhalt eines neu erstellten Zertifikats oder alternative URL-Namen anzeigen, von denen aus Sie auf Unified Manager zugreifen können.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *HTTPS-Zertifikat*.
@@ -37,6 +40,7 @@ Das HTTPS-Zertifikat wird oben auf der Seite angezeigt
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Sie ausführlichere Informationen zum Sicherheitszertifikat als auf der Seite HTTPS-Zertifikat anzeigen müssen, können Sie das Verbindungszertifikat in Ihrem Browser anzeigen.

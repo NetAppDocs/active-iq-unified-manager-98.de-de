@@ -15,6 +15,7 @@ Sie können Daten auf einer SnapMirror oder SnapVault-Beziehung neu synchronisie
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können Daten auf einer SnapMirror oder SnapVault-Beziehung neu synchronisie
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie auf der Registerkarte *Schutz* der Seite *Volumen / Gesundheit* Details in der Topologie die Schutzbeziehung, die Sie neu synchronisieren möchten, und klicken Sie mit der rechten Maustaste darauf.

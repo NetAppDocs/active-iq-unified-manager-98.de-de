@@ -15,6 +15,7 @@ MetroCluster Switch-Ereignisse liefern Ihnen Informationen zum Status der MetroC
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

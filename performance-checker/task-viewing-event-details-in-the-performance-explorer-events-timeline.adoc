@@ -15,6 +15,7 @@ Sie können alle Ereignisse und ihre zugehörigen Details im Fenster „Zeitleis
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Im Bereich Ereigniszeitleiste werden kritische Ereignisse, Fehler, Warnungen und Informationsereignisse angezeigt, die während des ausgewählten Zeitbereichs auf dem Root-Objekt aufgetreten sind. Jeder Schweregrad eines Ereignisses hat seine eigene Zeitachse. Einzelne oder mehrere Ereignisse werden durch einen Ereignispunkt in der Zeitleiste dargestellt. Sie können den Cursor über einen Ereignispunkt positionieren, um die Ereignisdetails anzuzeigen. Um die visuelle Granularität mehrerer Ereignisse zu erhöhen, kann der Zeitbereich verkürzt werden. Dadurch werden mehrere Ereignisse in einzelne Ereignisse verteilt, sodass Sie jedes Ereignis einzeln anzeigen und untersuchen können.
@@ -23,6 +24,7 @@ Jeder Punkt des Performance-Ereignisses in der Ereignisleiste wird vertikal mit 
 
 
 
+[[steps]]
 == Schritte
 
 . Positionieren Sie den Cursor im Fensterbereich *Ereignisleiste* über einen Ereignispunkt in einer Zeitleiste, um eine Zusammenfassung des Ereignisses oder der Ereignisse an diesem Punkt anzuzeigen.

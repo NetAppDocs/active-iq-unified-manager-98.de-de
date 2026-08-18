@@ -15,12 +15,14 @@ Sie sollten ein Ereignis bestätigen, bevor Sie mit der Bearbeitung des Problems
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können mehrere Ereignisse gleichzeitig bestätigen und beheben.
@@ -32,6 +34,7 @@ Sie können keine Informationsereignisse bestätigen.
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisverwaltung*.

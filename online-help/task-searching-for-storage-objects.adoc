@@ -15,6 +15,7 @@ Um schnell auf ein bestimmtes Objekt zuzugreifen, können Sie das Feld *Alle Spe
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen eine der folgenden Rollen haben, um diese Aufgabe auszuführen: Operator, Anwendungsadministrator oder Speicheradministrator.
@@ -23,6 +24,7 @@ Um schnell auf ein bestimmtes Objekt zuzugreifen, können Sie das Feld *Alle Spe
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Bei Verwendung des Dropdown-Menüwerts „`Alle`“ wird die Gesamtzahl der Ergebnisse in allen Objektkategorien angezeigt. Für jede Objektkategorie stehen maximal 25 Suchergebnisse zur Verfügung. Sie können einen bestimmten Objekttyp aus dem Dropdown-Menü auswählen, um die Suche innerhalb eines bestimmten Objekttyps zu verfeinern. In diesem Fall ist die zurückgegebene Liste nicht auf die Top 25-Objekte beschränkt.
@@ -55,6 +57,7 @@ Ports und LIFs sind in der globalen Suchleiste nicht durchsuchbar.
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie einen Objekttyp aus dem Menü aus, um die Suchergebnisse nur für einen einzelnen Objekttyp zu verfeinern.

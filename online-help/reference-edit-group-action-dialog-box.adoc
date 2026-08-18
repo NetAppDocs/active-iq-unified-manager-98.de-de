@@ -35,6 +35,7 @@ Zeigt den Typ der Gruppenaktion an. Sie können den Aktionstyp nicht ändern. Si
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern*

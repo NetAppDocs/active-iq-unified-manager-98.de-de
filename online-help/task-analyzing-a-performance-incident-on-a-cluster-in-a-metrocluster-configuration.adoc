@@ -15,6 +15,7 @@ Sie können Unified Manager verwenden, um das Cluster in einer MetroCluster-Konf
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -24,6 +25,7 @@ Sie können Unified Manager verwenden, um das Cluster in einer MetroCluster-Konf
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Ereignisdetails* auf, um Informationen über das Ereignis anzuzeigen.

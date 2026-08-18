@@ -15,6 +15,7 @@ Sie können Unified Manager ohne Eingriff des Benutzers über die Befehlszeilens
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich mit dem lokalen Standardkonto an der Windows-Befehlszeilenschnittstelle an.

@@ -15,6 +15,7 @@ Mit der Auswahl für den Zeitbereich auf der Seite Performance Explorer können 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Durch die Feinjustierung des Zeitbereichs können nur die Leistungsdaten angezeigt werden, für die Sie sich interessieren. Sie können einen vordefinierten Zeitbereich auswählen oder einen benutzerdefinierten Zeitbereich angeben. Der Standardzeitbereich liegt bei den vorangegangenen 72 Stunden.

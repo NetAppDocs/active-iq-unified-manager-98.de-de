@@ -15,6 +15,7 @@ Sie können Unified Manager über Red hat Enterprise Linux oder CentOS Host mit 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über Root-Benutzerzugriff auf den Server verfügen, von dem Sie Unified Manager entfernen möchten.
@@ -24,6 +25,7 @@ Sie können Unified Manager über Red hat Enterprise Linux oder CentOS Host mit 
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer an dem Server an, auf dem Sie Unified Manager entfernen möchten.
@@ -36,6 +38,7 @@ In diesem Schritt werden alle zugehörigen NetApp RPM Pakete entfernt. Die erfor
 
 
 
+[[results]]
 == Ergebnisse
 
 Nach Abschluss dieses Vorgangs wird die Software entfernt. Alle Daten aus dem `/opt/netapp/data` Verzeichnis wird in verschoben `/opt/netapp/data/BACKUP` Ordner nach der Deinstallation. Durch die Deinstallation von Unified Manager werden auch die Java- und MySQL-Pakete entfernt, es sei denn, die Pakete werden von einer anderen Anwendung im System benötigt und verwendet. MySQL-Daten werden jedoch nicht gelöscht.

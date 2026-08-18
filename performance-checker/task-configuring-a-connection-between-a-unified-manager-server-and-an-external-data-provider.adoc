@@ -15,6 +15,7 @@ Unified Manager kann Cluster-Leistungsdaten an einen externen Server senden. Sie
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über eine Benutzer-ID verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
@@ -46,12 +47,14 @@ Wenn Sie das Performance-Erfassungsintervall von Unified Manager auf 10 oder 15 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können eine Verbindung zwischen einem Unified Manager-Server und einem externen Datenprovider-Server konfigurieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Loggen Sie sich als Wartungsbenutzer der Wartungskonsole des Unified Manager Servers ein.
@@ -123,6 +126,7 @@ Aktivieren/deaktivieren
 
 
 
+[[results]]
 == Ergebnisse
 
 Nachdem Sie die Verbindung konfiguriert haben, werden die ausgewählten Performancedaten zum angegebenen Zeitintervall an den Zielserver gesendet. Es dauert einige Minuten, bis die Metriken im externen Tool erscheinen. Möglicherweise müssen Sie Ihren Browser aktualisieren, um die neuen Metriken in der Hierarchie der Kennzahlen anzuzeigen.

@@ -15,6 +15,7 @@ Wird Unified Manager installiert, um Storage-Kapazität, -Verfügbarkeit, -Perfo
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das System, auf dem Unified Manager installiert werden soll, sollte die System- und Softwareanforderungen erfüllen.
@@ -41,6 +42,7 @@ Folgende Sonderzeichen sind erlaubt: ~ ! @ # * - ? . + { }
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich unter Windows mit dem lokalen Standardkonto an.
@@ -66,6 +68,7 @@ Wenn Sie das Installationsverzeichnis nicht ändern, wird Unified Manager im Sta
 
 
 
+[[results]]
 == Ergebnisse
 
 Die Installation erstellt mehrere Verzeichnisse:
@@ -90,6 +93,7 @@ Dies ist das Verzeichnis, in dem alle applikationsgenerierten Daten gespeichert 
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können auf die Web-Benutzeroberfläche zugreifen, um die Ersteinrichtung von Unified Manager durchzuführen, wie in beschrieben link:../config/concept-configuring-unified-manager.html["Active IQ Unified Manager wird konfiguriert"].

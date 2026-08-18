@@ -15,6 +15,7 @@ Sie können eine Liste der Volumes und LUNs anzeigen, die derselben QoS-Richtlin
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Bei herkömmlichen QoS-Richtliniengruppen, die zwischen mehreren Volumes „`shared`“ sind, kann dies hilfreich sein, um zu prüfen, ob bestimmte Volumes den für die Richtliniengruppe definierten Durchsatz überbeanspruchen. Es kann auch bei der Entscheidung helfen, anderen Volumes ohne einen negativen Einfluss auf die anderen Volumes weitere Volumes hinzuzufügen.
@@ -23,6 +24,7 @@ Bei anpassungsfähigen QoS-Richtlinien und Unified ManagerPerformance-Service-Le
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *QoS Policy Groups*.

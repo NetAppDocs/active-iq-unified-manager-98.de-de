@@ -15,18 +15,21 @@ Sie können die Ansicht Systemzustand: Alle Knoten verwenden, um die Liste der K
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können Details wie den Node-Status, den Cluster mit dem Node, die zusammengefasste Kapazität (verwendet und insgesamt) und Details zur Rohkapazität (nutzbar, frei und insgesamt) anzeigen. Zudem erhalten Sie Informationen über HA-Paare, Festplatten-Shelfs und Ports.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherung* > *Knoten*.

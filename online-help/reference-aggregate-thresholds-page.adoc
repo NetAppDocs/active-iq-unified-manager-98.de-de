@@ -23,6 +23,7 @@ Sie können für die folgenden Aggregate einen Zustandsschwellenwert festlegen: 
 
 
 
+[[capacity-area]]
 == Kapazität
 
 Im Kapazitätsbereich können Sie die folgenden Bedingungen für die Aggregat-Kapazität festlegen. Beachten Sie, dass bei Aktivierung von Autogrow auf Volumes im Aggregat die Kapazitätsschwellenwerte für das Aggregat basierend auf der durch Autogrow festgelegten maximalen Volume-Größe gelten, nicht jedoch auf der ursprünglichen Volume-Größe.
@@ -87,6 +88,7 @@ Gibt die Anzahl der verbleibenden Tage an, bevor die volle Kapazität des Aggreg
 
 
 
+[[growth-area]]
 == Wachstumsbereich
 
 Im Wachstumsbereich können Sie die folgenden Schwellwerte für das Gesamtwachstum festlegen:
@@ -122,6 +124,7 @@ Wenn Sie die Wachstumssensitivität für Aggregate auf der globalen Schwellenebe
 
 
 
+[[snapshot-copies-area]]
 == Bereich der Snapshot-Kopien
 
 Im Bereich Snapshot Kopien können Sie die folgenden Schwellwerte der Snapshot Reserve einstellen:

@@ -15,6 +15,7 @@ Sie können detaillierte IOPS-Informationen für eine SVM über die Seite „Per
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Außerdem zeigt das Diagramm „IOPS – Protokolle“ einen detaillierten Vergleich des IOPS-Datenverkehrs für jedes auf der SVM zu verwendenden Protokoll. Folgende Protokolle sind verfügbar:
@@ -28,6 +29,7 @@ Außerdem zeigt das Diagramm „IOPS – Protokolle“ einen detaillierten Vergl
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Performance/SVM Explorer* für Ihre ausgewählte SVM aus dem IOPS-Diagramm im Dropdown-Menü die Option *Protokolle* aus.

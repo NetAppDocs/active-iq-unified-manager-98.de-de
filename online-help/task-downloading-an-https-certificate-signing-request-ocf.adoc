@@ -15,12 +15,14 @@ Sie können eine Zertifizierungsanfrage für das aktuelle HTTPS-Sicherheitszerti
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *HTTPS-Zertifikat*.
@@ -30,6 +32,7 @@ Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können die Datei einer Zertifizierungsstelle zum Signieren bereitstellen und dann das signierte Zertifikat installieren.

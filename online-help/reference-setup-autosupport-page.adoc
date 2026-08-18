@@ -15,6 +15,7 @@ Auf der AutoSupport Seite können Sie regelmäßige AutoSupport aktivieren oder 
 
 
 
+[[information-area]]
 == Informationsbereich
 
 * *System-ID*
@@ -25,6 +26,7 @@ Zeigt die System-ID für diesen Unified Manager-Server an.
 
 
 
+[[on-demand-autosupport-area]]
 == On-Demand AutoSupport Bereich
 
 Sie können eine On-Demand-Nachricht an den technischen Support, einen bestimmten E-Mail-Empfänger oder beides generieren und senden:
@@ -45,6 +47,7 @@ Generiert und sendet eine On-Demand-Nachricht an den technischen Support, einen 
 
 
 
+[[periodic-autosupport-area]]
 == Bereich „Periodensystem AutoSupport“
 
 Mit dieser Funktion können Sie dem technischen Support spezifische, vordefinierte Meldungen zur periodischen Problemdiagnose und -Behebung senden.
@@ -57,6 +60,7 @@ Gibt an, dass Sie die Funktion „Periodensystem AutoSupport“ aktivieren möch
 
 
 
+[[http-proxy-area]]
 == HTTP-Proxy-Bereich
 
 Sie können einen Proxy für den Internetzugriff festlegen, um AutoSupport-Inhalte zu unterstützen, falls Ihre Umgebung keinen direkten Zugriff vom Unified Manager-Server bietet.

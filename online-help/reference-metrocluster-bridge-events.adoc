@@ -15,6 +15,7 @@ MetroCluster Bridge Events informieren Sie über den Status der Brücken, sodass
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 |===

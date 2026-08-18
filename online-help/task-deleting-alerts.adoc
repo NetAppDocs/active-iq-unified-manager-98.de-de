@@ -15,12 +15,14 @@ Sie können eine Meldung löschen, wenn sie nicht mehr benötigt wird. Beispiels
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

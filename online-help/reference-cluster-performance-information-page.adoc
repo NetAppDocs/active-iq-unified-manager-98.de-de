@@ -15,6 +15,7 @@ Auf der Seite Cluster/Performance Information können Sie eine Liste der physisc
 
 
 
+[[cluster-attributes]]
 == Cluster-Attribute
 
 * *Management Network Interface*

@@ -15,12 +15,14 @@ Es gibt bestimmte Ereignisse, die Unified Manager gründlich diagnostizieren und
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die meisten Ereignisse haben eine Vielzahl von möglichen Auflösungen, die auf der Seite Ereignisdetails angezeigt werden, so dass Sie die beste Lösung mit ONTAP System Manager oder der ONTAP CLI implementieren können. Eine Aktion *Beheben Sie es* ist verfügbar, wenn Unified Manager festgestellt hat, dass es eine einzige Lösung gibt, um das Problem zu beheben, und dass es mit einem ONTAP CLI-Befehl behoben werden kann.
 
 
 
+[[steps]]
 == Schritte
 
 . Um Ereignisse anzuzeigen, die über das *Dashboard* behoben werden können, klicken Sie auf *Dashboard*.

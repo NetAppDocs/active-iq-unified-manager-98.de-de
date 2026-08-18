@@ -15,6 +15,7 @@ Sie können nicht zugewiesene Ereignisse selbst oder anderen Benutzern, einschli
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Der Name und die E-Mail-ID des Benutzers müssen korrekt konfiguriert sein.
@@ -23,6 +24,7 @@ Sie können nicht zugewiesene Ereignisse selbst oder anderen Benutzern, einschli
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisverwaltung*.

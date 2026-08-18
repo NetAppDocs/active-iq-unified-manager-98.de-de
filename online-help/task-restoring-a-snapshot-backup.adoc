@@ -15,6 +15,7 @@ Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Uni
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host verfügen, auf dem Unified Manager installiert ist.
@@ -23,12 +24,14 @@ Im Falle eines Datenverlustes oder einer Beschädigung von Daten können Sie Uni
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Wiederherstellungsfunktion ist plattformspezifisch und versionsspezifisch. Sie können ein Unified Manager-Backup nur auf derselben Version von Unified Manager wiederherstellen.
 
 
 
+[[steps]]
 == Schritte
 
 . Stellen Sie mithilfe von Secure Shell eine Verbindung mit der IP-Adresse oder dem vollständig qualifizierten Domänennamen des Unified Manager-Systems her.
@@ -46,6 +49,7 @@ Wenn Sie eine Wiederherstellung auf einem neuen Server durchführen, starten Sie
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn der OnCommand Workflow Automation-Server nach der Wiederherstellung des Backups nicht funktioniert, führen Sie die folgenden Schritte aus:

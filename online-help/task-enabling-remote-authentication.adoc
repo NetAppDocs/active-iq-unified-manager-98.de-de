@@ -15,6 +15,7 @@ Sie können die Remote-Authentifizierung aktivieren, damit der Unified Manager-S
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -26,6 +27,7 @@ Der Unified Manager-Server muss direkt mit dem Authentifizierungsserver verbunde
 ====
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die Remote-Authentifizierung entweder über Open LDAP oder Active Directory aktivieren. Wenn die Remote-Authentifizierung deaktiviert ist, können Remote-Benutzer nicht auf Unified Manager zugreifen.
@@ -39,6 +41,7 @@ Das Zertifikat, das zur Authentifizierung von Benutzern verwendet wird, muss dem
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Remote Authentication*.

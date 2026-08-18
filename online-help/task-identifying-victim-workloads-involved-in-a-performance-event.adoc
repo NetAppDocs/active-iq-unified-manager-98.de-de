@@ -15,6 +15,7 @@ In Unified Manager können Sie ermitteln, welche Volume Workloads die höchste A
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,12 +24,14 @@ In Unified Manager können Sie ermitteln, welche Volume Workloads die höchste A
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf der Seite Ereignisdetails wird eine Liste der benutzerdefinierten und systemdefinierten Workloads angezeigt, die nach der höchsten Abweichung von Aktivität oder Auslastung der Komponente oder am stärksten vom Ereignis betroffen sind. Die Werte basieren auf den Peaks, die Unified Manager bei der Erkennung und letzten Analyse des Ereignisses ermittelt hat.
 
 
 
+[[steps]]
 == Schritte
 
 . Rufen Sie die Seite *Ereignisdetails* auf, um Informationen über das Ereignis anzuzeigen.

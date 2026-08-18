@@ -15,6 +15,7 @@ Sie können Ihre Berichtspläne auf der Seite Berichtspläne verwalten. Sie kön
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 [NOTE]
@@ -27,6 +28,7 @@ Sie können keine neuen Berichte über die Seite „Berichtszeitpläne“ planen
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Berichtspläne*.

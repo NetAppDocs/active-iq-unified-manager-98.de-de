@@ -15,12 +15,14 @@ Sie können die Statusschwellenwerte für Volume-Kapazität, Wachstum, Kontingen
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Basierend auf Änderungen an den Schwellenwerten werden Ereignisse im nächsten Überwachungszyklus generiert oder veraltet.
@@ -34,6 +36,7 @@ Der Standardwert von 1000 Snapshot Kopien ist nur für FlexVol Volumes anwendbar
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

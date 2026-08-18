@@ -15,18 +15,21 @@ Für alle Ereignisse, die Sie für das Senden von Warnungen konfiguriert haben, 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Standardmäßig werden keine Warnmeldungen für Ereignisse gesendet, wenn sie in den Status „aufgelöst“ und „veraltet“ verschoben werden.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

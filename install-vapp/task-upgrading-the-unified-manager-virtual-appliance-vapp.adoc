@@ -15,6 +15,7 @@ Sie können ein Upgrade der virtuellen Unified Manager Appliance von Version 9.6
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Stellen Sie Folgendes sicher:
@@ -40,6 +41,7 @@ xref:reference-vmware-software-and-installation-requirements.adoc[VMware Softwar
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Während des Upgrades ist Unified Manager nicht verfügbar. Vor dem Upgrade von Unified Manager sollten alle laufenden Vorgänge abgeschlossen werden.
@@ -48,6 +50,7 @@ Wenn Workflow Automation und Unified Manager gekoppelt sind, sollten Sie den Hos
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im vSphere Client auf *Startseite* > *Inventar* > *VMs und Vorlagen*.
@@ -81,6 +84,7 @@ Sie werden automatisch von der Wartungskonsole abgemeldet.
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können sich bei der Web-Benutzeroberfläche anmelden, um die aktualisierte Version von Unified Manager zu verwenden. Beachten Sie, dass Sie warten müssen, bis der Erkennungsvorgang abgeschlossen ist, bevor Sie eine Aufgabe in der Benutzeroberfläche ausführen.

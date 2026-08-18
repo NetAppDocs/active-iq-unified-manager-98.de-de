@@ -15,6 +15,7 @@ Sie können grundlegende oder erweiterte Zeitpläne für SnapMirror und SnapVaul
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -24,6 +25,7 @@ Sie können grundlegende oder erweiterte Zeitpläne für SnapMirror und SnapVaul
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im Dialogfeld *Schutz konfigurieren* auf der Registerkarte *SnapMirror* oder auf der Registerkarte *SnapVault* im Bereich *Beziehungseinstellungen* auf den Link *Zeitplan erstellen*.

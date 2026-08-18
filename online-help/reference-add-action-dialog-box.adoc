@@ -38,6 +38,7 @@ Unified Manager unterstützt derzeit nur den Aktionstyp für Volume-Schwellenwer
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*

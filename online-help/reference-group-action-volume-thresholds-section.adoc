@@ -33,6 +33,7 @@ Globale Standardwerte werden verwendet, wenn für eine dieser Kategorien keine V
 
 
 
+[[capacity-section]]
 == Abschnitt „Kapazität“
 
 Sie können Bedingungen für die folgenden Statusschwellenwerte für die Volume-Kapazität festlegen:
@@ -74,6 +75,7 @@ Gibt den Prozentsatz an, bei dem ein Volume als überfordert betrachtet wird:
 
 
 
+[[growth-section]]
 == Abschnitt „Wachstum“
 
 Sie können die folgenden Integritätsschwellenwerte für das Volume-Wachstum festlegen:
@@ -103,6 +105,7 @@ Ein niedrigerer Wert für die Wachstumsrate zeigt an, dass das Aggregat sehr emp
 
 
 
+[[qtree-quota-section]]
 == Abschnitt qtree Kontingente
 
 Sie können die folgenden Statusschwellenwerte für Volume-Quoten festlegen:
@@ -131,6 +134,7 @@ Gibt den Prozentsatz an, mit dem ein Volume als durch qtree Kontingente übereng
 
 
 
+[[snapshot-copies-section]]
 == Abschnitt „Snapshot Kopien“
 
 Sie können die folgenden Integritätsschwellenwerte für die Snapshot Kopien in dem Volume festlegen:
@@ -169,6 +173,7 @@ Gibt die Anzahl der Snapshot Kopien auf einem Volume an, die als zu viele Kopien
 
 
 
+[[inodes-section]]
 == Inodes-Abschnitt
 
 Sie können die folgenden Integritätsschwellenwerte für Inodes festlegen:

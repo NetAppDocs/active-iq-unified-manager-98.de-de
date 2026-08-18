@@ -27,6 +27,7 @@ Gibt eine aussagekräftige Beschreibung der Anmerkung an.
 
 
 
+[[annotation-values]]
 == Anmerkungswerte
 
 * *Hinzufügen*
@@ -41,6 +42,7 @@ Löscht den ausgewählten Wert für eine Anmerkung.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern und Schließen*

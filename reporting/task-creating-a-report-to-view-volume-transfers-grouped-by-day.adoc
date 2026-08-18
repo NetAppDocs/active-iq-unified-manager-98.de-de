@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gruppiert an
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um Volume-Transfers nach Tagen gruppiert an
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Mit den folgenden Schritten erstellen Sie eine benutzerdefinierte Ansicht für Volume-Transfers nach Tag gruppiert und planen dann einen Bericht für diese Ansicht zu erstellen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.
@@ -43,6 +46,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf Grundlage der im Bericht gezeigten Ergebnisse können Sie die Volume-Transfers pro Tag untersuchen.

@@ -15,6 +15,7 @@ Sie können eine aktive Datensicherung abbrechen, wenn Sie eine SnapMirror Repli
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können eine aktive Datensicherung abbrechen, wenn Sie eine SnapMirror Repli
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Abbruchaktion wird in den folgenden Fällen nicht angezeigt:
@@ -35,6 +37,7 @@ Sie können den Kontrollpunkt für den Neustart für einen Basistransfer nicht l
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie auf der Registerkarte *Schutz* der Detailseite *Volumen / Gesundheit* mit der rechten Maustaste auf die Beziehung in der Topologieansicht für die Datenübertragung, die Sie abbrechen möchten, und wählen Sie *Abbrechen*.

@@ -15,6 +15,7 @@ Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Cl
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können Regeln erstellen, um die E-Mail-Adresse auf der Grundlage des mit Cl
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie müssen die Regeln für Quota-E-Mail-Adressen definieren und in der Reihenfolge eingeben, in der sie ausgeführt werden sollen. Wenn Sie beispielsweise die E-Mail-Adresse qtree1@xyz.com verwenden möchten, um Benachrichtigungen über Quotenverletzungen für qtree1 zu erhalten und die E-Mail-Adresse admin@xyz.com für alle anderen qtrees zu verwenden, müssen die Regeln in der folgenden Reihenfolge aufgeführt werden:
@@ -37,6 +39,7 @@ WENN ( US-DOLLAR USER_OR_GROUP == * ) DANN USD USER_OR_GROUP@ USD DOMAIN
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Quota Email Rules*.

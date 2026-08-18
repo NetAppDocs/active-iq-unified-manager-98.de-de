@@ -15,6 +15,7 @@ Sie können ein Sicherheitszertifikat hochladen und installieren, nachdem eine Z
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen die folgenden Aktionen durchgeführt haben:
@@ -28,6 +29,7 @@ Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *HTTPS-Zertifikat*.
@@ -38,6 +40,7 @@ Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[example-certificate-chain]]
 == Beispiel für eine Zertifikatskette
 
 Das folgende Beispiel zeigt, wie die Zertifikatkettendatei angezeigt werden kann:

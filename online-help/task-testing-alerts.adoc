@@ -15,6 +15,7 @@ Sie können eine Meldung testen, um zu überprüfen, ob Sie sie richtig konfigur
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen Benachrichtigungseinstellungen wie die E-Mail-Adresse der Empfänger, SMTP-Server und SNMP-Trap konfiguriert haben.
@@ -27,6 +28,7 @@ Der Unified Manager-Server kann diese Einstellungen verwenden, um Benachrichtigu
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

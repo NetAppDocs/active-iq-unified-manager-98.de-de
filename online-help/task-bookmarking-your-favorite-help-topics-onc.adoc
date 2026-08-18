@@ -15,6 +15,7 @@ Auf der Registerkarte „Hilfe-Favoriten“ können Sie häufig verwendete Hilfe
 
 
 
+[[steps]]
 == Schritte
 
 . Navigieren Sie zum Hilfethema, das Sie als Favorit hinzufügen möchten.

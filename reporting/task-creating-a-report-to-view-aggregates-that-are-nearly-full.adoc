@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die Aggregate zu markieren, die zu 80 % 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die Aggregate zu markieren, die zu 80 % 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Erstellen Sie mithilfe der folgenden Schritte eine benutzerdefinierte Ansicht, in der Aggregate angezeigt werden, die zu 80 % oder mehr voll sind. Planen Sie dann einen Bericht, der für diese Ansicht erstellt werden soll.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Aggregate*.
@@ -51,6 +54,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Möglicherweise möchten Sie auf der Grundlage der im Bericht gezeigten Ergebnisse einige Daten von bestimmten Aggregaten verschieben.

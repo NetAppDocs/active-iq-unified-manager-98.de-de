@@ -15,6 +15,7 @@ Auf der Seite Storage VM Associations können Sie vorhandene SVM-Verknüpfungen 
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:
@@ -31,6 +32,7 @@ Hiermit können Sie die ausgewählten SVM-Zuordnungen löschen.
 
 
 
+[[svm-associations-list]]
 == Liste der SVM-Zuordnungen
 
 Die Liste Storage Virtual Machine Associations wird in einer Tabelle die erstellten Quell- und Ziel-SVM-Zuordnungen sowie die Art der für jede Zuordnung zugelassenen Sicherungsbeziehung angezeigt.

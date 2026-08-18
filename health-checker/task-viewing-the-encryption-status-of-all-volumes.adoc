@@ -15,12 +15,14 @@ Sie können eine Liste aller Volumes und ihren aktuellen Verschlüsselungsstatus
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf ein Volume können folgende Verschlüsselungsarten angewendet werden:
@@ -33,6 +35,7 @@ Auf ein Volume können folgende Verschlüsselungsarten angewendet werden:
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

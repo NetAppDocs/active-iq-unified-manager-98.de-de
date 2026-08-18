@@ -15,18 +15,21 @@ Sie können aus mehreren Gründen ein neues HTTPS-Sicherheitszertifikat generier
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie keinen Zugriff auf die Web-UI von Unified Manager haben, können Sie mithilfe der Wartungskonsole das HTTPS-Zertifikat mit den gleichen Werten neu generieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *HTTPS-Zertifikat*.
@@ -66,6 +69,7 @@ Sie können das Kontrollkästchen „`lokale Identifizierungsdaten ausschließen
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Überprüfen Sie die neuen Zertifikatinformationen, indem Sie das HTTPS-Zertifikat anzeigen.

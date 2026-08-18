@@ -15,6 +15,7 @@ Cluster-Ereignisse bieten Informationen zum Status von Clustern. So können Sie 
 
 
 
+[[impact-area-availability]]
 == Impact Area: Verfügbarkeit
 
 Ein Sternchen (*) identifiziert EMS-Ereignisse, die in Unified Manager-Ereignisse konvertiert wurden.
@@ -145,6 +146,7 @@ Warnung
 |===
 
 
+[[impact-area-capacity]]
 == Impact Area: Kapazität
 
 |===
@@ -196,6 +198,7 @@ Fehler
 |===
 
 
+[[impact-area-configuration]]
 == Impact Area: Konfiguration
 
 |===
@@ -382,6 +385,7 @@ Informativ
 |===
 
 
+[[impact-area-performance]]
 == Impact Area: Performance
 
 |===
@@ -455,6 +459,7 @@ Warnung
 |===
 
 
+[[impact-area-security]]
 == Impact Area: Security
 
 |===

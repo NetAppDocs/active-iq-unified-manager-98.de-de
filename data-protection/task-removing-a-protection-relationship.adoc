@@ -15,6 +15,7 @@ Auf der Seite Volume Relationships können Sie eine Schutzbeziehung entfernen, u
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Auf der Seite Volume Relationships können Sie eine Schutzbeziehung entfernen, u
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Volume Relationships* ein oder mehrere Volumes mit Schutzbeziehungen aus, die Sie entfernen möchten, und klicken Sie in der Symbolleiste auf *Entfernen*.

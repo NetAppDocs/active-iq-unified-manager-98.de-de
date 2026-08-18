@@ -15,18 +15,21 @@ Sie können die Statusschwellenwerte für qtree-Kapazität für eine oder mehrer
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Basierend auf Änderungen an den Schwellenwerten werden Ereignisse im nächsten Überwachungszyklus generiert oder veraltet.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsfenster auf *Storage* > *Qtrees*.

@@ -21,6 +21,7 @@ Der lag-Schwellenwert gibt einen Prozentsatz an, der die Verzögerungszeit nicht
 
 
 
+[[lag-thresholds-for-unmanaged-relationships-area]]
 == Verzögerungsschwellenwerte für Bereich „nicht verwaltete Beziehungen“
 
 Im Bereich „lag“ können Sie für die folgenden Bedingungen unverwaltete Beziehungs-lag-Schwellenwerte festlegen:

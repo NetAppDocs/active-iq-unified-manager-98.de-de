@@ -15,12 +15,14 @@ Sie erstellen Performance-Schwellenwertrichtlinien für Storage-Objekte, damit B
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie erstellen Richtlinien für Leistungsschwellenwerte, indem Sie die Schwellenwerte auf der Seite Richtlinie für Leistungsschwellenwert erstellen eingeben. Sie können neue Richtlinien erstellen, indem Sie alle Richtlinienwerte auf dieser Seite definieren, oder Sie können eine Kopie einer vorhandenen Richtlinie erstellen und die Werte in der Kopie ändern (genannt _Cloning_).
@@ -34,6 +36,7 @@ Der aktuelle Release bietet Schwellenwerte, die Ereignisse senden, wenn ein Zäh
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie im linken Navigationsbereich *Ereignisschwellenwerte* > *Leistung* aus.
@@ -87,6 +90,7 @@ Sie gelangen zur Seite „Performance Schwellenwerte“ zurück. Eine Erfolgsmel
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Sie die neue Schwellenwertrichtlinie zu diesem Zeitpunkt auf Speicherobjekte anwenden möchten, können Sie auf den Link *Gehe zu Object_type now* klicken, um zur Inventarseite zu gelangen.

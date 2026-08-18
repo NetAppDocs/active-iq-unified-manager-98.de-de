@@ -15,12 +15,14 @@ Sie können die Seite Benutzer verwenden, um eine Liste der Benutzer anzuzeigen,
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Benutzer*.

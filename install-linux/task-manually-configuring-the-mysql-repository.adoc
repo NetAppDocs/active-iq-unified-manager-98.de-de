@@ -15,6 +15,7 @@ Wenn das System, auf dem Sie Unified Manager installieren, keinen Zugriff auf da
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das MySQL-Repository bietet Zugriff auf die erforderliche MySQL-Software, die auf Ihrem System installiert werden muss.
@@ -26,6 +27,7 @@ Diese Aufgabe kann fehlschlagen, wenn das System keine Internetverbindung hat. B
 ====
 
 
+[[steps]]
 == Schritte
 
 . Laden Sie das entsprechende MySQL-Repository für Ihre Installation herunter. Für Red hat Enterprise Linux 7 können Sie ihn unter folgender Adresse herunterladen: `+wget http://repo.mysql.com/yum/mysql-8.0-community/el/7/x86_64/mysql80-community-release-el7-3.noarch.rpm+` Laden Sie die Version 8 unter folgender Adresse herunter: `+wget http://repo.mysql.com/yum/mysql-8.0-community/el/8/x86_64/mysql80-community-release-el8-1.noarch.rpm+`
@@ -34,6 +36,7 @@ Diese Aufgabe kann fehlschlagen, wenn das System keine Internetverbindung hat. B
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Sie für Red hat Enterprise Linux 8 interne Repositorys mit java-11-openjdk, p7zip und anderen vom AppStream-Repository bereitgestellten Softwarepaketen haben, müssen Sie Ihr AppStream-Repository deaktivieren und MySQL Community Server installieren. Führen Sie den folgenden Befehl aus:

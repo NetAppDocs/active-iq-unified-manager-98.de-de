@@ -24,6 +24,7 @@ Die Schwellenwerte sind für das Root-Aggregat des Knotens nicht anwendbar.
 ====
 
 
+[[capacity-area]]
 == Kapazität
 
 Im Kapazitätsbereich können Sie die folgenden Bedingungen für die Aggregat-Kapazität festlegen:
@@ -58,6 +59,7 @@ Gibt die Anzahl der verbleibenden Tage an, bevor die volle Kapazität des Aggreg
 
 
 
+[[growth-area]]
 == Wachstumsbereich
 
 Im Wachstumsbereich können Sie die folgenden Schwellwerte für das Gesamtwachstum festlegen:
@@ -83,6 +85,7 @@ Wenn Sie die Wachstumssensitivität für Aggregate auf der globalen Schwellenebe
 
 
 
+[[snapshot-copies-area]]
 == Bereich der Snapshot-Kopien
 
 Im Bereich Snapshot Kopien können Sie die folgenden Schwellwerte der Snapshot Reserve einstellen:
@@ -98,6 +101,7 @@ Sie können auch den Schieberegler verwenden, um den Schwellenwert festzulegen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die folgenden Aufgaben für ein ausgewähltes Aggregat ausführen:

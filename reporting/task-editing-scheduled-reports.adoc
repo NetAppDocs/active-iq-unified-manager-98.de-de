@@ -15,6 +15,7 @@ Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpl
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,6 +23,7 @@ Nach der Planung von Berichten können Sie diese auf der Seite „Berichtszeitpl
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Berichtspläne*.

@@ -15,18 +15,21 @@ Mithilfe der Cluster-Bestandsseiten können Sie den Zustand und den Kapazitätss
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die Übersichtsinformationen für alle SAN-Array-Cluster in der Ansicht Systemzustand: Alle Cluster und Kapazität: Alle Cluster anzeigen. Außerdem können Sie Details auf der Seite „Cluster/Health Details“ anzeigen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.

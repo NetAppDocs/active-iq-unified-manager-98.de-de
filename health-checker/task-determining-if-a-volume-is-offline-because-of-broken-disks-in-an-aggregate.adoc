@@ -15,18 +15,21 @@ Sie können die Unified Manager Web-UI nutzen, um die Möglichkeit zu bestätige
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Um festzustellen, ob der Zustand des Volumes offline durch Probleme mit RAID-Festplatten verursacht wird, die das Hosting-Aggregat offline schalten, führen Sie die folgenden Schritte aus:
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie den Hypertext-Link, der unter Aggregate angezeigt wird, und klicken Sie auf der Seite *Volume / Health* Details im Bereich *Related Devices* auf.
@@ -46,6 +49,7 @@ Wenn die Laufwerke im Status „beschädigt“ den Offlinezustand des Host-Aggre
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nachdem Sie bestätigt haben, dass der Offlinezustand des Datenträgers durch defekte RAID-Laufwerke und das daraus resultierende Offline-Host-Aggregat verursacht wird, wenden Sie sich an den entsprechenden Administrator oder Operator, um die defekten Laufwerke manuell zu ersetzen und das Aggregat wieder online zu schalten.

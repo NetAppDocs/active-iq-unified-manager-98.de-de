@@ -15,6 +15,7 @@ Sie können ein Skript aus Unified Manager löschen, wenn das Skript nicht mehr 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können ein Skript aus Unified Manager löschen, wenn das Skript nicht mehr 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Scripts*.

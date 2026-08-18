@@ -15,6 +15,7 @@ Nachdem Sie über die gewünschte Ansicht verfügen, können Sie die Ergebnisse 
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie die benutzerdefinierte oder Standardansicht, die Sie als Grundlage Ihres Berichts verwenden möchten.

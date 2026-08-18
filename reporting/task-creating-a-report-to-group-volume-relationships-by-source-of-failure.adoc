@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, weil die B
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, in dem Volumes gruppiert werden, weil die B
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Führen Sie die folgenden Schritte aus, um eine benutzerdefinierte Ansicht zu erstellen, die Volumes nach Fehlerquelle gruppiert und dann einen Bericht für diese Ansicht zu erstellen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.
@@ -53,6 +56,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf der Grundlage der im Bericht angezeigten Ergebnisse können Sie die Quelle und die Auswirkungen jeder Art von Fehlern untersuchen.

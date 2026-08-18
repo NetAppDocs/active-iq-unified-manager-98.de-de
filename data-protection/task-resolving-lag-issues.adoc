@@ -15,18 +15,21 @@ Dieser Workflow bietet ein Beispiel dafür, wie Sie ein lag-Problem lösen könn
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf der Dashboard-Seite sehen Sie sich den Bereich „ungelöste Vorfälle und Risiken“ an und Sie sehen einen SnapMirror lag-Fehler im Teilfenster „Sicherung“ unter „Sicherungsrisiken“.
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie im Fensterbereich *Protection* auf der Seite *Dashboard* den Fehler bezüglich SnapMirror Beziehung lag und klicken Sie darauf.

@@ -15,6 +15,7 @@ Mit dem Assistenten „Create Storage Virtual Machine Associations“ können Pa
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die von Ihnen verknüpfen, muss bereits vorhanden sein.
@@ -23,6 +24,7 @@ Mit dem Assistenten „Create Storage Virtual Machine Associations“ können Pa
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Für jede Quell-SVM und jeden Beziehungstyp können Sie nur eine Ziel-SVM auf jedem Ziel-Cluster auswählen.
@@ -31,6 +33,7 @@ Das Ändern von Zuordnungen mithilfe der Funktionen Löschen und Erstellen wirkt
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *SVM-Zuordnungen*.

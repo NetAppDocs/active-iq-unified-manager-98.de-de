@@ -17,6 +17,7 @@ Eine Nachricht am Ende der Seite gibt an, wie häufig Unified Manager Performanc
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Hinzufügen*
@@ -45,6 +46,7 @@ Erzwingt eine Neuentdeckung des Clusters, damit Sie die Erfassung von Gesundheit
 
 
 
+[[clusters-list]]
 == Cluster-Liste
 
 In der Liste Cluster werden die Eigenschaften aller erkannten Cluster angezeigt. Sie können auf eine Spaltenüberschrift klicken, um die Cluster nach dieser Spalte zu sortieren.

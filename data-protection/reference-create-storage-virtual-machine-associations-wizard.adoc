@@ -15,6 +15,7 @@ Mit dem Assistenten „Create Storage Virtual Machine Associations“ können Si
 
 
 
+[[select-source-svm]]
 == Wählen Sie Quell-SVM aus
 
 Im Fenster Quell-Storage-Virtual Machine auswählen können Sie die SVM in der SVM-Zuordnung als Quelle oder primäre SVM auswählen.
@@ -61,12 +62,14 @@ Gibt eine SnapVault-Beziehung als Zuordnungstyp an. Wenn Sie diese Option auswä
 
 
 
+[[select-protection-destinations]]
 == Wählen Sie Schutzziele
 
 Im Fenster Schutzziele auswählen des Assistenten zum Erstellen von Storage-VM-Zuordnungen können Sie auswählen, wo die Daten kopiert oder repliziert werden sollen. Sie können eine Zuordnung nur auf einer Ziel-SVM pro Cluster erstellen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Aufgaben ausführen:

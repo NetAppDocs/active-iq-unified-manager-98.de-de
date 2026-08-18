@@ -15,6 +15,7 @@ Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr eigenes u
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das System muss die in beschriebenen Anforderungen erfüllen xref:concept-virtual-infrastructure-or-hardware-system-requirements.adoc[Hardwaresystemanforderungen].
@@ -23,6 +24,7 @@ Sie können ein benutzerdefiniertes Home-Verzeichnis erstellen und Ihr eigenes u
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Standardinstallation von Unified Manager führt die folgenden Aufgaben aus:
@@ -43,6 +45,7 @@ Die Sicherheitsrichtlinien in Ihrer Umgebung dürfen die Sudo-Berechtigungen fü
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer beim Server an.
@@ -56,6 +59,7 @@ Das System fordert Sie zur Eingabe einer neuen Passwort-Zeichenfolge für den um
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nachdem Sie Unified Manager installiert haben, müssen Sie die Anmeldungs-Shell für den umadmin-Benutzer angeben.

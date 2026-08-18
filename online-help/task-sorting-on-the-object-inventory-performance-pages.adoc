@@ -15,12 +15,14 @@ Sie können alle Daten auf den Seiten „Objektbestandsleistung“ nach jeder Sp
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die ausgewählte Spalte für die Sortierung wird durch einen markierten Spaltenüberschrift und ein Pfeilsymbol angezeigt, das die Sortierrichtung rechts neben dem Namen angibt. Ein nach-oben-Pfeil zeigt eine aufsteigende Reihenfolge an; ein Pfeil nach unten zeigt die absteigende Reihenfolge an. Die Standard-Sortierreihenfolge ist durch *Status* (Ereignis-Kritikalität) in absteigender Reihenfolge, wobei die wichtigsten Performanceereignisse zuerst aufgelistet werden.
 
 
 
+[[steps]]
 == Schritte
 
 . Sie können auf einen Spaltennamen klicken, um die Sortierreihenfolge der Spalte in aufsteigender oder absteigender Reihenfolge zu ändern.

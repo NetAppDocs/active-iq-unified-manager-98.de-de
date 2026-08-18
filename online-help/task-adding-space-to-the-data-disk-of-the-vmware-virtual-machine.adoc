@@ -15,6 +15,7 @@ Wenn Sie die Menge an Speicherplatz auf der Datenfestplatte für die Unified Man
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen Zugriff auf den vSphere Client haben.
@@ -24,12 +25,14 @@ Wenn Sie die Menge an Speicherplatz auf der Datenfestplatte für die Unified Man
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wir empfehlen, dass Sie Ihre virtuelle Maschine sichern, bevor Sie die Größe der virtuellen Laufwerke erhöhen.
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie im vSphere-Client die Virtual Machine Unified Manager aus und fügen Sie den Daten dann weitere Festplattenkapazität hinzu `disk 3`. Details finden Sie in der VMware Dokumentation.

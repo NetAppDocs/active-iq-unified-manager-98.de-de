@@ -15,12 +15,14 @@ Das Standard-Erfassungsintervall für Performance-Statistiken beträgt 5 Minuten
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über eine Benutzer-ID und ein Passwort verfügen, um sich bei der Wartungskonsole des Unified Manager-Servers anzumelden.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das Problem der Performance-Statistiken-Sammlungen, die nicht rechtzeitig beenden, wird durch die Banner-Meldungen angezeigt `Unable to consistently collect from cluster <cluster_name>` Oder `Data collection is taking too long on cluster <cluster_name>`.
@@ -36,6 +38,7 @@ Eine Meldung am Ende der Seite Cluster-Einrichtung zeigt das aktuelle Intervall 
 
 
 
+[[steps]]
 == Schritte
 
 . Loggen Sie sich mit SSH als Wartungsbenutzer beim Unified Manager Host ein.
@@ -49,6 +52,7 @@ Die Eingabeaufforderungen für die Unified ManagerMaintenance-Konsole werden ang
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn Sie das Einfassungsintervall von Unified Manager auf 10 oder 15 Minuten geändert haben und eine aktuelle Verbindung zu einem externen Datenanbieter (z. B. Graphite) besteht, müssen Sie das Übertragungsintervall des Datenanbieters so ändern, dass es dem Erfassungsintervall von Unified Manager entspricht oder größer ist.

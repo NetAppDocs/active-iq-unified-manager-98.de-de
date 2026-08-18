@@ -15,6 +15,7 @@ Sie konfigurieren den Zielspeicherort für Unified Manager Snapshot Backups auf 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Stammbenutzeranmeldeinformationen für den Linux-Host verfügen, auf dem Unified Manager installiert ist.
@@ -25,6 +26,7 @@ Sie konfigurieren den Zielspeicherort für Unified Manager Snapshot Backups auf 
 
 
 
+[[steps]]
 == Schritte
 
 . Stellen Sie mithilfe von Secure Shell eine Verbindung mit der IP-Adresse oder dem vollständig qualifizierten Domänennamen des Unified Manager-Systems her.

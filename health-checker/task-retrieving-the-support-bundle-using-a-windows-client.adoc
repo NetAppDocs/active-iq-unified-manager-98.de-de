@@ -15,6 +15,7 @@ Als Windows-Benutzer können Sie ein Tool herunterladen und installieren, um das
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen der Wartungbenutzer sein, um diese Aufgabe ausführen zu können.
@@ -23,6 +24,7 @@ Sie müssen ein Werkzeug verwenden, das SCP oder SFTP unterstützt.
 
 
 
+[[steps]]
 == Schritte
 
 . Laden Sie ein Tool herunter und installieren Sie es, um das Support Bundle abzurufen.

@@ -21,6 +21,7 @@ Sie können Schwellwerte für die Kapazität auf qtree-Ebene konfigurieren. Wenn
 
 
 
+[[capacity-area]]
 == Kapazität
 
 Im Kapazitätsbereich können Sie die folgenden qtree-Kapazitätsschwellenwerte festlegen:
@@ -43,6 +44,7 @@ Sie können auch den Schieberegler verwenden, um den Schwellenwert festzulegen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie für einen ausgewählten qtree die folgenden Aufgaben ausführen:

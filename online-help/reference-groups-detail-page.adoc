@@ -15,6 +15,7 @@ Auf der Seite Gruppen-Details können Sie die Details einer ausgewählten Gruppe
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Gruppen Anzeigen*
@@ -37,6 +38,7 @@ Hier können Sie zur Seite Gruppenaktionen navigieren, auf der Aktionen für die
 
 
 
+[[summary-area]]
 == Zusammenfassungsbereich
 
 Sie können die folgenden Gruppendetails anzeigen:

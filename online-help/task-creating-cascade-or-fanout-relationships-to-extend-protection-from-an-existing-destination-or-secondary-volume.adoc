@@ -15,6 +15,7 @@ Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem Sie entw
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können den Schutz vor einer bestehenden Beziehung erweitern, indem Sie entw
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie Auf *Schutz* > *Volume Relationships*.

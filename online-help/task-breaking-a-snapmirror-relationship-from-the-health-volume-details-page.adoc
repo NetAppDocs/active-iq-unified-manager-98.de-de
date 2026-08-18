@@ -15,6 +15,7 @@ Sie können eine Sicherungsbeziehung von der Seite Volume / Health Details brech
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Sie können eine Sicherungsbeziehung von der Seite Volume / Health Details brech
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Registerkarte *Schutz* der Seite *Volumen / Gesundheit* Details aus der Topologie die SnapMirror Beziehung aus, die Sie brechen möchten.

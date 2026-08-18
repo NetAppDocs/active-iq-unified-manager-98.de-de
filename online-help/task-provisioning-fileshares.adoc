@@ -15,6 +15,7 @@ Sie können Dateifreigabe-Volumes erstellen, die CIFS/SMB- und NFS-Protokolle un
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die Storage-VM muss Platz haben, um das Dateifreigabvolume bereitzustellen.
@@ -24,6 +25,7 @@ Sie können Dateifreigabe-Volumes erstellen, die CIFS/SMB- und NFS-Protokolle un
 
 
 
+[[steps]]
 == Schritte
 
 . Fügen Sie auf der Seite *Workloads bereitstellen* den Namen des Workloads hinzu, den Sie erstellen möchten, und wählen Sie dann den Cluster aus der Liste verfügbar aus.

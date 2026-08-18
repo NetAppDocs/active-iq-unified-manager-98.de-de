@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[unified-manager-database-user]]
 == Unified Manager Datenbankbenutzer
 
 In diesem Bereich können Sie die Anmeldeinformationen eines Datenbankbenutzers eingeben, der für die Verbindung von Unified Manager mit Workflow Automation erforderlich ist:
@@ -33,6 +34,7 @@ Ermöglicht Ihnen die Angabe eines Passworts für den angegebenen Benutzernamen.
 
 
 
+[[oncommand-workflow-automation-credentials]]
 == Belege für den Erfolg von OnCommand Workflow Automation
 
 In diesem Bereich können Sie die Zugangsdaten für ein Workflow Automation Konto eingeben, das für die Verbindung mit Unified Manager erforderlich ist:
@@ -57,6 +59,7 @@ Ermöglicht Ihnen die Angabe eines Passworts für den angegebenen Benutzernamen.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Befehlsschaltflächen können Sie die Setup-Optionen entfernen, speichern oder abbrechen:

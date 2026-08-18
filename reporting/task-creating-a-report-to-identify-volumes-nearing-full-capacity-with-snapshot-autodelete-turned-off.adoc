@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, der die Liste der Volumes enthält, die sic
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, der die Liste der Volumes enthält, die sic
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Führen Sie die folgenden Schritte aus, um eine benutzerdefinierte Ansicht zu erstellen, in der die erforderlichen Spalten in der richtigen Reihenfolge angezeigt werden, und planen Sie dann einen Bericht, der für diese Ansicht erstellt werden soll.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.
@@ -51,6 +54,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf der Grundlage der im Bericht gezeigten Ergebnisse möchten Sie möglicherweise das automatische Löschen von Snapshots auf den Volumes aktivieren oder den verfügbaren Speicherplatz erweitern.

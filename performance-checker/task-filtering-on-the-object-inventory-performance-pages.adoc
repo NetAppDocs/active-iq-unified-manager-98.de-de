@@ -15,6 +15,7 @@ Sie können Daten auf den Seiten „Objektbestandsleistung“ filtern, um Daten 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Über das Filterfeld können Sie die Rasteransicht entsprechend Ihren Einstellungen anpassen. Die verfügbaren Filteroptionen basieren auf dem Objekttyp, der im Raster angezeigt wird. Wenn aktuell Filter angewendet werden, wird rechts neben der Schaltfläche Filter die Anzahl der angewendeten Filter angezeigt.
@@ -61,6 +62,7 @@ Sie können Filter über das Filterfenster hinzufügen.
 
 
 
+[[filtering-example]]
 == Beispiel für die Filterung
 
 Die Abbildung zeigt das Filterfeld mit drei Filtern. Die Schaltfläche *+Filter hinzufügen* wird angezeigt, wenn Sie weniger als vier Filter haben.

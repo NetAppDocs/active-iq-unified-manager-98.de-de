@@ -15,18 +15,21 @@ Sie können Benachrichtigungen für einzelne Performance-Ereignisse wie alle and
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Das folgende Beispiel zeigt, wie ein Ereignis für alle Ereignisse bezüglich kritischer Latenz, IOPS und MB/s erstellt wird. Sie können diese Methode verwenden, um Ereignisse aus allen Leistungszählern und für alle Warnungsereignisse auszuwählen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

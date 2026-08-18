@@ -15,12 +15,14 @@ Sie können ein Cluster mithilfe der Seite Cluster-Setup aus Unified Manager ent
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle oder die Speicheradministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Durch diese Aufgabe wird das ausgewählte Cluster aus Unified Manager entfernt. Nachdem ein Cluster entfernt wurde, wird er nicht mehr überwacht. Die beim entfernten Cluster registrierte Instanz des Unified Manager wird auch vom Cluster nicht registriert.
@@ -29,6 +31,7 @@ Durch das Entfernen eines Clusters werden auch alle seine Storage-Objekte, histo
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Cluster-Setup*.

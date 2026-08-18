@@ -15,6 +15,7 @@ Sie können den Status aller Verwaltungsaktionen anzeigen, die Sie auf der Seite
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf der Seite „Management Actions“ stehen drei Ansichten zur Verfügung:
@@ -26,6 +27,7 @@ Auf der Seite „Management Actions“ stehen drei Ansichten zur Verfügung:
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie Auf image:../media/more-icon.gif[""] Wählen Sie oben im Fenster *Management Actions* die Ansicht aus, die Sie sehen möchten.

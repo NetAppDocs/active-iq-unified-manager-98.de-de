@@ -26,6 +26,7 @@ Ermitteln Sie den I/O-Pfad und die Latenzen auf Komponentenebene anhand eines to
 
 
 
+[[viewing-summary-topology]]
 == Anzeigen der zusammenfassenden Topologie
 
 Zur Ermittlung von Performance-Problemen durch Anzeige der VMs in einer zusammengefassten Topologie
@@ -56,6 +57,7 @@ xref:concept-troubleshooting-workloads-using-the-workload-analyzer.adoc[Fehlersu
 
 
 
+[[viewing-expanded-topology]]
 == Anzeigen der erweiterten Topologie
 
 Sie können die einzelnen Komponenten separat anzeigen, indem Sie die erweiterte Topologie der VM anzeigen.

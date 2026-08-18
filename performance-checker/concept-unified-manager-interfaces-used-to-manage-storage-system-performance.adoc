@@ -15,6 +15,7 @@ Active IQ Unified Manager bietet zwei Benutzeroberflächen für das Monitoring u
 
 
 
+[[unified-manager-web-ui]]
 == Unified Manager Web-UI
 
 Die Web-UI von Unified Manager ermöglicht Administratoren das Überwachen und Beheben von Performance-bezogenen Storage-Problemen.
@@ -23,6 +24,7 @@ In diesem Abschnitt werden einige gängige Workflows beschrieben, die ein Admini
 
 
 
+[[maintenance-console]]
 == Wartungskonsole
 
 Die Wartungskonsole ermöglicht einem Administrator, Betriebssystemprobleme, Probleme mit dem Versionsaufrüstungs-, Benutzer-Zugriffsprobleme und Netzwerkprobleme im Zusammenhang mit dem Unified Manager Server selbst zu überwachen, zu diagnostizieren und zu beheben. Wenn die Web-UI von Unified Manager nicht verfügbar ist, stellt die Wartungskonsole die einzige Zugriffsmöglichkeit auf Unified Manager dar.

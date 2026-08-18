@@ -15,6 +15,7 @@ Wenn die System-definierten Storage-Effizienzrichtlinien nicht Ihren Workload-An
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -26,6 +27,7 @@ Wenn die System-definierten Storage-Effizienzrichtlinien nicht Ihren Workload-An
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können benutzerdefinierte Storage-Effizienz-Richtlinien über die Seite Storage-Effizienz-Richtlinien erstellen und bearbeiten, indem Sie die Merkmale definieren, die Sie für die Applikationen benötigen, die auf den Storage zugreifen.
@@ -37,6 +39,7 @@ Sie können eine Storage-Effizienz-Richtlinie nicht ändern, wenn sie derzeit ei
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie im linken Navigationsbereich unter *Einstellungen* *Richtlinien* > *Storage-Effizienz* aus.
@@ -67,6 +70,7 @@ Die Seite zum Hinzufügen oder Bearbeiten einer Richtlinie für die Storage-Effi
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können die neue oder geänderte Storage-Effizienzrichtlinie auf Workloads (LUNs, NFS File Shares, CIFS Shares) auf der Seite Workloads oder bei der Bereitstellung eines neuen Workloads anwenden.

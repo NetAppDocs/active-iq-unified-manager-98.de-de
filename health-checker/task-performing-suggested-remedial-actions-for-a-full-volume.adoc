@@ -15,6 +15,7 @@ Nachdem Sie ein Fehlerereignis „`Volume Space Full`“ erhalten haben, überpr
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Ein Benutzer mit einer beliebigen Rolle kann alle Aufgaben in diesem Workflow mi
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 In diesem Beispiel wurde ein Fehlerereignis „Volume Space Full“ auf der Seite „Unified ManagerEvent Management Inventory“ angezeigt und auf den Namen des Ereignisses geklickt.
@@ -38,6 +40,7 @@ Obwohl alle diese Aktionen entweder über ONTAP System Manager oder über die ON
 
 
 
+[[steps]]
 == Schritte
 
 . Auf der Seite *Event* Details klicken Sie im Feld Quelle auf den Namen des Datenträgers, um Details zum betroffenen Volume anzuzeigen.

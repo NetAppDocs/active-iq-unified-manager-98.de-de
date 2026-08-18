@@ -15,6 +15,7 @@ Wenn die systemdefinierten Performance-Service-Level nicht Ihren Workload-Anford
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -26,6 +27,7 @@ Wenn die systemdefinierten Performance-Service-Level nicht Ihren Workload-Anford
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie erstellen und bearbeiten benutzerdefinierte Performance-Service-Level über die Seite Performance-Service-Level, indem Sie die Service-Level-Ziele definieren, die Sie für die Applikationen benötigen, die auf den Storage zugreifen.
@@ -37,6 +39,7 @@ Ein Performance-Service-Level kann nicht geändert werden, wenn er derzeit einem
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie im linken Navigationsfenster unter *Einstellungen* die Option *Richtlinien* > *Performance Service Levels*.
@@ -67,6 +70,7 @@ Die Seite zum Hinzufügen oder Bearbeiten eines Performance Service Level wird a
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Sie können das neue oder geänderte Performance Service Level auf Workloads (LUNs, NFS File Shares, CIFS Shares) auf der Seite Workloads oder bei der Bereitstellung eines neuen Workloads anwenden.

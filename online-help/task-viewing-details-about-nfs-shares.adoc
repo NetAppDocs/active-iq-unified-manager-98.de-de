@@ -15,6 +15,7 @@ Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Status, den dem
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die NFS-Lizenz muss auf dem Cluster aktiviert sein.
@@ -24,6 +25,7 @@ Sie können Details zu allen NFS-Freigaben anzeigen, z. B. ihren Status, den dem
 
 
 
+[[steps]]
 == Schritte
 
 . Befolgen Sie im linken Navigationsbereich die nachstehenden Schritte, je nachdem, ob Sie alle NFS-Freigaben oder nur die NFS-Freigaben für eine bestimmte SVM anzeigen möchten.

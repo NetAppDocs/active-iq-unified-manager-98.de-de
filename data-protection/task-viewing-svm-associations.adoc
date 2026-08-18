@@ -15,12 +15,14 @@ summary: Über die Seite Storage VM Associations können Sie vorhandene SVM-Verk
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *SVM-Zuordnungen*.

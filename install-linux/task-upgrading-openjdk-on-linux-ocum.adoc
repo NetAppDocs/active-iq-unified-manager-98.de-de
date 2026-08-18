@@ -15,18 +15,21 @@ Sie können auf eine neuere Version von OpenJDK auf dem Linux-Server, auf dem Un
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über Root-Rechte für das Linux-System verfügen, auf dem Unified Manager installiert ist.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können OpenJDK-Versionen innerhalb von Versionsfamilien aktualisieren. Sie können beispielsweise ein Upgrade von OpenJDK 11.0.6 auf OpenJDK 11.0.7 durchführen, aber Sie können nicht direkt von OpenJDK 11 auf OpenJDK 12 aktualisieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer auf dem Unified Manager-Hostcomputer an.

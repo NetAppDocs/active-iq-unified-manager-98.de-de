@@ -15,6 +15,7 @@ Das Anwenden von Schwellenwerten in der Zoom-Ansicht von Zählerdiagrammen biete
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Durch Auswahl von Schwellenwerten in der Zoom-Ansicht für Zählerdiagramme können Sie präzise Daten zu Ereignissen mit Leistungsschwellenwerten anzeigen. Sie können jeden Schwellenwert anwenden, der im Bereich *Richtlinien* der Zoom-Ansicht der Zählerdiagramme angezeigt wird.
@@ -23,6 +24,7 @@ Es kann jeweils nur eine Richtlinie auf das Objekt in der Zoom-Ansicht der Zähl
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie das aus oder heben Sie die Auswahl auf image:../media/eye-icon.gif[""] Das ist einer Richtlinie zugeordnet.

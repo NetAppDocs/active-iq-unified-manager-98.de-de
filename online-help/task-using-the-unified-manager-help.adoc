@@ -15,6 +15,7 @@ Die Hilfe enthält Informationen zu allen in Active IQ Unified Manager enthalten
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Hilfe ist über die einzelnen Registerkarten und über die Menüleiste der Benutzeroberfläche von Unified Manager verfügbar.
@@ -23,6 +24,7 @@ Das Suchtool in der Hilfe funktioniert nicht für Teilwörter.
 
 
 
+[[choices]]
 == Wahlmöglichkeiten
 
 * Um mehr über bestimmte Felder oder Parameter zu erfahren, klicken Sie auf image:../media/helpicon-um60.gif["Symbol für kontextsensitive Hilfe"].

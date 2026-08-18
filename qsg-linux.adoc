@@ -10,6 +10,7 @@ summary: Kurzanleitung für Unified Manager auf der Linux-Plattform.
 
 
 
+[[system-requirements]]
 == Systemanforderungen
 
 * Betriebssystem: Red hat Enterprise Linux und CentOS Version 7.x und 8.x basierend auf x86_64 Architektur, installiert mit der Basis-Umgebung „Server mit GUI“ aus der Software-Auswahl-Option des OS-Installers
@@ -23,10 +24,12 @@ Detaillierte Systemanforderungen und Informationen zur Installation des Produkts
 
 
 
+[[installing-active-iq-unified-manager]]
 == Active IQ Unified Manager wird installiert
 
 
 
+[[download-the-installer]]
 === Laden Sie das Installationsprogramm herunter
 
 . Laden Sie die herunter `ActiveIQUnifiedManager-<version>.zip` Installationspaket.
@@ -38,6 +41,7 @@ Detaillierte Systemanforderungen und Informationen zur Installation des Produkts
 
 
 
+[[verify-repository-configuration]]
 === Überprüfung der Repository-Konfiguration
 
 Die Vorgehensweisen für die Konfiguration von Red hat Enterprise Linux- oder CentOS-Repositorys sind standortspezifisch. Sie können das verwenden `pre_install_check.sh` Skript im Installationspaket enthalten, um die Konfiguration Ihres Betriebssystems zu überprüfen. Wenn Ihr System mit dem Internet verbunden ist, erhalten Sie automatisch Anweisungen zum Einrichten der Red hat Enterprise Linux- oder CentOS-Repositories.
@@ -46,6 +50,7 @@ Die Vorgehensweisen für die Konfiguration von Red hat Enterprise Linux- oder Ce
 
 
 
+[[install-unified-manager]]
 === Installation Von Unified Manager
 
 Unified Manager verwendet das `yum` Dienstprogramm zum Installieren der Software und der abhängigen Software. Da es unterschiedliche Bilder von Red hat Enterprise Linux oder CentOS gibt, hängen die installierten Pakete von der in den Bildern vorhandenen Software ab. Der `yum` Dienstprogramm bestimmt die abhängigen Softwarepakete für die Installation. Weitere Informationen zu den abhängigen Softwarepaketen finden Sie im link:./install-linux/reference-red-hat-and-centos-software-and-installation-requirements.html["Linux-Software- und Installationsanforderungen"].

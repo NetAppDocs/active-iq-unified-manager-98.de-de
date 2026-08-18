@@ -15,12 +15,14 @@ Nachdem Sie die Ansicht gespeichert haben, können Sie sie im Excel-Workbook-For
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie können nur eine Excel-Arbeitsmappe mit dem hochladen `.xlsx` Erweiterung.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Einige der erweiterten Excel-Funktionen können Sie beispielsweise in Ihrem Bericht verwenden:
@@ -52,6 +54,7 @@ Einige der erweiterten Excel-Funktionen können Sie beispielsweise in Ihrem Beri
 ====
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie die Standard-, benutzerdefinierte oder gespeicherte Ansicht, die Sie als Grundlage Ihres Berichts verwenden möchten.

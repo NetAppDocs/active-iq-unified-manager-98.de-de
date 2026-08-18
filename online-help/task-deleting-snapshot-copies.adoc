@@ -15,6 +15,7 @@ Sie können eine Snapshot-Kopie löschen, um Speicherplatz zu sparen oder um fre
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -25,6 +26,7 @@ Um eine Snapshot Kopie zu löschen, die besetzt oder gesperrt ist, müssen Sie d
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 * Die Basis-Snapshot Kopie in einem übergeordneten Volume kann nicht gelöscht werden, wenn ein FlexClone Volume diese Snapshot Kopie nutzt.
@@ -39,6 +41,7 @@ Die Snapshot Kopie ist gesperrt und für das nächste Update erforderlich.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Volumes*.

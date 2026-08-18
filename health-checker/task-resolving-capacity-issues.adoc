@@ -15,18 +15,21 @@ Dieser Workflow bietet ein Beispiel dafür, wie Sie ein Kapazitätsproblem löse
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Auf der Dashboard-Seite suchen Sie im Kapazitätsbereich unter der Dropdown-Liste Ereignisse ein Fehlerereignis „`Volume Space Full`“.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im Bereich *Kapazität* der Seite *Dashboard* auf den Namen des Fehlerereignisses Volume Space Full.

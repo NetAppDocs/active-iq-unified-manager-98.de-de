@@ -15,12 +15,14 @@ Sie können das OnCommand Workflow Automation Setup aus Unified Manager entferne
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsfenster im linken Einrichtungsmenü auf *Allgemein* > *Workflow-Automatisierung*.

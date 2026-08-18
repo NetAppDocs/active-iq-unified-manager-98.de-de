@@ -15,12 +15,14 @@ Sie können globale Statusschwellenwerte für alle Aggregate konfigurieren, um e
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie die Optionen global konfigurieren, werden die Standardwerte der Objekte geändert. Wenn jedoch die Standardwerte auf Objektebene geändert wurden, werden die globalen Werte nicht geändert.
@@ -36,6 +38,7 @@ Systemzustandsschwellenwerte gelten nicht für das Root-Aggregat des Nodes.
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisschwellenwerte* > *Aggregat*.

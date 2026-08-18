@@ -15,12 +15,14 @@ Sie überprüfen die Fehlermeldung zum Jobfehler im Feld Ursache auf der Seite E
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Fehlermeldung, die im Feld Ursache auf der Seite Ereignisdetails angezeigt wird, enthält den folgenden Text über den fehlgeschlagenen Job:
@@ -48,6 +50,7 @@ In diesem Szenario können Sie die Ursache und mögliche Korrekturmaßnahmen fü
 
 
 
+[[steps]]
 == Schritte
 
 . Sie überprüfen die Fehlermeldung und stellen fest, dass ein Snapshot-Kopierauftrag auf dem Quell-Volume fehlgeschlagen ist, was darauf hinweist, dass möglicherweise ein Problem mit Ihrem Quell-Volume vorliegt.

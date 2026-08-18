@@ -15,6 +15,7 @@ Bei Datenverlust oder Datenbeschädigung kann Unified Manager mit der Wiederhers
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über Administratorrechte für Windows verfügen.
@@ -27,6 +28,7 @@ Es wird empfohlen, die Sicherungsdatei in das Standardverzeichnis zu kopieren `\
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Wiederherstellungsfunktion ist plattformspezifisch und versionsspezifisch. Sie können ein Unified Manager MySQL Backup nur auf derselben Version von Unified Manager wiederherstellen. Ein Windows Backup kann nur auf einer Windows Plattform wiederhergestellt werden.
@@ -38,6 +40,7 @@ Wenn die Ordnernamen ein Leerzeichen enthalten, müssen Sie den absoluten Pfad o
 ====
 
 
+[[steps]]
 == Schritte
 
 . Wenn Sie eine Wiederherstellung auf einem neuen Server durchführen, starten Sie nach der Installation von Unified Manager die UI nicht oder konfigurieren Sie nach Abschluss der Installation keine Cluster, Benutzer oder Authentifizierungseinstellungen. Die Sicherungsdatei füllt diese Informationen während des Wiederherstellungsprozesses aus.
@@ -59,6 +62,7 @@ Nach Abschluss der Wiederherstellung können Sie sich bei Unified Manager einlog
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn der OnCommand Workflow Automation-Server nach der Wiederherstellung des Backups nicht funktioniert, führen Sie die folgenden Schritte aus:

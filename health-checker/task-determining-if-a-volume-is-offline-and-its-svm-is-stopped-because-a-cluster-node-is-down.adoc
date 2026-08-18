@@ -15,18 +15,21 @@ Mit der Unified Manager Web-UI lässt sich die Möglichkeit bestätigen oder gan
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Um zu ermitteln, ob die Offline-Bedingung des Volumes dazu führt, dass seine Host-SVM angehalten wird, da der Node, der das Root-Volume dieser SVM hostet, ausgefallen ist, führen Sie die folgenden Aktionen durch:
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie den Hypertext-Link, der unter der SVM im Bereich *Related Devices* des Offlinesdatentextes angezeigt wird, und klicken Sie auf die Seite *Volume / Health* Details.
@@ -55,6 +58,7 @@ Auf der Registerkarte Nodes auf der Seite Cluster/Integritätsdetails wird der S
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nachdem Sie bestätigt haben, dass der Offline-Zustand des Volume durch den Offline-Zustand des Host-SVM verursacht wurde. Dies selbst wird durch den Node verursacht, der das Root-Volume der SVM hostet, der ausgefallen ist, wenden Sie sich an den entsprechenden Administrator oder Operator, um den ausgefallenen Node manuell neu zu starten.

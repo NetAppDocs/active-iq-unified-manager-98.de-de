@@ -15,6 +15,7 @@ Sie können ein Upgrade von Unified Manager 9.6 oder 9.7 auf 9.8 durchführen, i
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Das System, auf dem Unified Manager aktualisiert wird, muss die System- und Software-Anforderungen erfüllen.
@@ -43,6 +44,7 @@ Das Installationsprogramm von Unified Manager wurde aufgrund eines Interoperabil
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich beim Red hat Enterprise Linux- oder CentOS-Zielserver an.
@@ -108,6 +110,7 @@ https://fully_qualified_domain_name/
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Geben Sie die angegebene IP-Adresse oder URL in einen unterstützten Webbrowser ein, um die Unified Manager Web-UI zu starten, und melden Sie sich anschließend mit demselben Wartungs-Benutzernamen (umadmin) und Kennwort an, das Sie zuvor festgelegt haben.

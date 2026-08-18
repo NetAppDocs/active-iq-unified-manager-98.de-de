@@ -15,6 +15,7 @@ Wenn Sie bereits Unified Manager auf einem Red hat Enterprise Linux 7.x-System i
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Der Unterschied zwischen den beiden unten aufgeführten Optionen besteht darin, dass Sie in einem Fall die Wiederherstellung von Unified Manager auf einem neuen 8.x-Server durchführen und im anderen Fall den Wiederherstellungsvorgang auf demselben Server ausführen.

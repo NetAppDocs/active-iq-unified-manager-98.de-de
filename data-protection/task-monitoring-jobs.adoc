@@ -15,12 +15,14 @@ Auf der Seite Jobs können Sie den Jobstatus überwachen und Jobeigenschaften wi
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *Jobs*.

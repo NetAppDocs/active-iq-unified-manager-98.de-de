@@ -15,6 +15,7 @@ Sie können die E-Mail-Adressen basierend auf den mit Clustern verbundenen Benut
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -23,12 +24,14 @@ Sie können die E-Mail-Adressen basierend auf den mit Clustern verbundenen Benut
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie eine E-Mail-Adresse bearbeiten, gelten die Regeln zur Generierung der Benutzer- und Gruppenkontingente-E-Mail-Adressen nicht mehr für das Kontingent. Damit Benachrichtigungen an die von den angegebenen Regeln generierte E-Mail-Adresse gesendet werden können, müssen Sie die E-Mail-Adresse löschen und die Änderung speichern.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *SVMs*.

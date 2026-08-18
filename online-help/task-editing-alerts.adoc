@@ -15,12 +15,14 @@ Sie können Eigenschaften von Warnmeldungen bearbeiten, z. B. die Ressource, mit
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Alarm-Setup*.

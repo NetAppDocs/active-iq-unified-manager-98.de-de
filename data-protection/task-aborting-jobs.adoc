@@ -15,12 +15,14 @@ Sie können die Seite Jobs verwenden, um einen Job abzubrechen, wenn er zu lange
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *Jobs*.

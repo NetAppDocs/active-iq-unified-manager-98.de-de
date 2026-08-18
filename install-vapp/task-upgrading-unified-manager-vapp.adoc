@@ -15,6 +15,7 @@ Sie können ein Upgrade auf Unified Manager 9.8 nur von Instanzen von 9.6 oder 9
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Während des Upgrades ist Unified Manager nicht verfügbar. Vor dem Upgrade von Unified Manager sollten alle laufenden Vorgänge abgeschlossen werden.

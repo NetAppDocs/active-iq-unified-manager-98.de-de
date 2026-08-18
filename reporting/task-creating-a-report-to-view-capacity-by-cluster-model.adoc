@@ -15,6 +15,7 @@ Sie können einen Bericht erstellen, um die Storage-Kapazität und Auslastung vo
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -22,12 +23,14 @@ Sie können einen Bericht erstellen, um die Storage-Kapazität und Auslastung vo
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Mit den folgenden Schritten erstellen Sie eine benutzerdefinierte Ansicht, die Kapazität nach Cluster-Modell anzeigt und dann einen Bericht für diese Ansicht erstellt.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.
@@ -46,6 +49,7 @@ Der Bericht wird sofort als Test gesendet. Danach wird der Bericht generiert und
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Auf der Grundlage der im Bericht gezeigten Ergebnisse möchten Sie möglicherweise bestimmte Cluster um mehr Kapazität erweitern oder ältere Cluster-Modelle aktualisieren.

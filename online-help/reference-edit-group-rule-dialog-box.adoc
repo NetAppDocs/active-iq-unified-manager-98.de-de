@@ -35,6 +35,7 @@ Zeigt die Liste der Bedingungen für eine ausgewählte Gruppe an. Sie können di
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Speichern*

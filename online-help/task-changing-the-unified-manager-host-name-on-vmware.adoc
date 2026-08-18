@@ -15,12 +15,14 @@ Dem Netzwerk-Host wird ein Name zugewiesen, wenn die virtuelle Unified Manager-A
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen bei Unified Manager als Wartungbenutzer angemeldet sein oder Ihnen die Rolle „Anwendungsadministrator“ zugewiesen haben, um diese Aufgaben ausführen zu können.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können den Host-Namen (oder die Host-IP-Adresse) verwenden, um auf die Unified Manager Web-UI zuzugreifen. Wenn Sie während der Bereitstellung eine statische IP-Adresse für Ihr Netzwerk konfiguriert haben, hätten Sie einen Namen für den Netzwerk-Host zugewiesen. Wenn Sie das Netzwerk mit DHCP konfiguriert haben, sollte der Host-Name aus dem DNS übernommen werden. Wenn DHCP oder DNS nicht richtig konfiguriert ist, wird der Hostname „`Unified Manager`“ automatisch zugewiesen und dem Sicherheitszertifikat zugeordnet.
@@ -35,6 +37,7 @@ Das neue Zertifikat wird erst wirksam, wenn die virtuelle Unified Manager-Maschi
 
 
 
+[[steps]]
 == Schritte
 
 . xref:task-generating-an-https-security-certificate-ocf.adoc[Generieren eines HTTPS-Sicherheitszertifikats]

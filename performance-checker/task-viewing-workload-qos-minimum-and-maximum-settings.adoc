@@ -15,6 +15,7 @@ In den Performance Explorer-Diagrammen können Sie die durch ONTAP definierten Q
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 QoS-Durchsatz „`minimum`“ und „`maximum`“ IOPS- und MB/s-Einstellungen werden in den Zählerdiagrammen nur angezeigt, wenn sie in ONTAP konfiguriert wurden. Durchsatzminimum-Einstellungen sind nur auf Systemen mit ONTAP 9.2 oder neuer Software, nur auf AFF Systemen verfügbar. Diese Einstellungen lassen sich derzeit nur für IOPS festlegen.
@@ -25,6 +26,7 @@ Unified Manager generiert Warnereignisse bei Verletzungen der QoS-Richtlinien, w
 
 
 
+[[steps]]
 == Schritte
 
 . Führen Sie auf der Seite *Performance Explorer* für das ausgewählte Volume oder die ausgewählte LUN die folgenden Aktionen durch, um die QoS-Decken- und Bodeneinstellungen anzuzeigen:
@@ -75,6 +77,7 @@ Die gestrichelte horizontale Linie gibt den in ONTAP festgelegten maximalen oder
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Wenn bestimmte Volumes oder LUNs eine sehr hohe IOPS oder MB/s haben und Systemressourcen betonen, können Sie mit System Manager oder der ONTAP CLI die QoS-Einstellungen so anpassen, dass diese Workloads die Performance anderer Workloads nicht beeinträchtigen.

@@ -15,18 +15,21 @@ Aus der Ansicht „Systemzustand“: Alle Storage VMs können Sie Ihr Inventar a
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können SVM-Details anzeigen, beispielsweise die Kapazität, Effizienz und Konfiguration einer SVM. Sie können auch Informationen zu zugehörigen Geräten und zugehörigen Warnmeldungen für diese SVM anzeigen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Storage VMs*.

@@ -15,18 +15,21 @@ Wenn Sie dem nicht genügend Speicherplatz zugewiesen haben `/opt/netapp/data` V
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen Root-Benutzerzugriff auf die Red hat Enterprise Linux oder CentOS Linux Maschine haben, auf der Unified Manager installiert ist.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wir empfehlen, dass Sie ein Backup der Unified Manager-Datenbank erstellen, bevor Sie die Größe des Datenverzeichnisses vergrößern.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer an dem Linux-Rechner an, auf dem Sie Speicherplatz hinzufügen möchten.

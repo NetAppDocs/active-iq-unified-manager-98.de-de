@@ -17,6 +17,7 @@ Wenn Sie kein neues HTTPS-Zertifikat generiert haben, wird auf dieser Seite das 
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 Mit den Schaltflächen können Sie die folgenden Vorgänge ausführen:

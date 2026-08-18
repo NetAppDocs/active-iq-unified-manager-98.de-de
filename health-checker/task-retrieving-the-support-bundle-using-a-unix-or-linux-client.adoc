@@ -15,6 +15,7 @@ Wenn Sie UNIX- oder Linux-Benutzer sind, können Sie das Support Bundle über Ih
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen der Wartungbenutzer sein, um diese Aufgabe ausführen zu können.
@@ -23,6 +24,7 @@ Sie müssen ein Support-Bundle mit der Wartungskonsole generiert haben und den S
 
 
 
+[[steps]]
 == Schritte
 
 . Greifen Sie über Telnet oder die Konsole auf die CLI über Ihren Linux-Client-Server zu.
@@ -54,6 +56,7 @@ Der Name des Support-Pakets wird Ihnen bereitgestellt, wenn Sie es mit der Wartu
 
 
 
+[[examples]]
 == Beispiele
 
 Im folgenden Beispiel wird SCP verwendet, um das Supportpaket abzurufen:

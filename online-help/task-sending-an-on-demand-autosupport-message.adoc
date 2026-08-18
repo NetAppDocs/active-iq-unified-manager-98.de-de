@@ -15,12 +15,14 @@ Sie können Unified Manager Systeminformationen an den technischen Support sende
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen als Wartungbenutzer angemeldet sein.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *AutoSupport*.

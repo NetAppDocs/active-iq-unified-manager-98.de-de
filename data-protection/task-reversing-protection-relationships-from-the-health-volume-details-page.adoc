@@ -15,6 +15,7 @@ Wenn ein Notfall das Quellvolume in Ihrer Schutzbeziehung deaktiviert, können S
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -28,6 +29,7 @@ Wenn ein Notfall das Quellvolume in Ihrer Schutzbeziehung deaktiviert, können S
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 * Wenn Sie diese Aufgabe ausführen, werden Daten in der Quelle, die neuer als die Daten in der gemeinsamen Snapshot Kopie ist, gelöscht.
@@ -39,6 +41,7 @@ Wenn Richtlinien und Zeitpläne nicht vorhanden sind, werden sie erstellt.
 
 
 
+[[steps]]
 == Schritte
 
 . Suchen Sie auf der *Protection*-Registerkarte der *Volume / Health*-Detailseite in der Topologie die SnapMirror-Beziehung, auf der Sie Quelle und Ziel umkehren möchten, und klicken Sie mit der rechten Maustaste darauf.

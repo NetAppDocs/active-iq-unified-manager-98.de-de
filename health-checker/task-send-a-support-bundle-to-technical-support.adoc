@@ -15,6 +15,7 @@ In diesem Workflow erfahren Sie, wie Sie über die Unified Manager Wartungskonso
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Unified Manager speichert maximal zwei generierte Support-Bundles gleichzeitig.

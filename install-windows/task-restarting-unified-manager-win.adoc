@@ -15,12 +15,14 @@ Möglicherweise müssen Sie Unified Manager neu starten, nachdem Sie die Konfigu
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über Administratorrechte für Windows verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich unter Windows mit dem lokalen Standardkonto an.

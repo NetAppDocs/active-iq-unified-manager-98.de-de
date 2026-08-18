@@ -25,12 +25,14 @@ Es stehen zwei Arten von MB/s-Diagrammen zur Verfügung:
 
 
 
+[[mbs-total-counter-chart]]
 == MB/s – Zählerdiagramm insgesamt
 
 Zeigt die Anzahl der Megabyte an Daten an, die pro Sekunde an das ausgewählte Objekt übertragen werden.
 
 
 
+[[mbs-breakdown-counter-chart]]
 == MB/s - Aufschlüsselung der Zählerdiagramme
 
 Zeigt dieselben MB/s-Daten an, die in Festplattenlesevorgänge, Flash Cache Lese-, Schreib- und andere Vorgänge getrennt sind.
@@ -44,6 +46,7 @@ Flash Cache-Daten werden nur für Nodes und nur angezeigt, wenn ein Flash Cache 
 ====
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

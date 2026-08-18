@@ -15,12 +15,14 @@ Sie können die globalen Schwellenwerte für den Zustand für alle Volumes konfi
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die meisten Schwellenwertoptionen verfügen über Standardwerte für eine bessere Überwachung. Sie können die Werte jedoch entsprechend den Anforderungen Ihrer Umgebung ändern.
@@ -34,6 +36,7 @@ Der Standardwert von 1000 Snapshot Kopien ist nur für FlexVol Volumes anwendbar
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Ereignisschwellenwerte* > *Lautstärke*.

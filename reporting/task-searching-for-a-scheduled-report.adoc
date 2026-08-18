@@ -15,6 +15,7 @@ Sie können nach geplanten Berichten nach Name, Ansichtsname, Objekttyp oder Emp
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Speicherverwaltung* > *Berichtspläne*.

@@ -15,6 +15,7 @@ Wenn Sie die Montage planen `/opt/netapp` Oder `/opt/netapp/data` Auf einem NAS-
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn planen, zu montieren `/opt/netapp` Oder `/opt/netapp/data` Von einem anderen Ort als dem Root-Dateisystem und SELinux in Ihrer Umgebung aktiviert ist, müssen Sie den richtigen Kontext für die gemounteten Verzeichnisse festlegen. Befolgen Sie diese beiden Schritte, um den richtigen SELinux-Kontext zu setzen und zu bestätigen.

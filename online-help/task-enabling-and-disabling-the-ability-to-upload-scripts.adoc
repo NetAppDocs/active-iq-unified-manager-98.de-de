@@ -15,12 +15,14 @@ Die Möglichkeit, Skripts in Unified Manager hochzuladen und sie auszuführen, i
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Funktionseinstellungen*.

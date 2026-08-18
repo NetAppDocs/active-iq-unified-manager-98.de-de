@@ -30,6 +30,7 @@ Es sind vier Arten von IOPS-Diagrammen verfügbar:
 
 
 
+[[iops-total-counter-chart]]
 == IOPS – Zählerdiagramm insgesamt
 
 Zeigt die Anzahl der pro Sekunde verarbeiteten ein-/Ausgabevorgänge an.
@@ -38,6 +39,7 @@ Wenn für einen Node angezeigt wird, zeigt die Auswahl „`Total`“ die IOPS f�
 
 
 
+[[iops-breakdown-counter-chart]]
 == IOPS - Aufschlüsselung der Zähler
 
 Zeigt die gleichen IOPS-Daten, getrennt in Lese-, Schreib- und sonstige IOPS, an.
@@ -48,12 +50,14 @@ Wenn für einen Knoten angezeigt wird, zeigt die Auswahl „`Breakdown`“ den I
 
 
 
+[[iops-protocols-counter-chart]]
 == IOPS – Zählerdiagramm zu Protokollen
 
 Zeigt dieselben IOPS-Daten an. Bei SVMs werden die Performance-Daten jedoch in einzelne Komponenten für den Datenverkehr über CIFS, NFS, FCP, NVMe und iSCSI-Protokolle getrennt.
 
 
 
+[[iopstb-total-counter-chart]]
 == IOPS/TB – Zählerdiagramm insgesamt
 
 Zeigt die Anzahl der pro Sekunde verarbeiteten ein-/Ausgabevorgänge basierend auf dem gesamten logischen Speicherplatz, der vom Volume in Terabyte verbraucht wird. Dieser Zähler wird auch als I/O-Dichte bezeichnet und misst, wie viel Performance mit einer bestimmten Menge an Storage-Kapazität bereitgestellt werden kann.
@@ -62,6 +66,7 @@ Diese Diagrammoption ist nur verfügbar, wenn das ausgewählte Objekt ein Volume
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

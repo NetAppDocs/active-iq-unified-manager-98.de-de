@@ -15,6 +15,7 @@ Unified Manager prüft automatisch auf eine neue Active IQ-Regeldatei und lädt 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Die Active IQ-Ereignisberichterstellung muss aktiviert sein.
@@ -23,12 +24,14 @@ Unified Manager prüft automatisch auf eine neue Active IQ-Regeldatei und lädt 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Es wird empfohlen, etwa einmal pro Monat eine neue Regeldatei herunterzuladen, um sicherzustellen, dass Ihre Speichersysteme geschützt sind und dass sie optimal ausgeführt werden. Die Regeldatei befindet sich unter: http://mysupport.netapp.com/NOW/public/unified_manager/bin/secure_rules.zip[]
 
 
 
+[[steps]]
 == Schritte
 
 . Navigieren Sie bei einem Computer mit Netzwerkzugriff auf die NetApp Support Site, und laden Sie die aktuellen Regeln herunter `.zip` Datei:
@@ -43,6 +46,7 @@ Dieser Vorgang kann einige Minuten dauern.
 
 
 
+[[results]]
 == Ergebnisse
 
 Die Regeldatei wird auf dem Unified Manager-Server entpackt. Nachdem die gemanagten Cluster nach Mitternacht eine AutoSupport-Datei generiert haben, überprüft Unified Manager die Cluster anhand der Regeldatei und generiert bei Bedarf neue Risiken und Vorfälle.

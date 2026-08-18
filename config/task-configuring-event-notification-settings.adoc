@@ -15,6 +15,7 @@ Sie können Unified Manager so konfigurieren, dass Benachrichtigungen gesendet w
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen die folgenden Informationen haben:
@@ -34,6 +35,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Benachrichtigungen*.

@@ -15,6 +15,7 @@ Authentifizierungsservices ermöglichen die Authentifizierung von Remote-Benutze
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen die Remote-Authentifizierung aktiviert haben.
@@ -23,6 +24,7 @@ Authentifizierungsservices ermöglichen die Authentifizierung von Remote-Benutze
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Remote Authentication*.

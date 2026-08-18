@@ -15,6 +15,7 @@ Auf der Seite „Volume Relationships“ können Sie eine Schutzbeziehung stilll
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -23,6 +24,7 @@ Auf der Seite „Volume Relationships“ können Sie eine Schutzbeziehung stilll
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Aktion quiesce wird in den folgenden Fällen nicht angezeigt:
@@ -34,6 +36,7 @@ Die Aktion quiesce wird in den folgenden Fällen nicht angezeigt:
 
 
 
+[[steps]]
 == Schritte
 
 . Um Transfers für eine oder mehrere Schutzbeziehungen stillzulegen, wählen Sie auf der Seite *Volume Relationships* eine oder mehrere Volumes aus und klicken Sie in der Symbolleiste auf *Quiesce*.

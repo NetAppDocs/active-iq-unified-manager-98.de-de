@@ -15,6 +15,7 @@ Sie können Unified Manager verwenden, um ein Aggregat auf einem Node in einem a
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
@@ -29,6 +30,7 @@ Diese Problembehebung ist nicht möglich, wenn nur ein HA-Paar im Cluster vorhan
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Durch die Verschiebung hochperformanter Workloads auf ein Aggregat auf einen Node mit einer höheren freien Performance-Kapazität können Workloads auf beiden Nodes effizienter ausgeführt werden. Durch dieses Verfahren werden die folgenden Ressourcen ermittelt, damit Sie hochperformante Workloads auf einen Node mit mehr freier Performance-Kapazität auf einem anderen HA-Paar verschieben können:
@@ -40,6 +42,7 @@ Durch die Verschiebung hochperformanter Workloads auf ein Aggregat auf einen Nod
 
 
 
+[[steps]]
 == Schritte
 
 . Identifizieren Sie die Nodes, die zu einem anderen HA-Paar auf demselben Cluster gehören:
@@ -104,6 +107,7 @@ Sie können den Vorgang der Verschiebung mit ONTAP System Manager, OnCommand Wor
 
 
 
+[[after-you-finish]]
 == Nachdem Sie fertig sind
 
 Nach einigen Tagen können Sie überprüfen, ob Sie von diesem Node bzw. Aggregat dieselbe Art von Ereignissen erhalten.

@@ -19,6 +19,7 @@ Auf der unteren Seite der Kartenseite werden Informationen zur minimalen, maxima
 
 
 
+[[utilization-total-counter-chart]]
 == Auslastung – Zählerdiagramm insgesamt
 
 Zeigt den durchschnittlichen Prozentsatz der ausgewählten Ressource an, die verwendet wird. Bei Nodes zeigt dies die Auslastung von Node-Ressourcen (CPU und RAM) an, bei Aggregaten zeigt dies die Auslastung der Festplatten im Aggregat an. Bei den Ports gibt dies die Bandbreitenauslastung des Ports an.
@@ -27,6 +28,7 @@ Diese Diagrammoption wird angewendet, wenn es sich bei dem ausgewählten Objekt 
 
 
 
+[[zoom-view-button]]
 == *Zoom-Ansicht*-Taste
 
 Zeigt eine vergrößerte Ansicht der Daten des Zählerdiagramms an.

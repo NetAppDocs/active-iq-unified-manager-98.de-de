@@ -15,6 +15,7 @@ Sie können eine SnapMirror Beziehung mit versionsflexibler Replizierung erstell
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
@@ -25,12 +26,14 @@ Sie können eine SnapMirror Beziehung mit versionsflexibler Replizierung erstell
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 SnapMirror mit versionsflexibler Replizierung ermöglicht Ihnen die Implementierung von SnapMirror Sicherung auch in heterogenen Storage-Umgebungen, in denen nicht der gesamte Storage unter einer Version von ONTAP läuft. Allerdings werden Spiegelvorgänge, die unter SnapMirror mit versionsflexibler Replizierung durchgeführt werden, nicht so schnell ausgeführt wie in herkömmlichen Blockreplizierung SnapMirror.
 
 
 
+[[steps]]
 == Schritte
 
 . Öffnen Sie das Dialogfeld *Schutz konfigurieren* für das zu schützenden Volume.

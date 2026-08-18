@@ -15,6 +15,7 @@ Wenn die Remote-Authentifizierung aktiviert ist, können Sie die verschachtelte 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -23,12 +24,14 @@ Wenn die Remote-Authentifizierung aktiviert ist, können Sie die verschachtelte 
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie die Unterstützung für verschachtelte Gruppen in Unified Manager deaktivieren, wird die Authentifizierungszeit möglicherweise verkürzt. Wenn die Unterstützung verschachtelter Gruppen deaktiviert ist und eine Remote-Gruppe zu Unified Manager hinzugefügt wird, müssen einzelne Benutzer Mitglieder der Remote-Gruppe sein, um sich bei Unified Manager zu authentifizieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Remote Authentication*.

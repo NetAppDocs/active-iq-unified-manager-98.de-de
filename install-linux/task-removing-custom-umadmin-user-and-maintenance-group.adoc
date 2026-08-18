@@ -15,12 +15,14 @@ Wenn Sie vor der Installation von Unified Manager ein benutzerdefiniertes Home-V
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Bei der standardmäßigen Deinstallation von Unified Manager werden keine benutzerdefinierten umadmin-Benutzer und ein Maintenance-Konto entfernt. Sie müssen diese Elemente manuell löschen.
 
 
 
+[[steps]]
 == Schritte
 
 . Melden Sie sich als Root-Benutzer beim Red hat Enterprise Linux-Server an.

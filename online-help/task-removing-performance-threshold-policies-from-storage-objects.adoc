@@ -15,12 +15,14 @@ Sie können eine benutzerdefinierte Performance-Schwellenwertrichtlinie aus eine
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können jeweils nur eine Richtlinie aus einem ausgewählten Objekt entfernen.
@@ -29,6 +31,7 @@ Sie können eine Schwellenwertrichtlinie aus mehreren Speicherobjekten entfernen
 
 
 
+[[steps]]
 == Schritte
 
 . Wählen Sie auf der Seite *Inventory* eines Speicherobjekts ein oder mehrere Objekte aus, auf denen mindestens eine Richtlinie für Leistungsschwellenwerte angewendet wurde.

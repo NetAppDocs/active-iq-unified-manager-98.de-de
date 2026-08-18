@@ -15,12 +15,14 @@ Sie können für Unified Manager den Wert für Inaktivitätszeitüberschreitung 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Diese Einstellung betrifft alle angemeldeten Benutzersitzungen.
@@ -32,6 +34,7 @@ Diese Option ist nicht verfügbar, wenn Sie die SAML-Authentifizierung (Security
 ====
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Funktionseinstellungen*.

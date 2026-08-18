@@ -15,18 +15,21 @@ Sie können einen vorhandenen Ressourcenpool bearbeiten, wenn Sie den Namen des 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Die Schaltfläche *Bearbeiten* ist nur aktiviert, wenn ein Ressourcenpool ausgewählt ist. Wenn mehrere Ressourcen-Pools ausgewählt sind, ist die Schaltfläche *Bearbeiten* deaktiviert.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Schutz* > *Ressourcen-Pools*.

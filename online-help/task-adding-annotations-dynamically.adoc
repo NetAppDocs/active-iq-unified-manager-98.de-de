@@ -15,12 +15,14 @@ Beim Erstellen benutzerdefinierter Annotationen ordnet Unified Manager Cluster, 
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradministrator“ verfügen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage-Management* > *Anmerkungen*.

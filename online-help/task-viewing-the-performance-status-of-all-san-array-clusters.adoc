@@ -15,18 +15,21 @@ Sie können die Ansicht Performance: All Clusters verwenden, um den Leistungssta
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die Überblicksinformationen für alle SAN-Array-Cluster in der Ansicht Leistung: Alle Cluster und Details auf der Seite Cluster / Performance Explorer anzeigen.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.

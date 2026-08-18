@@ -15,12 +15,14 @@ Sie können die Ansicht Health: All Clusters verwenden, um Ihr Inventar der Clus
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Rolle „Operator“, „Application Administrator“ oder „Storage Administrator“ verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können auch Details für einzelne Cluster anzeigen, beispielsweise für den Zustand des Clusters, die Kapazität, die Konfiguration, LIFs, Nodes, Und Festplatten in diesem Cluster mithilfe der Seite „Cluster/Health Details“.
@@ -29,6 +31,7 @@ Die Details in der Ansicht Health: All Clusters, Capacity: All Clusters und die 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Storage* > *Cluster*.

@@ -17,6 +17,7 @@ Sie müssen über die Rolle „Anwendungsadministrator“ oder „Speicheradmini
 
 
 
+[[list-view]]
 == Listenansicht
 
 In der Listenansicht werden Informationen über die verfügbaren Backupdateien angezeigt.
@@ -37,6 +38,7 @@ Erstellungsdatum und -Uhrzeit des Backups.
 
 
 
+[[command-buttons]]
 == Befehlsschaltflächen
 
 * *Backup-Einstellungen*

@@ -15,12 +15,14 @@ Standardmäßig speichert Unified Manager Ereignisdaten und Performance-Daten f�
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 Sie müssen über die Anwendungsadministratorrolle verfügen.
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Sie können die Aufbewahrungsfristen für diese beiden Datentypen auf der Seite Datenspeicherung ändern. Diese Einstellungen wirken sich auf die Aufbewahrung von Daten aus allen Clustern aus, die diese Instanz von Unified Manager überwacht.
@@ -41,6 +43,7 @@ Sie sollten die Aufbewahrungsdauer nur reduzieren, wenn Ihnen der Speicherplatz 
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Richtlinien* > *Datenspeicherung*.

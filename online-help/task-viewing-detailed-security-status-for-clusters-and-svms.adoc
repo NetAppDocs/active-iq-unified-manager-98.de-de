@@ -15,6 +15,7 @@ Die Seite Sicherheit zeigt den allgemeinen Sicherheitsstatus aller Cluster sowie
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Dashboard*.

@@ -15,6 +15,7 @@ Sie können lokale Benutzer oder Datenbankbenutzer über die Seite Benutzer hinz
 
 
 
+[[before-you-begin]]
 == Bevor Sie beginnen
 
 * Sie müssen über die Anwendungsadministratorrolle verfügen.
@@ -27,12 +28,14 @@ Der Zugriff auf die Benutzeroberfläche ist Benutzern vom Typ „`local`“ oder
 
 
 
+[[about-this-task]]
 == Über diese Aufgabe
 
 Wenn Sie eine Gruppe aus Windows Active Directory hinzufügen, können sich alle direkten Mitglieder und geschachtelten Untergruppen bei Unified Manager authentifizieren, es sei denn, geschachtelte Untergruppen sind deaktiviert. Wenn Sie eine Gruppe von OpenLDAP oder anderen Authentifizierungsdiensten hinzufügen, können sich nur die direkten Mitglieder dieser Gruppe bei Unified Manager authentifizieren.
 
 
 
+[[steps]]
 == Schritte
 
 . Klicken Sie im linken Navigationsbereich auf *Allgemein* > *Benutzer*.
